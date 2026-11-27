@@ -2,6 +2,7 @@
   const STORAGE_KEY = 'tarot_dharmacodex_progress_v1';
   const SETTINGS_KEY = 'tarot_dharmacodex_settings_v1';
   const FIVE_DAYS_MS = 5 * 24 * 60 * 60 * 1000;
+  const REVERSED_PROB = 0.15; // 15 % de probabilidad por carta
 
   let deck = [];
   let spreads = [];
@@ -24,10 +25,10 @@
     return rand % maxExclusive;
   }
 
-  function cryptoCoinFlip() {
-    const array = new Uint8Array(1);
+function cryptoCoinFlip(prob = REVERSED_PROB) {
+    const array = new Uint32Array(1);
     window.crypto.getRandomValues(array);
-    return (array[0] & 1) === 1;
+    return (array[0] / 4294967296) < prob;
   }
 
   function shuffleDeck(cards) {
@@ -40,12 +41,12 @@
   }
 
   // Exact binomial probability P(X = k) for n fair coins (p = 0.5)
-  function binomialProbability(n, k) {
+function binomialProbability(n, k, p = REVERSED_PROB) {
     let coeff = 1;
     for (let i = 1; i <= k; i++) {
       coeff = (coeff * (n - i + 1)) / i;
     }
-    return coeff * Math.pow(0.5, n);
+    return coeff * Math.pow(p, k) * Math.pow(1 - p, n - k);
   }
 
   // --- Persistence ---
@@ -462,7 +463,7 @@
       const binProb = (binomialProbability(n, k) * 100).toFixed(1);
       const cardProb = ((n / deck.length) * 100).toFixed(1);
       probBanner.innerHTML = `
-        <span><strong>Probabilidad de inversión:</strong> 50 % independiente por carta</span>
+        <span><strong>Probabilidad de inversión:</strong> ${Math.round(REVERSED_PROB * 100)} % independiente por carta</span>
         <span><strong>Combinación actual:</strong> ${k} de ${n} invertidas (probabilidad binomial: ${binProb} %)</span>
         <span><strong>Aparición por carta:</strong> ${n}/${deck.length} (≈ ${cardProb} %)</span>
       `;
