@@ -188,12 +188,12 @@ function binomialProbability(n, k, p = REVERSED_PROB) {
       if (palo !== 'todos' && card.palo !== palo) return false;
 
       if (numFilter !== 'todos') {
-        if (numFilter === '11-21') {
-          if (card.arcano !== 'mayor' || card.numero < 11) return false;
-        } else if (['Paje', 'Caballero', 'Reina', 'Rey'].includes(numFilter)) {
-          if (card.figura !== numFilter) return false;
+        const [grupo, valor] = numFilter.split(':');
+        if (card.arcano !== grupo) return false;
+        if (grupo === 'menor' && FIGURAS_MENORES.includes(valor)) {
+          if (card.figura !== valor) return false;
         } else {
-          if (String(card.numero) !== numFilter) return false;
+          if (String(card.numero) !== valor) return false;
         }
       }
 
@@ -730,6 +730,41 @@ function binomialProbability(n, k, p = REVERSED_PROB) {
     });
   }
 
+  // --- Filtro Número / Figura: mayores y menores en grupos separados ---
+  const FIGURAS_MENORES = ['Paje', 'Caballero', 'Reina', 'Rey'];
+
+  function populateNumeroFilter() {
+    const sel = document.getElementById('filterNumero');
+
+    const mayores = deck
+      .filter((c) => c.arcano === 'mayor')
+      .sort((a, b) => a.numero - b.numero);
+
+    const numerosMenores = [...new Set(
+      deck.filter((c) => c.arcano === 'menor' && c.numero != null).map((c) => c.numero)
+    )].sort((a, b) => a - b);
+
+    const figurasPresentes = FIGURAS_MENORES.filter((f) => deck.some((c) => c.figura === f));
+
+    const grupoMayores = document.createElement('optgroup');
+    grupoMayores.label = 'Arcanos Mayores (0 – 21)';
+    mayores.forEach((c) => {
+      grupoMayores.appendChild(new Option(`${c.numero} · ${c.nombre}`, `mayor:${c.numero}`));
+    });
+
+    const grupoMenores = document.createElement('optgroup');
+    grupoMenores.label = 'Arcanos Menores (As – 10 y cortes)';
+    numerosMenores.forEach((n) => {
+      grupoMenores.appendChild(new Option(n === 1 ? '1 · As' : String(n), `menor:${n}`));
+    });
+    figurasPresentes.forEach((f) => {
+      grupoMenores.appendChild(new Option(f, `menor:${f}`));
+    });
+
+    sel.appendChild(grupoMayores);
+    sel.appendChild(grupoMenores);
+  }
+
   // --- Bootstrap ---
   async function init() {
     try {
@@ -747,6 +782,7 @@ function binomialProbability(n, k, p = REVERSED_PROB) {
 
     initNavigation();
     updateHeaderStats();
+    populateNumeroFilter();
 
     ['searchInput', 'filterArcano', 'filterPalo', 'filterNumero', 'filterEstado'].forEach((id) => {
       document.getElementById(id).addEventListener('input', renderExploreGrid);
