@@ -1,0 +1,290 @@
+[
+{
+"id": "principiante-1",
+"nivel": "Principiante",
+"nombre": "Esencia del día",
+"cantidad": 1,
+"proposito": "Esta tirada de práctica pura con cartas derechas invita a explorar una energía arquetípica cotidiana para fomentar la atención plena y el autoconocimiento.",
+"pregunta_guia": "¿Qué cualidad interior o aprendizaje simbólico me invita a observar esta carta hoy?",
+"posiciones": [
+{
+"numero": 1,
+"nombre": "Enfoque presente",
+"significado": "Puede indicar la cualidad principal, el símbolo o la actitud consciente que merece tu atención en este momento."
+}
+],
+"lectura_sugerida": "Observa primero los símbolos visuales de la carta derecha sin juzgar. Lee su esencia y sus palabras clave para identificar qué resonancia despierta en tu estado actual. Revisa sus aspectos de luz y sombra, y finaliza respondiendo en silencio su pregunta de reflexión personal para integrar el consejo.",
+"invertidas": false
+},
+{
+"id": "principiante-2",
+"nivel": "Principiante",
+"nombre": "Luz y sombra",
+"cantidad": 2,
+"proposito": "Diseñada como práctica pura con cartas derechas, permite reconocer fortalezas disponibles y puntos ciegos internos frente a una inquietud personal.",
+"pregunta_guia": "¿Qué recurso consciente me apoya hoy y qué hábito interno requiere mayor claridad?",
+"posiciones": [
+{
+"numero": 1,
+"nombre": "Apoyo consciente",
+"significado": "Puede indicar una cualidad luminosa, un recurso interno o una actitud favorable ya disponible en tu presente."
+},
+{
+"numero": 2,
+"nombre": "Aspecto en sombra",
+"significado": "Invita a reflexionar sobre una resistencia, un temor o un patrón inconsciente que conviene observar con honestidad."
+}
+],
+"lectura_sugerida": "Mantén ambas cartas derechas y explora primero el listado de luz de la primera carta para reconocer tus herramientas disponibles. Después, consulta los rasgos de sombra de la segunda carta sin autocrítica severa. Compara ambos arquetipos para descubrir cómo tu fortaleza principal puede equilibrar el punto ciego señalado.",
+"invertidas": false
+},
+{
+"id": "principiante-3",
+"nivel": "Principiante",
+"nombre": "Brújula interior",
+"cantidad": 3,
+"proposito": "Ofrece una guía sencilla de tres cartas para explorar qué soltar, qué cultivar y qué consejo práctico aplicar hoy.",
+"pregunta_guia": "¿Qué necesito dejar ir y qué actitud puedo cultivar para avanzar con serenidad?",
+"posiciones": [
+{
+"numero": 1,
+"nombre": "Qué soltar",
+"significado": "Puede indicar una preocupación, un hábito desgastado o una expectativa que conviene liberar en este momento."
+},
+{
+"numero": 2,
+"nombre": "Qué cultivar",
+"significado": "Invita a reflexionar sobre la disposición interior, el hábito o la cualidad que nutre tu equilibrio."
+},
+{
+"numero": 3,
+"nombre": "Consejo práctico",
+"significado": "Puede señalar una acción concreta o una mirada consciente para integrar las dos cartas anteriores con coherencia."
+}
+],
+"lectura_sugerida": "Revisa cada carta en orden numérico observando si aparece derecha o invertida, ya que una carta invertida puede indicar bloqueos o resistencias internas. Relaciona la primera posición con la segunda para notar el contraste entre desapego y cultivo. Finaliza leyendo el consejo de la tercera carta como orientación cotidiana.",
+"invertidas": true
+},
+{
+"id": "iniciada-1",
+"nivel": "Iniciada",
+"nombre": "Raíz, nudo y guía",
+"cantidad": 3,
+"proposito": "Permite comprender la relación dinámica entre el origen de una situación, su bloqueo actual y una orientación constructiva.",
+"pregunta_guia": "¿Cómo se conectan la raíz de esta experiencia, mi obstáculo y el consejo?",
+"posiciones": [
+{
+"numero": 1,
+"nombre": "Causa origen",
+"significado": "Puede indicar el antecedente, la motivación profunda o el aprendizaje previo que dio forma al escenario presente."
+},
+{
+"numero": 2,
+"nombre": "Obstáculo actual",
+"significado": "Invita a reflexionar sobre la fricción, el temor o la resistencia que hoy dificulta el movimiento fluido."
+},
+{
+"numero": 3,
+"nombre": "Consejo integrador",
+"significado": "Puede sugerir una actitud consciente o un paso reflexivo para destrabar el nudo señalado anteriormente."
+}
+],
+"lectura_sugerida": "Observa primero cómo la causa origen alimenta o explica el obstáculo actual, prestando atención a los palos y a las cartas invertidas. Identifica si el bloqueo proviene de un exceso o carencia del elemento representado. Luego, lee la tercera carta como respuesta directa al obstáculo para formular una acción consciente.",
+"invertidas": true
+},
+{
+"id": "iniciada-2",
+"nivel": "Iniciada",
+"nombre": "Hilo del tiempo",
+"cantidad": 4,
+"proposito": "Explora la continuidad entre experiencias pasadas, postura presente, tendencia en desarrollo y un ancla de equilibrio personal.",
+"pregunta_guia": "¿Qué aprendizaje del pasado ilumina mi presente y hacia qué dirección evoluciona?",
+"posiciones": [
+{
+"numero": 1,
+"nombre": "Huella del pasado",
+"significado": "Puede indicar experiencias recientes o patrones aprendidos que todavía influyen en tu mirada sobre la situación."
+},
+{
+"numero": 2,
+"nombre": "Estado presente",
+"significado": "Invita a reflexionar sobre tus emociones, pensamientos o acciones predominantes en el momento actual."
+},
+{
+"numero": 3,
+"nombre": "Horizonte probable",
+"significado": "Puede indicar la dirección hacia donde tiende este proceso si mantienes tu actitud presente sin cambios."
+},
+{
+"numero": 4,
+"nombre": "Ancla interior",
+"significado": "Invita a reflexionar sobre el recurso personal que te ayuda a sostener coherencia durante esta transición."
+}
+],
+"lectura_sugerida": "Traza una línea narrativa desde la primera hasta la tercera carta para observar cómo tus decisiones pasadas moldean el presente y proyectan una tendencia abierta, nunca fija. Evalúa si las cartas invertidas señalan repeticiones o demoras. Finalmente, integra la cuarta carta como herramienta consciente para reorientar tu rumbo.",
+"invertidas": true
+},
+{
+"id": "iniciada-3",
+"nivel": "Iniciada",
+"nombre": "Cruce de decisiones",
+"cantidad": 5,
+"proposito": "Ayuda a discernir ante una encrucijada comparando dos caminos posibles junto con sus motivaciones internas y aprendizajes.",
+"pregunta_guia": "¿Qué valores y aprendizajes distinguen las dos opciones que hoy considero?",
+"posiciones": [
+{
+"numero": 1,
+"nombre": "Centro de decisión",
+"significado": "Puede indicar la necesidad esencial o el dilema interno desde el cual estás evaluando tus alternativas."
+},
+{
+"numero": 2,
+"nombre": "Sendero uno",
+"significado": "Invita a reflexionar sobre la dinámica principal y el enfoque que caracterizan la primera opción."
+},
+{
+"numero": 3,
+"nombre": "Aprendizaje uno",
+"significado": "Puede indicar el reto o el crecimiento personal asociado a transitar el primer camino elegido."
+},
+{
+"numero": 4,
+"nombre": "Sendero dos",
+"significado": "Invita a reflexionar sobre la cualidad esencial y la energía que definen la segunda alternativa."
+},
+{
+"numero": 5,
+"nombre": "Aprendizaje dos",
+"significado": "Puede indicar la experiencia o la transformación interna que surgiría al optar por esta vía."
+}
+],
+"lectura_sugerida": "Comienza analizando la primera carta para aclarar qué buscas realmente. Luego contrasta la pareja formada por las posiciones dos y tres frente a la pareja de cuatro y cinco. Observa presencia de arcanos mayores o cartas invertidas para distinguir qué opción resuena más con tus valores profundos.",
+"invertidas": true
+},
+{
+"id": "aquelarre-1",
+"nivel": "Del Aquelarre",
+"nombre": "Altar de elementos",
+"cantidad": 5,
+"proposito": "Integra los cuatro palos elementales y el eje espiritual para diagnosticar el equilibrio energético de tu momento vital.",
+"pregunta_guia": "¿Cómo dialogan mi voluntad, emoción, mente y cuerpo alrededor de mi propósito?",
+"posiciones": [
+{
+"numero": 1,
+"nombre": "Fuego y voluntad",
+"significado": "Puede indicar cómo canalizas hoy tu impulso creativo, tu pasión vital y tu capacidad de iniciativa."
+},
+{
+"numero": 2,
+"nombre": "Agua y emoción",
+"significado": "Invita a reflexionar sobre el flujo de tus afectos, tu receptividad intuitiva y tus vínculos."
+},
+{
+"numero": 3,
+"nombre": "Aire y mente",
+"significado": "Puede señalar la claridad de tus pensamientos, tu comunicación y tus creencias predominantes."
+},
+{
+"numero": 4,
+"nombre": "Tierra y cuerpo",
+"significado": "Invita a reflexionar sobre tu arraigo práctico, tus hábitos cotidianos y la gestión de recursos."
+},
+{
+"numero": 5,
+"nombre": "Síntesis del espíritu",
+"significado": "Integra las cuatro cartas elementales anteriores para revelar el sentido profundo que las unifica."
+}
+],
+"lectura_sugerida": "Compara el palo natural de cada carta con la posición elemental que ocupa: cuando coinciden, el elemento fluye con naturalidad; si aparece invertida o de un palo opuesto, puede indicar tensión o compensación. Reúne los cuatro hallazgos y léelos a través de la quinta carta como síntesis integradora.",
+"invertidas": true
+},
+{
+"id": "aquelarre-2",
+"nivel": "Del Aquelarre",
+"nombre": "Danza de polaridades",
+"cantidad": 6,
+"proposito": "Explora dos pares de fuerzas opuestas en tu psique para integrar sus tensiones y descubrir una síntesis creativa.",
+"pregunta_guia": "¿Qué polaridades internas buscan reconciliación para transformar mi conflicto en sabiduría?",
+"posiciones": [
+{
+"numero": 1,
+"nombre": "Polo de acción",
+"significado": "Puede indicar tu impulso externo, tu necesidad de expresarte o la fuerza activa en juego."
+},
+{
+"numero": 2,
+"nombre": "Polo de receptividad",
+"significado": "Invita a reflexionar sobre tu escucha interna, tu pausa necesaria o la energía que acoge."
+},
+{
+"numero": 3,
+"nombre": "Deseo consciente",
+"significado": "Puede indicar aquello que afirmas querer construir o sostener desde tu mente racional."
+},
+{
+"numero": 4,
+"nombre": "Temor inconsciente",
+"significado": "Invita a reflexionar sobre la resistencia oculta que actúa en sentido opuesto a tu deseo."
+},
+{
+"numero": 5,
+"nombre": "Puente de polaridades",
+"significado": "Integra las primeras cuatro cartas mostrando el punto medio donde los opuestos dejan de combatirse."
+},
+{
+"numero": 6,
+"nombre": "Aprendizaje alquímico",
+"significado": "Integra el puente anterior con toda la tirada para revelar una comprensión más madura."
+}
+],
+"lectura_sugerida": "Lee primero el eje horizontal entre acción y receptividad, y luego el eje vertical entre deseo y temor, observando si las cartas invertidas revelan desequilibrios extremos. Usa la quinta carta para sintetizar ambos pares de opuestos en un acuerdo interno, y concluye con la sexta como sabiduría integrada.",
+"invertidas": true
+},
+{
+"id": "aquelarre-3",
+"nivel": "Del Aquelarre",
+"nombre": "Rueda de ciclos",
+"cantidad": 7,
+"proposito": "Mapea las fases de un ciclo vital completo para integrar cierres, gestación, florecimiento y renovación consciente.",
+"pregunta_guia": "¿En qué fase de mi ciclo vital me encuentro y cómo integro su enseñanza?",
+"posiciones": [
+{
+"numero": 1,
+"nombre": "Semilla anterior",
+"significado": "Puede indicar la intención o la experiencia pasada que dio inicio al ciclo que transitas."
+},
+{
+"numero": 2,
+"nombre": "Gestación silenciosa",
+"significado": "Invita a reflexionar sobre aquello que maduró en lo oculto antes de hacerse visible."
+},
+{
+"numero": 3,
+"nombre": "Florecimiento actual",
+"significado": "Puede indicar lo que hoy se manifiesta con mayor claridad y demanda tu presencia activa."
+},
+{
+"numero": 4,
+"nombre": "Cosecha y corte",
+"significado": "Invita a reflexionar sobre qué frutos recoger y qué aspectos ya cumplieron su función."
+},
+{
+"numero": 5,
+"nombre": "Descanso fértil",
+"significado": "Puede indicar la pausa necesaria para asimilar aprendizajes antes de emprender un nuevo impulso."
+},
+{
+"numero": 6,
+"nombre": "Hilo del ciclo",
+"significado": "Integra las cinco fases anteriores señalando el patrón recurrente que atraviesa toda la espiral."
+},
+{
+"numero": 7,
+"nombre": "Umbral de renovación",
+"significado": "Integra el hilo del ciclo con tu presente para orientar el próximo comienzo consciente."
+}
+],
+"lectura_sugerida": "Recorre en círculo las primeras cinco cartas observando los números y figuras de los arcanos para identificar dónde el ritmo avanza o se detiene por cartas invertidas. Luego lee la sexta carta integrando las cinco fases en una sola narrativa, y usa la séptima para definir tu siguiente paso.",
+"invertidas": true
+}
+]

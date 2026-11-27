@@ -1,0 +1,3411 @@
+[
+  {
+    "id": "M00",
+    "arcano": "mayor",
+    "numero": 0,
+    "palo": null,
+    "figura": null,
+    "nombre": "El Loco",
+    "palabras_clave": [
+      "Inicio",
+      "Libertad",
+      "Fe"
+    ],
+    "esencia": "Salto de fe hacia lo desconocido. Apertura sin garantías, sostenida por la confianza en el propio camino.",
+    "significado": "Encarna la inocencia de quien inicia un viaje sin saber del todo a dónde lleva. Anima a dejar atrás el miedo y dar el primer paso con apertura.",
+    "simbolos": [
+      "Rosa blanca",
+      "Sol",
+      "Perro blanco",
+      "Precipicio",
+      "Bolsa o morral en un bastón",
+      "Montañas al fondo"
+    ],
+    "luz": [
+      "Espontaneidad",
+      "Fe en la vida",
+      "Apertura",
+      "Nuevos comienzos",
+      "Confianza",
+      "Ligereza"
+    ],
+    "sombra": [
+      "Imprudencia",
+      "Miedo a comprometerse",
+      "Ingenuidad",
+      "Huida de responsabilidades",
+      "Decisiones sin reflexión"
+    ],
+    "amor": "Relaciones que nacen de la espontaneidad y la confianza. Propone amar sin exigir garantías, abriendo espacio al encuentro auténtico.",
+    "trabajo_dinero": "Momento favorable para iniciar proyectos nuevos. Conviene actuar con visión, pero sin ignorar los riesgos básicos antes de saltar.",
+    "espiritualidad": "Llamado a seguir la intuición y el propósito. Confiar en que cada paso honesto es parte del camino.",
+    "consejo": "Da el primer paso aunque no veas todo. Lleva lo esencial y deja que la experiencia enseñe el resto.",
+    "reflexion": "¿Qué paso necesito dar hoy aunque todavía no tenga todas las respuestas?",
+    "invertida": "Invertido, El Loco muestra el salto sin reflexión: imprudencia, decisiones tomadas por impulso o miedo a comprometerse. Conviene evaluar riesgos, asumir responsabilidades o recuperar la confianza para actuar con mayor conciencia.",
+    "imagen": null
+  },
+  {
+    "id": "M01",
+    "arcano": "mayor",
+    "numero": 1,
+    "palo": null,
+    "figura": null,
+    "nombre": "El Mago",
+    "palabras_clave": [
+      "Acción",
+      "Creatividad",
+      "Manifestación"
+    ],
+    "esencia": "El poder consciente de transformar ideas en realidad. Canaliza la voluntad y los recursos disponibles para iniciar algo nuevo.",
+    "significado": "Refleja la iniciativa, la destreza y el dominio para materializar propósitos concretos. Muestra que dispones de los recursos precisos para proceder con lucidez y firmeza.",
+    "simbolos": [
+      "Símbolo del infinito sobre la cabeza",
+      "Vara levantada en la mano derecha",
+      "Mesa con copa, espada, oro y basto",
+      "Cinturón de serpiente",
+      "Túnica blanca y manto rojo",
+      "Rosas rojas y lirios blancos"
+    ],
+    "luz": [
+      "Iniciativa creativa",
+      "Claridad de intención",
+      "Dominio de recursos",
+      "Comunicación efectiva",
+      "Poder de manifestación",
+      "Confianza personal"
+    ],
+    "sombra": [
+      "Manipulación",
+      "Falsas apariencias",
+      "Bloqueo creativo",
+      "Engaño o charlatanería",
+      "Falta de enfoque"
+    ],
+    "amor": "Etapa de atracción consciente y comunicación abierta. Favorece tomar la iniciativa para expresar deseos auténticos y construir vínculos claros.",
+    "trabajo_dinero": "Etapa propicia para emprender, exponer ideas y lanzar proyectos. Emplea tu ingenio y habilidades para concretar oportunidades reales.",
+    "espiritualidad": "Conexión activa entre el plano espiritual y el terrenal. Reconoce tu capacidad consciente para cocrear y dirigir tu energía.",
+    "consejo": "Actúa ahora con determinación y aprovecha los recursos que ya tienes frente a ti para dar forma a tus ideas.",
+    "reflexion": "¿Qué idea o proyecto estoy listo para manifestar hoy con mis propios recursos?",
+    "invertida": "Invertido, El Mago advierte sobre engaños, manipulación o falsas apariencias. También señala bloqueos creativos, dispersión entre varias opciones, problemas de comunicación o retrasos en planes y proyectos por ausencia de enfoque claro.",
+    "imagen": null
+  },
+  {
+    "id": "M02",
+    "arcano": "mayor",
+    "numero": 2,
+    "palo": null,
+    "figura": null,
+    "nombre": "La Sacerdotisa",
+    "palabras_clave": [
+      "Intuición",
+      "Misterio",
+      "Sabiduría"
+    ],
+    "esencia": "Sabiduría silenciosa que habita en el interior. Llama a atender la intuición y honrar lo que aún permanece oculto.",
+    "significado": "Representa el conocimiento profundo, la introspección y la conexión con el mundo inconsciente. Señala momentos donde conviene observar en silencio antes de actuar o hablar.",
+    "simbolos": [
+      "Dos columnas blanca y negra",
+      "Corona lunar",
+      "Luna creciente a sus pies",
+      "Cruz en el pecho",
+      "Pergamino con inscripción TORA",
+      "Velo detrás del trono"
+    ],
+    "luz": [
+      "Intuición profunda",
+      "Sabiduría interior",
+      "Discreción",
+      "Percepción espiritual",
+      "Serenidad receptiva",
+      "Comprensión silenciosa"
+    ],
+    "sombra": [
+      "Secretismo excesivo",
+      "Desconexión emocional",
+      "Consejos engañosos",
+      "Pasividad evasiva",
+      "Uso egoísta del saber"
+    ],
+    "amor": "Vínculos marcados por la profundidad emocional y la discreción. Pide atender tu voz interior antes de apresurar definiciones.",
+    "trabajo_dinero": "Conviene analizar los detalles con reserva y prudencia. Confía en tu intuición y busca formación o guía antes de decidir.",
+    "espiritualidad": "Puerta hacia los misterios del inconsciente y la meditación. Desarrolla la escucha interna para comprender verdades sutiles del alma.",
+    "consejo": "Guarda silencio, observa con atención y permite que tu intuición revele la respuesta en el momento oportuno.",
+    "reflexion": "¿Qué me está diciendo mi voz interior cuando me detengo a escuchar en silencio?",
+    "invertida": "Invertida, La Sacerdotisa indica desconexión de la intuición, secretos revelados o mal utilizados, y consejos poco confiables. Advierte sobre guías equivocados, información falsa o la urgencia de recuperar tu criterio interno.",
+    "imagen": null
+  },
+  {
+    "id": "M03",
+    "arcano": "mayor",
+    "numero": 3,
+    "palo": null,
+    "figura": null,
+    "nombre": "La Emperatriz",
+    "palabras_clave": [
+      "Abundancia",
+      "Creatividad",
+      "Nutrición"
+    ],
+    "esencia": "La fuerza fértil que nutre y hace florecer la vida. Representa la abundancia, el afecto y la creación genuina.",
+    "significado": "Simboliza la fertilidad, el bienestar material, la armonía en el hogar y la fuerza creativa. Anima a recibir con agradecimiento y cuidar aquello que deseas ver crecer.",
+    "simbolos": [
+      "Corona de doce estrellas",
+      "Escudo con símbolo de Venus",
+      "Cetro",
+      "Campo de trigo",
+      "Bosque y corriente de agua",
+      "Trono con cojines"
+    ],
+    "luz": [
+      "Abundancia fértil",
+      "Generosidad afectiva",
+      "Creatividad floreciente",
+      "Armonía familiar",
+      "Cuidado maternal",
+      "Bienestar material"
+    ],
+    "sombra": [
+      "Dependencia emocional",
+      "Bloqueo creativo",
+      "Sobreprotección",
+      "Desorden doméstico",
+      "Estancamiento material"
+    ],
+    "amor": "Escenario de ternura, reciprocidad y crecimiento afectivo. Impulsa relaciones cálidas, la vida familiar y el disfrute compartido con generosidad.",
+    "trabajo_dinero": "Prosperidad y avance en proyectos creativos o domésticos. Organiza los aspectos prácticos para consolidar frutos duraderos y abundantes.",
+    "espiritualidad": "Conexión profunda con los ciclos de la naturaleza y la energía creadora. Honra el cuerpo y la compasión cotidiana.",
+    "consejo": "Nutre tus proyectos y vínculos con paciencia y afecto, permitiendo que la abundancia crezca de forma natural.",
+    "reflexion": "¿Qué área de mi vida necesita hoy mayor cuidado, paciencia y nutrición para florecer?",
+    "invertida": "Invertida, La Emperatriz señala bloqueos creativos, tensiones financieras o desequilibrios en el hogar. Puede reflejar apego excesivo, descuido personal o dificultad para dar y recibir apoyo de manera sana y equilibrada.",
+    "imagen": null
+  },
+  {
+    "id": "M04",
+    "arcano": "mayor",
+    "numero": 4,
+    "palo": null,
+    "figura": null,
+    "nombre": "El Emperador",
+    "palabras_clave": [
+      "Orden",
+      "Autoridad",
+      "Estabilidad"
+    ],
+    "esencia": "La estructura firme que sostiene y protege. Representa el liderazgo responsable, los límites claros y el dominio propio.",
+    "significado": "Encarna la estabilidad, la disciplina, la razón y el orden del entorno. Marca un instante para fijar bases firmes, asumir responsabilidades y proceder con autoridad madura.",
+    "simbolos": [
+      "Trono con cabezas de carnero",
+      "Corona cerrada",
+      "Cetro ankh y orbe",
+      "Manto rojo sobre armadura",
+      "Montañas áridas al fondo",
+      "Barba blanca"
+    ],
+    "luz": [
+      "Liderazgo firme",
+      "Orden y estructura",
+      "Límites saludables",
+      "Protección y respaldo",
+      "Disciplina constante",
+      "Seguridad material"
+    ],
+    "sombra": [
+      "Autoritarismo rígido",
+      "Terquedad",
+      "Control excesivo",
+      "Frialdad emocional",
+      "Abuso de poder"
+    ],
+    "amor": "Relaciones basadas en el compromiso, la lealtad y la estabilidad. Requiere establecer acuerdos claros y equilibrio entre protección y libertad.",
+    "trabajo_dinero": "Excelente etapa para consolidar negocios, liderar equipos y ordenar finanzas. La planificación metódica garantiza seguridad y progreso profesional.",
+    "espiritualidad": "Integración del propósito espiritual mediante la disciplina y la responsabilidad personal. Construye coherencia firme entre valores y acciones.",
+    "consejo": "Pon orden en tus asuntos, define límites claros y sostén tus decisiones con disciplina y serenidad.",
+    "reflexion": "¿Qué estructura o límite necesito establecer hoy para construir mayor estabilidad en mi vida?",
+    "invertida": "Invertido, El Emperador manifiesta rigidez, terquedad, autoritarismo o conflictos con figuras de autoridad. A su vez, deja ver desorden, falta de disciplina o gestión deficiente que pide recuperar el control propio con madurez.",
+    "imagen": null
+  },
+  {
+    "id": "M05",
+    "arcano": "mayor",
+    "numero": 5,
+    "palo": null,
+    "figura": null,
+    "nombre": "El Sumo Sacerdote",
+    "palabras_clave": [
+      "Tradición",
+      "Enseñanza",
+      "Compromiso"
+    ],
+    "esencia": "El puente entre la sabiduría espiritual y la vida cotidiana. Representa la enseñanza, los valores compartidos y el compromiso.",
+    "significado": "Cifra la guía espiritual, el aprendizaje formal, las instituciones y las creencias estructuradas. Motiva a ahondar en el saber, honrar la ética y buscar consejo sabio.",
+    "simbolos": [
+      "Triple corona",
+      "Cetro de cruz triple",
+      "Mano en gesto de bendición",
+      "Dos columnas grises",
+      "Dos llaves cruzadas",
+      "Dos acólitos arrodillados"
+    ],
+    "luz": [
+      "Sabiduría compartida",
+      "Compromiso ético",
+      "Aprendizaje profundo",
+      "Guía espiritual",
+      "Cohesión y unidad",
+      "Respeto por valores"
+    ],
+    "sombra": [
+      "Dogmatismo rígido",
+      "Abuso de autoridad",
+      "Crítica intolerante",
+      "Conformismo ciego",
+      "Malos mentores"
+    ],
+    "amor": "Compromiso serio, valores compartidos y deseo de formalizar la relación. Favorece la unión estable fundada en el respeto mutuo.",
+    "trabajo_dinero": "Crecimiento dentro de organizaciones establecidas, estudios o mentorías. Actuar con integridad y seguir métodos probados impulsa tu avance.",
+    "espiritualidad": "Búsqueda de sentido a través del estudio, la tradición y la guía de maestros. Une lo sagrado con tus actos.",
+    "consejo": "Comprométete con tu aprendizaje, honra tus principios y busca orientación sabia antes de dar el siguiente paso.",
+    "reflexion": "¿Qué enseñanzas o valores fundamentales guían hoy mis decisiones y compromisos más importantes?",
+    "invertida": "Invertido, El Sumo Sacerdote advierte sobre dogmatismo, abuso de poder, malos consejos o estructuras que limitan tu crecimiento. Invita a cuestionar normas rígidas y a seguir tu propio criterio con autenticidad.",
+    "imagen": null
+  },
+  {
+    "id": "M06",
+    "arcano": "mayor",
+    "numero": 6,
+    "palo": null,
+    "figura": null,
+    "nombre": "Los Enamorados",
+    "palabras_clave": [
+      "Amor",
+      "Decisiones",
+      "Armonía"
+    ],
+    "esencia": "La unión consciente desde el corazón y la madurez. Propone elegir el amor por encima del miedo.",
+    "significado": "Representa vínculos profundos, afinidad y un punto de inflexión que exige tomar decisiones maduras. Pide alinear deseos y valores pensando en la plenitud a largo plazo.",
+    "simbolos": [
+      "Ángel Rafael entre nubes",
+      "Hombre y mujer desnudos",
+      "Sol radiante",
+      "Montaña al fondo",
+      "Árbol con serpiente",
+      "Árbol de llamas"
+    ],
+    "luz": [
+      "Elección consciente",
+      "Amor genuino",
+      "Armonía en pareja",
+      "Madurez afectiva",
+      "Coherencia interior",
+      "Alianzas duraderas"
+    ],
+    "sombra": [
+      "Indecisión prolongada",
+      "Triángulos amorosos",
+      "Búsqueda de gratificación inmediata",
+      "Miedo al compromiso",
+      "Conflictos de valores"
+    ],
+    "amor": "Instante de encuentro significativo y compromiso sincero. Anima a elegir desde el corazón y construir bienestar duradero juntos.",
+    "trabajo_dinero": "Surgen alianzas valiosas o decisiones laborales importantes. Conviene priorizar proyectos con sentido y estabilidad antes que ganancias pasajeras.",
+    "espiritualidad": "Integración de opuestos y guía superior para discernir. Alinea tus actos cotidianos con aquello que tu alma valora.",
+    "consejo": "Elige el camino del amor y la coherencia, mirando más allá del impulso inmediato hacia tu bienestar futuro.",
+    "reflexion": "¿Qué decisión importante necesito tomar hoy desde mis valores más profundos y auténticos?",
+    "invertida": "Invertida, Los Enamorados señala dudas, desarmonía en los vínculos o decisiones tomadas por impulso y miedo. Alerta sobre tentaciones pasajeras, evasión afectiva o la necesidad de asumir responsabilidad antes de elegir.",
+    "imagen": null
+  },
+  {
+    "id": "M07",
+    "arcano": "mayor",
+    "numero": 7,
+    "palo": null,
+    "figura": null,
+    "nombre": "El Carro",
+    "palabras_clave": [
+      "Determinación",
+      "Progreso",
+      "Victoria"
+    ],
+    "esencia": "El avance firme mediante voluntad y autocontrol. Integra fuerzas opuestas para conquistar metas con dirección clara.",
+    "significado": "Encarna el triunfo, la determinación y el empuje para superar obstáculos mediante disciplina. Favorece viajes, nuevos rumbos laborales y logros cuando mantienes el enfoque y el equilibrio.",
+    "simbolos": [
+      "Carro de piedra",
+      "Dos esfinges blanca y negra",
+      "Corona de estrellas",
+      "Medias lunas en los hombros",
+      "Dosel estrellado",
+      "Ciudad amurallada al fondo"
+    ],
+    "luz": [
+      "Determinación firme",
+      "Victoria merecida",
+      "Autocontrol emocional",
+      "Avance decidido",
+      "Claridad de rumbo",
+      "Viajes favorables"
+    ],
+    "sombra": [
+      "Arrogancia",
+      "Falta de dirección",
+      "Impulsividad descontrolada",
+      "Retrasos en viajes",
+      "Descuidar detalles importantes"
+    ],
+    "amor": "Relaciones que avanzan con entusiasmo y compromiso activo. Requiere equilibrar deseos propios y ajenos para mantener un rumbo común.",
+    "trabajo_dinero": "Etapa de progreso, ascensos y expansión profesional. Mantén la disciplina y revisa cada detalle antes de firmar acuerdos.",
+    "espiritualidad": "Dominio consciente sobre los impulsos internos. Reúne tus aprendizajes pasados para avanzar con firmeza en tu propósito vital.",
+    "consejo": "Toma las riendas con determinación, mantén el equilibrio interno y avanza con enfoque hacia tu objetivo.",
+    "reflexion": "¿Qué fuerzas opuestas en mi interior debo equilibrar hoy para seguir adelante con determinación?",
+    "invertida": "Invertido, El Carro advierte sobre arrogancia, pérdida de control o retrasos en planes y viajes. Señala la urgencia de frenar, revisar detalles pasados por alto y recuperar el enfoque antes de seguir avanzando.",
+    "imagen": null
+  },
+  {
+    "id": "M08",
+    "arcano": "mayor",
+    "numero": 8,
+    "palo": null,
+    "figura": null,
+    "nombre": "La Fuerza",
+    "palabras_clave": [
+      "Paciencia",
+      "Coraje",
+      "Compasión"
+    ],
+    "esencia": "El dominio sereno del espíritu sobre el instinto. Transforma el miedo y la tensión mediante paciencia y compasión.",
+    "significado": "Representa la fortaleza interior, la resistencia tranquila y la capacidad de mantener tu postura sin violencia. Indica recuperación física o emocional al guiar tus impulsos desde la conciencia.",
+    "simbolos": [
+      "Mujer con túnica blanca",
+      "León domado con suavidad",
+      "Símbolo del infinito sobre la cabeza",
+      "Guirnalda de rosas",
+      "Fondo amarillo luminoso"
+    ],
+    "luz": [
+      "Fortaleza interior",
+      "Paciencia serena",
+      "Compasión firme",
+      "Autodominio consciente",
+      "Recuperación vital",
+      "Valentía tranquila"
+    ],
+    "sombra": [
+      "Inseguridad interior",
+      "Evitar conflictos necesarios",
+      "Reacciones impulsivas",
+      "Agotamiento emocional",
+      "Seguir a la multitud"
+    ],
+    "amor": "Vínculos sostenidos por la ternura, la paciencia y la consideración mutua. Anima a comprender emociones intensas sin imponer control.",
+    "trabajo_dinero": "Perseverancia y temple para superar desafíos laborales. La constancia paciente y la integridad te permitirán sostener tu posición.",
+    "espiritualidad": "Alquimia interior donde la conciencia eleva los instintos básicos. Encuentra poder verdadero en la mansedumbre y la compasión.",
+    "consejo": "Conserva la calma, apóyate en tu fortaleza interior y responde con paciencia y compasión ante cualquier desafío.",
+    "reflexion": "¿Cómo puedo afrontar hoy este desafío con mayor paciencia, serenidad y compasión hacia mí?",
+    "invertida": "Invertida, La Fuerza refleja dudas sobre tu propio valor, desgaste emocional o tendencia a evitar conflictos necesarios. Puede indicar impulsividad desbordada o ceder ante presiones externas en lugar de sostener tus principios.",
+    "imagen": null
+  },
+  {
+    "id": "M09",
+    "arcano": "mayor",
+    "numero": 9,
+    "palo": null,
+    "figura": null,
+    "nombre": "El Ermitaño",
+    "palabras_clave": [
+      "Introspección",
+      "Soledad",
+      "Sabiduría"
+    ],
+    "esencia": "La búsqueda silenciosa de verdad en el interior. Propone retirarse del ruido externo para iluminar el propio camino.",
+    "significado": "Condensa la reflexión profunda, el análisis cuidadoso y la sabiduría ganada en la quietud. Marca un retiro productivo para sanar, estudiar y escuchar tu guía interna.",
+    "simbolos": [
+      "Farol con estrella de seis puntas",
+      "Bastón largo de apoyo",
+      "Túnica y capucha gris",
+      "Cumbre nevada",
+      "Barba blanca"
+    ],
+    "luz": [
+      "Sabiduría interior",
+      "Soledad productiva",
+      "Prudencia reflexiva",
+      "Sanación emocional",
+      "Claridad espiritual",
+      "Autoconocimiento profundo"
+    ],
+    "sombra": [
+      "Aislamiento excesivo",
+      "Soledad impuesta",
+      "Desconexión afectiva",
+      "Exceso de autocrítica",
+      "Evasión del mundo"
+    ],
+    "amor": "Necesidad de espacio personal para comprender sentimientos y sanar heridas. Favorece vínculos maduros basados en el respeto al silencio.",
+    "trabajo_dinero": "Etapa propicia para investigar, planificar con cautela y trabajar de forma independiente. Conserva tu energía y actúa con prudencia.",
+    "espiritualidad": "Camino del buscador que halla respuestas mediante la contemplación. Tu luz interior guía cada paso en la oscuridad.",
+    "consejo": "Tómate un tiempo a solas para reflexionar en silencio y encontrar las respuestas que ya habitan en ti.",
+    "reflexion": "¿Qué verdad interior logro escuchar cuando me permito hacer silencio y retirarme del ruido?",
+    "invertida": "Invertido, El Ermitaño señala aislamiento forzoso, sensación de abandono o resistencia a mirar hacia adentro. Puede indicar desconexión de tus redes de apoyo o miedo a enfrentar en soledad aquello que necesita sanar.",
+    "imagen": null
+  },
+  {
+    "id": "M10",
+    "arcano": "mayor",
+    "numero": 10,
+    "palo": null,
+    "figura": null,
+    "nombre": "La Rueda de la Fortuna",
+    "palabras_clave": [
+      "Destino",
+      "Cambio",
+      "Ciclos"
+    ],
+    "esencia": "Movimiento constante de los ciclos vitales. Anima a fluir con los giros del destino y aprovechar oportunidades.",
+    "significado": "Representa los cambios inesperados, la suerte y la evolución natural de las circunstancias. Recuerda que todo está en transformación y anima a confiar en el orden mayor.",
+    "simbolos": [
+      "Rueda con letras TARO y símbolos",
+      "Esfinge con espada en la cima",
+      "Anubis ascendiendo a la derecha",
+      "Serpiente descendiendo a la izquierda",
+      "Cuatro figuras aladas en las esquinas"
+    ],
+    "luz": [
+      "Giro favorable",
+      "Nuevas oportunidades",
+      "Aceptación del cambio",
+      "Sincronicidad positiva",
+      "Evolución constante",
+      "Apertura al destino"
+    ],
+    "sombra": [
+      "Resistencia al cambio",
+      "Sensación de inestabilidad",
+      "Apego al control",
+      "Imprevisibilidad desconcertante",
+      "Repetir viejos ciclos"
+    ],
+    "amor": "Giros inesperados que renuevan la vida afectiva o traen encuentros significativos. Fluye con los cambios sin aferrarte al pasado.",
+    "trabajo_dinero": "Llegada de oportunidades repentinas y cambios positivos de rumbo. Mantente atento para actuar cuando la rueda gire a tu favor.",
+    "espiritualidad": "Comprensión de los ciclos de vida, muerte y renacimiento. Trasciende el ego al aceptar el movimiento sabio del universo.",
+    "consejo": "Acoge los giros del destino con apertura, deja ir el control rígido y aprovecha las oportunidades que surgen.",
+    "reflexion": "¿Qué cambio de ciclo me invita la vida a aceptar con mayor confianza?",
+    "invertida": "Invertida, La Rueda de la Fortuna muestra resistencia al cambio, demoras en adaptarse a nuevas circunstancias o percepción de estancamiento. Pide liberar el control y aprender la lección que trae este giro temporal.",
+    "imagen": null
+  },
+  {
+    "id": "M11",
+    "arcano": "mayor",
+    "numero": 11,
+    "palo": null,
+    "figura": null,
+    "nombre": "La Justicia",
+    "palabras_clave": [
+      "Equilibrio",
+      "Verdad",
+      "Responsabilidad"
+    ],
+    "esencia": "La ley de causa y efecto aplicada con claridad. Pide actuar con integridad, objetividad y responsabilidad sobre los propios actos.",
+    "significado": "Resume la equidad, las decisiones imparciales y la resolución justa de asuntos legales o personales. Muestra que recogerás frutos acordes con tu honestidad y criterio ético.",
+    "simbolos": [
+      "Balanza en la mano izquierda",
+      "Espada alzada en la mano derecha",
+      "Corona con tres almenas",
+      "Dos columnas de piedra",
+      "Velo púrpura detrás del trono",
+      "Túnica roja"
+    ],
+    "luz": [
+      "Imparcialidad clara",
+      "Integridad ética",
+      "Equilibrio justo",
+      "Responsabilidad asumida",
+      "Decisiones objetivas",
+      "Resolución favorable"
+    ],
+    "sombra": [
+      "Trato injusto",
+      "Rigidez al juzgar",
+      "Evadir responsabilidades",
+      "Desequilibrio en acuerdos",
+      "Intolerancia crítica"
+    ],
+    "amor": "Relaciones basadas en la reciprocidad, la honestidad y el respeto mutuo. Pide evaluar acuerdos con claridad y equidad.",
+    "trabajo_dinero": "Resolución favorable de trámites, contratos o asuntos legales cuando actúas con transparencia. Mantén tus cuentas y compromisos en orden.",
+    "espiritualidad": "Reconocimiento del karma y la coherencia entre intención y acción. Cultiva la verdad interior sin juzgarte con dureza.",
+    "consejo": "Mantente fiel a tus valores, evalúa los hechos con objetividad y asume con integridad las consecuencias de tus actos.",
+    "reflexion": "¿Qué asunto actual pide hoy mayor honestidad, equilibrio y responsabilidad de mi parte?",
+    "invertida": "Invertida, La Justicia advierte sobre desequilibrios, parcialidad, trato injusto o consecuencias de evitar responsabilidades. Exige examinar tus actos con honestidad, corregir errores y restablecer la equidad sin caer en juicios severos.",
+    "imagen": null
+  },
+  {
+    "id": "M12",
+    "arcano": "mayor",
+    "numero": 12,
+    "palo": null,
+    "figura": null,
+    "nombre": "El Colgado",
+    "palabras_clave": [
+      "Pausa",
+      "Perspectiva",
+      "Entrega"
+    ],
+    "esencia": "Pausa consciente que transforma la mirada. Sugiere dejar ir el control para hallar una verdad más profunda.",
+    "significado": "Representa una etapa de espera, suspensión y entrega voluntaria que permite observar la vida desde otro ángulo. Sugiere aceptar un sacrificio necesario para liberar bloqueos y ganar sabiduría.",
+    "simbolos": [
+      "Hombre colgado por el pie derecho",
+      "Pierna izquierda cruzada formando un cuatro",
+      "Halo luminoso alrededor de la cabeza",
+      "Madero en forma de cruz Tau",
+      "Brotes verdes en los troncos",
+      "Pantalón rojo y túnica azul"
+    ],
+    "luz": [
+      "Nueva perspectiva",
+      "Aceptación serena",
+      "Sabiduría espiritual",
+      "Entrega consciente",
+      "Paciencia activa",
+      "Desapego liberador"
+    ],
+    "sombra": [
+      "Estancamiento prolongado",
+      "Sacrificios innecesarios",
+      "Apego al pasado",
+      "Ingenuidades costosas",
+      "Pasividad evasiva"
+    ],
+    "amor": "Pausa fértil para mirar la relación desde otro ángulo. Sugiere abandonar exigencias y comprender al otro sin prisa.",
+    "trabajo_dinero": "Proyectos en espera o demoras temporales. Aprovecha este alto para replantear estrategias antes de tomar nuevas decisiones financieras.",
+    "espiritualidad": "Iniciación interior mediante el desapego y la quietud. Al rendir el ego, emerge una iluminación serena y reveladora.",
+    "consejo": "Detente, acepta el momento presente y observa tu situación desde otra perspectiva antes de intentar forzar resultados.",
+    "reflexion": "¿Qué necesito soltar o mirar desde otro ángulo para comprender el sentido de esta pausa?",
+    "invertida": "Invertido, El Colgado señala resistencia a aceptar una pausa, aferramiento al ayer o sacrificios innecesarios que generan desgaste. Alerta sobre ingenuidad, indecisión prolongada o la urgencia de actuar en vez de seguir postergando cambios.",
+    "imagen": null
+  },
+  {
+    "id": "M13",
+    "arcano": "mayor",
+    "numero": 13,
+    "palo": null,
+    "figura": null,
+    "nombre": "La Muerte",
+    "palabras_clave": [
+      "Transformación",
+      "Finales",
+      "Renacimiento"
+    ],
+    "esencia": "El cierre inevitable que abre paso a lo nuevo. Transforma profundamente la existencia al soltar lo que ya caducó.",
+    "significado": "Anuncia el fin definitivo de un ciclo, etapa o vínculo para permitir un renacimiento auténtico. No augura muerte física, sino una liberación profunda que despeja el camino hacia el futuro.",
+    "simbolos": [
+      "Esqueleto con armadura negra",
+      "Caballo blanco",
+      "Estandarte negro con rosa blanca",
+      "Sol naciente entre dos torres",
+      "Obispo de amarillo y figuras caídas",
+      "Barco navegando en el río"
+    ],
+    "luz": [
+      "Transformación profunda",
+      "Renacimiento vital",
+      "Liberación del pasado",
+      "Nuevos comienzos",
+      "Claridad esencial",
+      "Cierre necesario"
+    ],
+    "sombra": [
+      "Resistencia al cambio",
+      "Apego doloroso",
+      "Miedo a lo desconocido",
+      "Estancamiento emocional",
+      "Negación de finales"
+    ],
+    "amor": "Cierre de ciclos viejos o renovación profunda en la pareja. Invita a dejar atrás dinámicas agotadas para amar con autenticidad.",
+    "trabajo_dinero": "Fin de una etapa laboral, cambio de rumbo o cierre de proyectos. Aceptar la transición abre oportunidades más alineadas.",
+    "espiritualidad": "Muerte simbólica del ego y renacimiento del alma. Confía en el ciclo natural donde cada final prepara un amanecer.",
+    "consejo": "Deja ir sin miedo aquello que ya cumplió su ciclo y confía en el nuevo comienzo que se abre.",
+    "reflexion": "¿Qué ciclo, hábito o apego estoy listo para dejar ir hoy y abrirme a renacer?",
+    "invertida": "Invertida, La Muerte refleja fuerte resistencia al cambio, miedo a soltar el pasado o dificultad para aceptar un cierre inevitable. Aferrarse a lo que ya terminó solo prolonga el desgaste y retrasa tu renovación.",
+    "imagen": null
+  },
+  {
+    "id": "M14",
+    "arcano": "mayor",
+    "numero": 14,
+    "palo": null,
+    "figura": null,
+    "nombre": "La Templanza",
+    "palabras_clave": [
+      "Equilibrio",
+      "Armonía",
+      "Moderación"
+    ],
+    "esencia": "El arte alquímico de integrar opuestos con serenidad. Armoniza emociones y acciones mediante paciencia, moderación y guía espiritual.",
+    "significado": "Encarna el equilibrio, la reconciliación, la sanación y el manejo prudente de situaciones delicadas. Propone combinar fuerzas distintas con paciencia y mantener la moderación en cada paso.",
+    "simbolos": [
+      "Ángel alado con túnica blanca",
+      "Dos copas vertiendo agua entre sí",
+      "Un pie en el agua y otro en tierra",
+      "Triángulo dentro de un cuadrado en el pecho",
+      "Símbolo solar en la frente",
+      "Lirios amarillos junto al estanque"
+    ],
+    "luz": [
+      "Armonía interior",
+      "Moderación sabia",
+      "Reconciliación pacífica",
+      "Sanación emocional",
+      "Paciencia equilibrada",
+      "Guía espiritual"
+    ],
+    "sombra": [
+      "Desequilibrio emocional",
+      "Excesos y desorden",
+      "Impaciencia reactiva",
+      "Falta de moderación",
+      "Desgaste por complacer"
+    ],
+    "amor": "Vínculos basados en la comprensión mutua, el diálogo sereno y la reconciliación. Favorece relaciones equilibradas donde ambos crecen en armonía.",
+    "trabajo_dinero": "Etapa para negociar acuerdos con diplomacia y moderar gastos. La cooperación paciente consolida resultados estables y duraderos.",
+    "espiritualidad": "Alquimia del alma que une espíritu y materia. Percibe la guía angelical que armoniza tus emociones y tu propósito.",
+    "consejo": "Busca el punto medio con paciencia, modera tus impulsos y permite que las piezas se integren de forma natural.",
+    "reflexion": "¿En qué aspecto de mi vida necesito cultivar hoy mayor moderación, paciencia y equilibrio interior?",
+    "invertida": "Invertida, La Templanza advierte sobre desequilibrios emocionales, impaciencia, excesos o bloqueos para conciliar posturas opuestas. Deja ver gastos impulsivos, tensiones relacionales o desgaste por cargar con demandas ajenas sin poner límites.",
+    "imagen": null
+  },
+  {
+    "id": "M15",
+    "arcano": "mayor",
+    "numero": 15,
+    "palo": null,
+    "figura": null,
+    "nombre": "El Diablo",
+    "palabras_clave": [
+      "Ataduras",
+      "Tentación",
+      "Sombra"
+    ],
+    "esencia": "La confrontación con nuestras sombras, deseos y ataduras. Recuerda que las cadenas que oprimen suelen ser elegidas.",
+    "significado": "Simboliza el apego, las tentaciones, los patrones limitantes y el control ejercido por miedos o excesos. Señala acuerdos restrictivos o hábitos dañinos, revelando que tienes el poder de liberarte ahora.",
+    "simbolos": [
+      "Figura cornuda con alas de murciélago",
+      "Pentagrama invertido en la frente",
+      "Antorcha encendida hacia abajo",
+      "Hombre y mujer encadenados al pedestal",
+      "Cadenas holgadas alrededor del cuello",
+      "Cuernos y cola en las figuras"
+    ],
+    "luz": [
+      "Conciencia de la sombra",
+      "Liberación personal",
+      "Despertar del desapego",
+      "Autocontrol consciente",
+      "Ruptura de cadenas",
+      "Claridad frente al engaño"
+    ],
+    "sombra": [
+      "Dependencia emocional",
+      "Adicciones y excesos",
+      "Manipulación y control",
+      "Materialismo obsesivo",
+      "Miedo que paraliza"
+    ],
+    "amor": "Relaciones marcadas por el apego, los celos o la dependencia. Invita a distinguir entre pasión consciente y vínculos que limitan.",
+    "trabajo_dinero": "Alerta ante contratos injustos, ambición desmedida o trabajos opresivos. Revisa tus compromisos y evita sacrificar tu bienestar por dinero.",
+    "espiritualidad": "Encuentro necesario con la propia sombra para trascenderla. Reconoce que el alma siempre conserva la llave de su libertad.",
+    "consejo": "Observa con honestidad qué hábito, miedo o vínculo te mantiene atado y da el paso para liberarte ahora.",
+    "reflexion": "¿Qué atadura, miedo o patrón repetitivo estoy listo para soltar y recuperar mi libertad?",
+    "invertida": "Invertido, El Diablo intensifica la sensación de opresión, culpa o miedo, pero también anuncia el momento de romper cadenas. Indica el inicio de una liberación frente a adicciones, relaciones tóxicas o pensamientos limitantes.",
+    "imagen": null
+  },
+  {
+    "id": "M16",
+    "arcano": "mayor",
+    "numero": 16,
+    "palo": null,
+    "figura": null,
+    "nombre": "La Torre",
+    "palabras_clave": [
+      "Ruptura",
+      "Revelación",
+      "Liberación"
+    ],
+    "esencia": "El derrumbe súbito de estructuras falsas del ego. Libera tensiones acumuladas para revelar la verdad y reconstruir desde cero.",
+    "significado": "Representa cambios bruscos, crisis inesperadas y revelaciones que derriban creencias, planes o situaciones sin bases sólidas. Aunque el impacto sacude, despeja el terreno para construir una vida más auténtica.",
+    "simbolos": [
+      "Torre alta alcanzada por un rayo",
+      "Corona dorada cayendo de la cima",
+      "Llamas saliendo de las ventanas",
+      "Dos figuras cayendo al vacío",
+      "Veintidós chispas o llamas en el aire",
+      "Nubes oscuras de tormenta"
+    ],
+    "luz": [
+      "Revelación liberadora",
+      "Despertar súbito",
+      "Ruptura de falsedades",
+      "Renovación radical",
+      "Verdad al descubierto",
+      "Nuevos cimientos"
+    ],
+    "sombra": [
+      "Caos repentino",
+      "Resistencia al derrumbe",
+      "Apego a falsas seguridades",
+      "Crisis de ego",
+      "Temor al cambio brusco"
+    ],
+    "amor": "Crisis o revelaciones inesperadas que sacuden la relación. Lo que carece de verdad cae para dar paso a vínculos honestos.",
+    "trabajo_dinero": "Cambios imprevistos en proyectos, empleos o finanzas. Mantén la calma, suelta lo insostenible y reconstruye sobre bases más firmes.",
+    "espiritualidad": "Iluminación repentina que destruye las ilusiones del ego. La rendición ante fuerzas mayores abre espacio a una conciencia renovada.",
+    "consejo": "Evita aferrarte a lo que se derrumba; acepta la verdad revelada y aprovecha este espacio para reconstruir mejor.",
+    "reflexion": "¿Qué creencia falsa necesitaba caer en mi vida para dar paso a la verdad?",
+    "invertida": "Invertida, La Torre muestra resistencia a aceptar una crisis inevitable, temor al cambio o rencor tras una pérdida. Anima a liberar la culpa, procesar el impacto y permitir que comience la reconstrucción.",
+    "imagen": null
+  },
+  {
+    "id": "M17",
+    "arcano": "mayor",
+    "numero": 17,
+    "palo": null,
+    "figura": null,
+    "nombre": "La Estrella",
+    "palabras_clave": [
+      "Esperanza",
+      "Inspiración",
+      "Sanación"
+    ],
+    "esencia": "La luz serena que renueva la fe tras la tormenta. Conecta el alma con la esperanza y la sanación.",
+    "significado": "Reúne la esperanza, la inspiración creativa, la sanación emocional y la guía espiritual tras momentos difíciles. Invita a fiarte del universo, expresar tus dones y avanzar con serenidad.",
+    "simbolos": [
+      "Mujer desnuda arrodillada junto al agua",
+      "Dos cántaros vertiendo agua",
+      "Gran estrella amarilla de ocho puntas",
+      "Siete estrellas blancas alrededor",
+      "Ave posada en un árbol al fondo",
+      "Estanque y tierra fértil"
+    ],
+    "luz": [
+      "Esperanza renovada",
+      "Inspiración creativa",
+      "Sanación profunda",
+      "Guía espiritual",
+      "Confianza en la vida",
+      "Autenticidad serena"
+    ],
+    "sombra": [
+      "Desánimo pasajero",
+      "Falta de fe",
+      "Idealismo poco práctico",
+      "Desconexión interior",
+      "Sensación de desamparo"
+    ],
+    "amor": "Tiempo de sanación afectiva, ternura y vínculos transparentes. Favorece relaciones inspiradoras basadas en la confianza y el cuidado mutuo.",
+    "trabajo_dinero": "Etapa favorable para proyectos creativos, vocacionales y nuevas oportunidades. Tus talentos brillan cuando trabajas con propósito y claridad.",
+    "espiritualidad": "Conexión directa con la guía interior y la sincronicidad cósmica. El alma encuentra paz, propósito y renovación espiritual.",
+    "consejo": "Mantén viva la esperanza, confía en tu luz interior y comparte con generosidad tus dones con el mundo.",
+    "reflexion": "¿Qué sueño profundo me devuelve hoy la esperanza y me inspira a seguir adelante?",
+    "invertida": "Invertida, La Estrella señala desánimo, dudas sobre el futuro o desconexión de tu inspiración interior. Puede indicar fantasías sin base práctica o sentimiento de aislamiento, animándote a recuperar la confianza gradualmente.",
+    "imagen": null
+  },
+  {
+    "id": "M18",
+    "arcano": "mayor",
+    "numero": 18,
+    "palo": null,
+    "figura": null,
+    "nombre": "La Luna",
+    "palabras_clave": [
+      "Ilusión",
+      "Sueños",
+      "Intuición"
+    ],
+    "esencia": "Travesía nocturna por el subconsciente y la duda. Anima a atender los sueños y fiarte de la intuición.",
+    "significado": "Representa una crisis de fe, vulnerabilidad emocional y confusión donde nada parece claro. Pide mirar más allá de las ilusiones y guiarse por mensajes intuitivos para elegir.",
+    "simbolos": [
+      "Luna y sol fusionados con rostro",
+      "Perro y lobo aullando",
+      "Dos torres de vigilancia",
+      "Cangrejo emergiendo del estanque",
+      "Sendero sinuoso hacia las montañas",
+      "Quince gotas doradas cayendo"
+    ],
+    "luz": [
+      "Intuición profunda",
+      "Mensajes en sueños",
+      "Sabiduría del inconsciente",
+      "Sensibilidad perceptiva",
+      "Verdad revelada",
+      "Conexión interior"
+    ],
+    "sombra": [
+      "Ilusión y engaño",
+      "Crisis de fe",
+      "Confusión emocional",
+      "Miedo a lo desconocido",
+      "Evasión de conflictos"
+    ],
+    "amor": "Escenario de confusión, dudas o falta de confianza. Sugiere oír tu intuición antes de tomar decisiones afectivas importantes.",
+    "trabajo_dinero": "Finanzas estables, aunque puedes sentir insatisfacción laboral o tensión con compañeros. Protégete de negatividades y evita decisiones impulsivas.",
+    "espiritualidad": "Noche oscura del alma que despierta la percepción psíquica. Atiende tus sueños y mensajes del subconsciente para hallar rumbo.",
+    "consejo": "No confíes solo en las apariencias; escucha tu intuición y presta atención a tus sueños antes de decidir.",
+    "reflexion": "¿Qué temor oculto o ilusión necesito reconocer hoy escuchando la voz de mi intuición?",
+    "invertida": "Invertida, La Luna indica evasión de emociones difíciles, negación de traumas o repetición de viejos patrones emocionales. Asimismo refleja autoengaño, estancamiento por miedo a enfrentar la realidad y la llamada a explorar lo que ocultas.",
+    "imagen": null
+  },
+  {
+    "id": "M19",
+    "arcano": "mayor",
+    "numero": 19,
+    "palo": null,
+    "figura": null,
+    "nombre": "El Sol",
+    "palabras_clave": [
+      "Éxito",
+      "Alegría",
+      "Vitalidad"
+    ],
+    "esencia": "La luz radiante del éxito, la claridad y la alegría. Renueva la vitalidad tras superar las sombras interiores.",
+    "significado": "Simboliza logros merecidos, recuperación de la salud, felicidad compartida y expansión creativa. Ilumina positivamente toda situación, trayendo optimismo, confianza, reconocimiento y bienestar en familia, proyectos y vínculos.",
+    "simbolos": [
+      "Sol grande con rostro y veintiún rayos",
+      "Niño desnudo sobre caballo blanco",
+      "Estandarte rojo",
+      "Cuatro girasoles en flor",
+      "Muro de piedra",
+      "Pluma roja en la cabeza"
+    ],
+    "luz": [
+      "Éxito merecido",
+      "Alegría genuina",
+      "Recuperación y salud",
+      "Claridad consciente",
+      "Creatividad radiante",
+      "Plenitud familiar"
+    ],
+    "sombra": [
+      "Retrasos en viajes",
+      "Planes pospuestos",
+      "Exceso de orgullo",
+      "Impaciencia por resultados",
+      "Descuidar detalles prácticos"
+    ],
+    "amor": "Las relaciones florecen con calidez, alegría y disfrute compartido. Favorece encuentros felices, unión familiar y viajes luminosos en pareja.",
+    "trabajo_dinero": "Etapa de triunfo, reconocimiento profesional y crecimiento en proyectos creativos. Consolidas una posición favorable para generar prosperidad y estabilidad.",
+    "espiritualidad": "Despertar de la conciencia plena y conexión con tu niño interior. Integras mente y espíritu en armonía luminosa.",
+    "consejo": "Saborea con gratitud tus logros presentes, nutre tu creatividad y comparte tu alegría con quienes te rodean.",
+    "reflexion": "¿Cómo celebro hoy mis logros y nutro con alegría aquello que ilumina mi vida?",
+    "invertida": "Invertido, El Sol conserva su naturaleza luminosa y positiva, pero señala demoras temporales en planes, viajes o resultados esperados. Invita a mantener la fe y disfrutar el presente mientras llega la recompensa anunciada.",
+    "imagen": null
+  },
+  {
+    "id": "M20",
+    "arcano": "mayor",
+    "numero": 20,
+    "palo": null,
+    "figura": null,
+    "nombre": "El Juicio",
+    "palabras_clave": [
+      "Renovación",
+      "Despertar",
+      "Evaluación"
+    ],
+    "esencia": "El llamado interior a evaluar el pasado con compasión. Marca un despertar espiritual y una oportunidad de renovación.",
+    "significado": "Marca un punto de inflexión donde revisas tus acciones pasadas para liberarte y avanzar. Anuncia despertar espiritual, segundas oportunidades, reconciliación, claridad sobre tu propósito y decisiones trascendentes.",
+    "simbolos": [
+      "Arcángel Gabriel tocando la trompeta",
+      "Estandarte blanco con cruz roja",
+      "Hombre, mujer y niño alzando brazos",
+      "Tumbas abiertas flotando en el agua",
+      "Montañas nevadas al fondo",
+      "Nubes rodeando al ángel"
+    ],
+    "luz": [
+      "Despertar espiritual",
+      "Renovación profunda",
+      "Autoaceptación compasiva",
+      "Segundas oportunidades",
+      "Liberación del pasado",
+      "Claridad de propósito"
+    ],
+    "sombra": [
+      "Culpa persistente",
+      "Autocrítica severa",
+      "Apego al pasado",
+      "Miedo al cambio",
+      "Demoras en decisiones"
+    ],
+    "amor": "Oportunidad de sanar el pasado, perdonar o dar una segunda oportunidad. Favorece vínculos renovados desde una mirada más madura.",
+    "trabajo_dinero": "Momento de evaluar logros, recibir reconocimiento público y tomar decisiones clave sobre tu rumbo profesional o propiedades importantes.",
+    "espiritualidad": "Llamado de tu conciencia superior y guías espirituales. Acepta las lecciones vividas para renacer libre de culpas.",
+    "consejo": "Revisa tu pasado con compasión, perdona tus errores y responde con valentía al llamado de tu renovación.",
+    "reflexion": "¿Qué experiencia del pasado necesito aceptar y perdonar hoy para avanzar libremente hacia mi renovación?",
+    "invertida": "Invertido, El Juicio muestra culpa, autocrítica excesiva o resistencia para soltar el pasado y aceptar el cambio. Aferrarse al arrepentimiento retrasa decisiones importantes e impide aprovechar las oportunidades del presente.",
+    "imagen": null
+  },
+  {
+    "id": "M21",
+    "arcano": "mayor",
+    "numero": 21,
+    "palo": null,
+    "figura": null,
+    "nombre": "El Mundo",
+    "palabras_clave": [
+      "Culminación",
+      "Éxito",
+      "Plenitud"
+    ],
+    "esencia": "La culminación exitosa de un gran ciclo vital. Integra todas las experiencias en armonía, plenitud y realización personal.",
+    "significado": "Corona el triunfo, la recompensa por el esfuerzo sostenido y el cierre armonioso de un proceso. Abre horizontes mediante viajes, reconocimiento público y el inicio de un ciclo renovado.",
+    "simbolos": [
+      "Figura danzante en el centro",
+      "Guirnalda ovalada de laurel",
+      "Dos varas en las manos",
+      "Dos cintas rojas entrelazadas",
+      "Ángel, águila, toro y león en esquinas",
+      "Manto púrpura alrededor de la figura"
+    ],
+    "luz": [
+      "Culminación exitosa",
+      "Recompensa merecida",
+      "Armonía integral",
+      "Reconocimiento público",
+      "Expansión y viajes",
+      "Plenitud interior"
+    ],
+    "sombra": [
+      "Ciclos inconclusos",
+      "Fijación en una meta",
+      "Sentirse poco merecedor",
+      "Retraso en recompensas",
+      "Apego a viejos valores"
+    ],
+    "amor": "Plenitud afectiva, alegría compartida y relaciones estables. Momento propicio para celebraciones, compromisos importantes y armonía duradera en pareja.",
+    "trabajo_dinero": "Cumplimiento de metas, ascensos, reconocimiento laboral y recompensas materiales. Tus proyectos alcanzan madurez y abren nuevos horizontes profesionales.",
+    "espiritualidad": "Integración plena de mente, cuerpo y espíritu en unidad con el universo. Cierras un aprendizaje mayor listo para renacer.",
+    "consejo": "Celebra con orgullo el camino recorrido, reconoce tu mérito y ábrete con confianza a los nuevos horizontes.",
+    "reflexion": "¿Qué ciclo cierro hoy con gratitud y qué nuevo horizonte me dispongo a explorar?",
+    "invertida": "Invertido, El Mundo indica retrasos en la culminación de metas, sensación de bloqueo o dificultad para sentirte merecedor del éxito. Pide abandonar patrones antiguos, ajustar expectativas rígidas y cerrar asuntos pendientes.",
+    "imagen": null
+  },
+  {
+    "id": "m-bastos-01",
+    "arcano": "menor",
+    "numero": 1,
+    "palo": "Bastos",
+    "figura": null,
+    "nombre": "As de Bastos",
+    "palabras_clave": [
+      "Inspiración",
+      "Energía",
+      "Comienzo"
+    ],
+    "esencia": "Chispa inicial de energía creativa que impulsa a emprender. Abre la puerta a una idea con fuerza y entusiasmo.",
+    "significado": "Encarna el impulso vital, la iniciativa y la ocasión de comenzar un proyecto con pasión. Indica que la energía está disponible y que conviene canalizarla hacia una meta concreta.",
+    "simbolos": [
+      "Mano saliendo de una nube",
+      "Bastón verde con brotes",
+      "Castillo al fondo",
+      "Montañas y río",
+      "Hojas verdes sobre el bastón"
+    ],
+    "luz": [
+      "Inspiración",
+      "Entusiasmo",
+      "Iniciativa",
+      "Vitalidad",
+      "Oportunidad clara"
+    ],
+    "sombra": [
+      "Dispersión de energía",
+      "Impulsividad",
+      "Entusiasmo sin rumbo",
+      "Proyectos inconclusos",
+      "Falta de constancia"
+    ],
+    "amor": "Encuentro que enciende la pasión y el deseo de compartir. Invita a expresar sentimientos con entusiasmo y sinceridad.",
+    "trabajo_dinero": "Momento para iniciar un proyecto o nueva fuente de ingresos. Canaliza la energía con foco para materializar tu idea.",
+    "espiritualidad": "Chispa del espíritu que despierta la voluntad creadora. Recuerda que la energía vital nace de la intención clara.",
+    "consejo": "Da el primer paso con entusiasmo y enfoca tu energía en una meta concreta antes de dispersarla.",
+    "reflexion": "¿Qué proyecto necesito encender hoy con mi energía y mi entusiasmo?",
+    "invertida": "Invertido, el As de Bastos señala energía bloqueada, falta de inspiración o un comienzo que no termina de arrancar. También alerta sobre impulsividad, dispersión o la necesidad de revisar si la idea realmente merece tu esfuerzo.",
+    "imagen": null
+  },
+  {
+    "id": "m-bastos-02",
+    "arcano": "menor",
+    "numero": 2,
+    "palo": "Bastos",
+    "figura": null,
+    "nombre": "Dos de Bastos",
+    "palabras_clave": [
+      "Planificación",
+      "Visión",
+      "Decisión"
+    ],
+    "esencia": "Mirada estratégica que proyecta el futuro desde una base firme. Llama a planificar nuevos horizontes con confianza.",
+    "significado": "Señala el momento de trazar planes sólidos, evaluar oportunidades de expansión y decidir con visión amplia. Indica progreso sostenido mediante alianzas confiables y pasos bien calculados.",
+    "simbolos": [
+      "Hombre sobre muralla de castillo",
+      "Globo terráqueo en su mano",
+      "Bastón sostenido con la izquierda",
+      "Segundo bastón sujeto al muro",
+      "Cruz con rosas y lirios",
+      "Mar y montañas al fondo"
+    ],
+    "luz": [
+      "Visión estratégica",
+      "Planificación clara",
+      "Confianza personal",
+      "Alianzas productivas",
+      "Expansión futura"
+    ],
+    "sombra": [
+      "Indecisión prolongada",
+      "Miedo a salir",
+      "Socios poco fiables",
+      "Planes estancados",
+      "Falta de compromiso"
+    ],
+    "amor": "Etapa para proyectar planes compartidos y fortalecer la complicidad. Valora tanto la unión como la independencia individual.",
+    "trabajo_dinero": "Oportunidad para expandir un negocio, planificar viajes laborales o concretar asociaciones que impulsen tu crecimiento profesional.",
+    "espiritualidad": "Invita a contemplar el propósito personal con perspectiva amplia antes de emprender el siguiente tramo del camino.",
+    "consejo": "Traza tu rumbo con lucidez y organiza tus próximos pasos con calma antes de abandonar la seguridad actual.",
+    "reflexion": "¿Qué nuevo horizonte deseo conquistar y qué plan necesito trazar hoy?",
+    "invertida": "Invertido, el Dos de Bastos advierte sobre retrasos en viajes o proyectos, dudas respecto al rumbo elegido y falta de sintonía con socios o pareja. Sugiere revisar tus acuerdos y evitar decisiones precipitadas.",
+    "imagen": null
+  },
+  {
+    "id": "m-bastos-03",
+    "arcano": "menor",
+    "numero": 3,
+    "palo": "Bastos",
+    "figura": null,
+    "nombre": "Tres de Bastos",
+    "palabras_clave": [
+      "Expansión",
+      "Aventura",
+      "Progreso"
+    ],
+    "esencia": "Primer avance concreto hacia horizontes amplios y prometedores. La acción emprendida comienza a dar frutos visibles.",
+    "significado": "Acompaña el movimiento hacia adelante, la exploración de nuevas oportunidades y la recompensa por el esfuerzo inicial. Favorece los viajes, la expresión creativa y el crecimiento de proyectos en marcha.",
+    "simbolos": [
+      "Hombre de espaldas mirando al mar",
+      "Tres bastones clavados en tierra",
+      "Capa roja y túnica verde",
+      "Barcos navegando en la bahía",
+      "Montañas lejanas en el horizonte"
+    ],
+    "luz": [
+      "Horizontes amplios",
+      "Avance firme",
+      "Espíritu emprendedor",
+      "Viajes favorables",
+      "Expresión creativa"
+    ],
+    "sombra": [
+      "Demoras frustrantes",
+      "Falta de comunicación",
+      "Impaciencia excesiva",
+      "Planes dispersos",
+      "Aislamiento creativo"
+    ],
+    "amor": "Apertura a experiencias compartidas, viajes en pareja o nuevos encuentros que amplían la mirada afectiva con entusiasmo.",
+    "trabajo_dinero": "Tus iniciativas ganan alcance y reconocimiento. Buen momento para explorar mercados, colaboraciones o proyectos creativos fuera de lo habitual.",
+    "espiritualidad": "Llama a confiar en la visión interior y cruzar el umbral hacia una etapa de mayor madurez.",
+    "consejo": "Sostén la mirada en el horizonte y confía plenamente en el impulso que ya pusiste en marcha.",
+    "reflexion": "¿Qué oportunidad me pide dar un paso más allá de lo conocido?",
+    "invertida": "Invertido, el Tres de Bastos indica demoras frustrantes, fallos de comunicación y dificultad para expresar tus ideas o reunir apoyos. Recomienda simplificar tus planes y cultivar la paciencia mientras el panorama se aclara.",
+    "imagen": null
+  },
+  {
+    "id": "m-bastos-04",
+    "arcano": "menor",
+    "numero": 4,
+    "palo": "Bastos",
+    "figura": null,
+    "nombre": "Cuatro de Bastos",
+    "palabras_clave": [
+      "Celebración",
+      "Armonía",
+      "Hogar"
+    ],
+    "esencia": "Alegría compartida que celebra logros alcanzados y estabilidad. Crea un espacio de libertad, encuentro y bienestar.",
+    "significado": "Anuncia momentos de festejo, unión comunitaria y satisfacción por metas cumplidas. Simboliza la armonía en el hogar, el disfrute merecido y la consolidación de vínculos afectivos o sociales.",
+    "simbolos": [
+      "Cuatro bastones formando un arco",
+      "Guirnaldas de frutas y flores",
+      "Pareja alzando ramos florales",
+      "Personas celebrando al fondo",
+      "Murallas y torres de ciudad"
+    ],
+    "luz": [
+      "Alegría compartida",
+      "Estabilidad afectiva",
+      "Logro celebrado",
+      "Bienestar en casa",
+      "Comunidad unida"
+    ],
+    "sombra": [
+      "Contratiempos temporales",
+      "Celebración postergada",
+      "Inestabilidad pasajera",
+      "Falta de arraigo",
+      "Pequeños desacuerdos"
+    ],
+    "amor": "Etapa luminosa de complicidad, compromiso o luna de miel donde florecen el afecto y la alegría mutua.",
+    "trabajo_dinero": "Reconocimiento por un hito alcanzado y ambiente laboral cordial. Favorece acuerdos estables y proyectos ligados al hogar.",
+    "espiritualidad": "Invita a agradecer las bendiciones recibidas y celebrar la armonía entre el propósito interior y la vida cotidiana.",
+    "consejo": "Permítete disfrutar tus logros con gratitud y comparte tu alegría sincera con quienes te rodean hoy.",
+    "reflexion": "¿Qué logro o vínculo merece ser celebrado con gratitud en este momento?",
+    "invertida": "Invertido, el Cuatro de Bastos mantiene un fondo positivo pero señala pequeños contratiempos, retrasos en celebraciones o cierta inestabilidad pasajera en el hogar. Pide flexibilidad para superar estas demoras sin perder la calma.",
+    "imagen": null
+  },
+  {
+    "id": "m-bastos-05",
+    "arcano": "menor",
+    "numero": 5,
+    "palo": "Bastos",
+    "figura": null,
+    "nombre": "Cinco de Bastos",
+    "palabras_clave": [
+      "Competencia",
+      "Desafío",
+      "Fricción"
+    ],
+    "esencia": "Choque de voluntades y opiniones que pone a prueba tu temple. Exige firmeza sin caer en el caos.",
+    "significado": "Refleja competencia, debates intensos y falta de coordinación entre personas con intereses distintos. Invita a sostener tu postura con claridad, cuidar los detalles y evitar desgastarte en disputas estériles.",
+    "simbolos": [
+      "Cinco jóvenes empuñando bastones",
+      "Bastones cruzados en el aire",
+      "Túnicas de distintos colores",
+      "Brotes verdes en los bastones",
+      "Terreno irregular y cielo claro"
+    ],
+    "luz": [
+      "Firmeza personal",
+      "Superación de pruebas",
+      "Competencia estimulante",
+      "Claridad de postura",
+      "Atención al detalle"
+    ],
+    "sombra": [
+      "Disputas sin rumbo",
+      "Falta de escucha",
+      "Desorganización grupal",
+      "Engaños o exageraciones",
+      "Desgaste por ego"
+    ],
+    "amor": "Posibles roces o discusiones por opiniones encontradas. Conviene escuchar con calma y evitar convertir diferencias en luchas de ego.",
+    "trabajo_dinero": "Ambiente competitivo donde cuesta hacerse oír. Revisa agendas, cuentas y acuerdos con rigor para defender tu posición.",
+    "espiritualidad": "Enseña a mantener el centro interior en medio del ruido externo y transformar la fricción en aprendizaje.",
+    "consejo": "Mantente firme en tus convicciones, cuida cada detalle y no malgastes tu energía en peleas innecesarias.",
+    "reflexion": "¿Cómo puedo defender mi postura con firmeza sin dejarme arrastrar por el caos?",
+    "invertida": "Invertido, el Cinco de Bastos alerta sobre engaños, información exagerada, conflictos legales o personas poco confiables alrededor. Aconseja discreción, verificar los hechos antes de actuar y compartir tus planes solo con gente leal.",
+    "imagen": null
+  },
+  {
+    "id": "m-bastos-06",
+    "arcano": "menor",
+    "numero": 6,
+    "palo": "Bastos",
+    "figura": null,
+    "nombre": "Seis de Bastos",
+    "palabras_clave": [
+      "Victoria",
+      "Reconocimiento",
+      "Triunfo"
+    ],
+    "esencia": "Triunfo público que corona el esfuerzo sostenido con reconocimiento. Irradia confianza, avance y merecida celebración.",
+    "significado": "Resume el éxito alcanzado tras superar pruebas, la validación externa y buenas noticias en proyectos personales. Indica liderazgo natural y satisfacción genuina, recordando revisar con prudencia las promesas recibidas.",
+    "simbolos": [
+      "Jinete sobre caballo blanco",
+      "Corona de laurel en la cabeza",
+      "Bastón con corona de laurel",
+      "Manto verde sobre el caballo",
+      "Acompañantes alzando cinco bastones"
+    ],
+    "luz": [
+      "Triunfo merecido",
+      "Reconocimiento público",
+      "Confianza renovada",
+      "Buenas noticias",
+      "Liderazgo inspirador"
+    ],
+    "sombra": [
+      "Éxito postergado",
+      "Orgullo excesivo",
+      "Inseguridad por demoras",
+      "Decepción con terceros",
+      "Promesas incumplidas"
+    ],
+    "amor": "Escenario de armonía, orgullo compartido y buenas noticias que fortalecen la relación o abren paso a un compromiso.",
+    "trabajo_dinero": "Ascensos, contratos favorables o reconocimiento por tu desempeño. Aprovecha el impulso, pero verifica los términos de cada oferta.",
+    "espiritualidad": "Confirma que la perseverancia alineada con el propósito conduce a una victoria íntegra y luminosa.",
+    "consejo": "Acepta el reconocimiento con gratitud y mantén la humildad mientras consolidas con foco tus próximos objetivos.",
+    "reflexion": "¿Cómo puedo honrar mis logros presentes sin caer en la complacencia?",
+    "invertida": "Invertido, el Seis de Bastos señala un triunfo demorado, inseguridad ante la espera o decepción por el apoyo de otros. También puede advertir contra la arrogancia o el orgullo desmedido que nubla el juicio.",
+    "imagen": null
+  },
+  {
+    "id": "m-bastos-07",
+    "arcano": "menor",
+    "numero": 7,
+    "palo": "Bastos",
+    "figura": null,
+    "nombre": "Siete de Bastos",
+    "palabras_clave": [
+      "Coraje",
+      "Defensa",
+      "Perseverancia"
+    ],
+    "esencia": "Valentía para sostener tus principios frente a la presión externa. Tu posición es firme si persistes.",
+    "significado": "Indica obstáculos, cuestionamientos o competencia que exigen defender tus valores con determinación. Muestra que cuentas con ventaja y recursos suficientes para prevalecer, incluso abogando por quienes no tienen voz.",
+    "simbolos": [
+      "Joven sobre colina elevada",
+      "Bastón sostenido con ambas manos",
+      "Túnica verde y calzas naranjas",
+      "Seis bastones alzándose desde abajo",
+      "Colinas y río en el paisaje"
+    ],
+    "luz": [
+      "Coraje firme",
+      "Defensa de valores",
+      "Posición ventajosa",
+      "Perseverancia activa",
+      "Vocación de apoyo"
+    ],
+    "sombra": [
+      "Duda sobre el propósito",
+      "Agotamiento por presión",
+      "Ansiedad constante",
+      "Batallas interminables",
+      "Vacilación interna"
+    ],
+    "amor": "Surgen pruebas externas que piden defender la relación con lealtad y diálogo honesto mientras ambos remen juntos.",
+    "trabajo_dinero": "Negociaciones exigentes donde deberás sostener tu criterio con claridad. Tu perseverancia te permitirá superar la competencia.",
+    "espiritualidad": "Fortalece la integridad interior al mantenerte fiel a tu verdad cuando el entorno pone a prueba tus convicciones.",
+    "consejo": "Mantente firme en tu terreno, exprésate con franqueza y defiende lo que consideras justo sin rendirte.",
+    "reflexion": "¿Qué convicción merece hoy toda mi valentía para sostenerla sin ceder?",
+    "invertida": "Invertido, el Siete de Bastos refleja dudas sobre tu propósito, ansiedad ante obstáculos continuos y sensación de agotamiento por defenderte sin descanso. Invita a priorizar tus batallas y soltar lo que escapa a tu control.",
+    "imagen": null
+  },
+  {
+    "id": "m-bastos-08",
+    "arcano": "menor",
+    "numero": 8,
+    "palo": "Bastos",
+    "figura": null,
+    "nombre": "Ocho de Bastos",
+    "palabras_clave": [
+      "Rapidez",
+      "Noticias",
+      "Movimiento"
+    ],
+    "esencia": "Impulso veloz que acelera los acontecimientos y trae noticias. Todo se pone en movimiento con dirección clara.",
+    "significado": "Representa comunicación fluida, viajes, mensajes importantes y proyectos que cobran velocidad tras una etapa de espera. Indica que la respuesta es afirmativa y conviene priorizar oportunidades con claridad.",
+    "simbolos": [
+      "Ocho bastones volando en diagonal",
+      "Brotes verdes en los bastones",
+      "Cielo despejado azul y gris",
+      "Río serpenteante en el valle",
+      "Colinas verdes y vivienda blanca"
+    ],
+    "luz": [
+      "Noticias favorables",
+      "Avance acelerado",
+      "Comunicación fluida",
+      "Viajes oportunos",
+      "Claridad mental"
+    ],
+    "sombra": [
+      "Bloqueos de comunicación",
+      "Retrasos en viajes",
+      "Malentendidos frecuentes",
+      "Proyectos estancados",
+      "Precipitación sin filtro"
+    ],
+    "amor": "Mensajes inesperados, encuentros rápidos o viajes compartidos que avivan la relación. Favorece expresar sentimientos con espontaneidad y franqueza.",
+    "trabajo_dinero": "Llegan correos, llamadas y propuestas laborales con rapidez. Organiza tus prioridades para responder con agilidad sin dispersarte.",
+    "espiritualidad": "Sincronicidades y señales claras que confirman tu rumbo. Mantén la mente abierta para recibir inspiración súbita.",
+    "consejo": "Aprovecha el impulso del momento, responde con agilidad a las noticias y prioriza lo esencial.",
+    "reflexion": "¿Qué mensaje o oportunidad veloz me pide actuar hoy con claridad y enfoque?",
+    "invertida": "Invertido, el Ocho de Bastos señala demoras en planes, bloqueos creativos y fallos de comunicación donde los mensajes no llegan o se malinterpretan. Aconseja cultivar paciencia, evitar discusiones y posponer viajes o acuerdos importantes.",
+    "imagen": null
+  },
+  {
+    "id": "m-bastos-09",
+    "arcano": "menor",
+    "numero": 9,
+    "palo": "Bastos",
+    "figura": null,
+    "nombre": "Nueve de Bastos",
+    "palabras_clave": [
+      "Resiliencia",
+      "Perseverancia",
+      "Protección"
+    ],
+    "esencia": "Fortaleza forjada tras superar pruebas difíciles. Mantienes tu posición con cautela y temple antes de culminar.",
+    "significado": "Simboliza resistencia, experiencia acumulada y firmeza para defender lo construido ante un último desafío. Advierte que protegerte en exceso puede hacerte rechazar oportunidades valiosas o aislarte sin necesidad.",
+    "simbolos": [
+      "Hombre vendado en la cabeza",
+      "Bastón sujetado con ambas manos",
+      "Ocho bastones formando una empalizada",
+      "Túnica marrón y botas altas",
+      "Montañas verdes al fondo"
+    ],
+    "luz": [
+      "Resiliencia probada",
+      "Firmeza interior",
+      "Sabiduría por experiencia",
+      "Protección consciente",
+      "Último esfuerzo"
+    ],
+    "sombra": [
+      "Desconfianza excesiva",
+      "Agotamiento acumulado",
+      "Aislamiento defensivo",
+      "Rechazar buenas oportunidades",
+      "Rigidez ante cambios"
+    ],
+    "amor": "Cautela afectiva tras heridas pasadas. Invita a cuidar tus límites sin levantar muros que impidan abrirte al afecto.",
+    "trabajo_dinero": "Estás cerca de completar una meta exigente. Sostén tu esfuerzo con disciplina, pero evita desgastarte por desconfiar de todos.",
+    "espiritualidad": "Reconoce la sabiduría que dejaron tus batallas pasadas. La verdadera fortaleza nace de confiar sin endurecer el corazón.",
+    "consejo": "Mantente firme en tu propósito, descansa lo necesario y baja la guardia cuando no exista amenaza real.",
+    "reflexion": "¿Qué muro defensivo puedo flexibilizar hoy sin renunciar a mi propia fortaleza?",
+    "invertida": "Invertido, el Nueve de Bastos indica agotamiento extremo, terquedad o paranoia que te lleva a ver enemigos donde no los hay. Asimismo refleja dificultad para sostener límites o resistirte a pedir apoyo necesario.",
+    "imagen": null
+  },
+  {
+    "id": "m-bastos-10",
+    "arcano": "menor",
+    "numero": 10,
+    "palo": "Bastos",
+    "figura": null,
+    "nombre": "Diez de Bastos",
+    "palabras_clave": [
+      "Carga",
+      "Responsabilidad",
+      "Esfuerzo"
+    ],
+    "esencia": "Peso excesivo de asumir demasiadas obligaciones en solitario. Marca la culminación de un esfuerzo que exige delegar.",
+    "significado": "Representa sobrecarga laboral, presión por cumplir compromisos y dificultad para ver el horizonte por llevar todo encima. Anuncia el cierre próximo de un ciclo arduo si aprendes a soltar.",
+    "simbolos": [
+      "Hombre inclinado cargando diez bastones",
+      "Bastones bloqueando su vista frontal",
+      "Pueblo con torres al fondo",
+      "Camino de tierra hacia la ciudad",
+      "Cielo despejado sobre el campo"
+    ],
+    "luz": [
+      "Compromiso cumplido",
+      "Capacidad de trabajo",
+      "Culminación cercana",
+      "Responsabilidad asumida",
+      "Conciencia de límites"
+    ],
+    "sombra": [
+      "Sobrecarga extrema",
+      "Incapacidad para delegar",
+      "Agotamiento físico",
+      "Perder la perspectiva",
+      "Opresión por deberes"
+    ],
+    "amor": "Las obligaciones externas restan tiempo y energía a la pareja. Conviene compartir responsabilidades y hablar con honestidad.",
+    "trabajo_dinero": "Exceso de tareas y presión profesional. Prioriza lo urgente, delega funciones y evita aceptar nuevos compromisos ahora.",
+    "espiritualidad": "Anima a soltar cargas que no te corresponden y recordar que el esfuerzo tiene sentido cuando nutre el alma.",
+    "consejo": "Detente, aligera tu carga delegando tareas y recupera la visión clara antes de seguir avanzando.",
+    "reflexion": "¿Qué responsabilidades estoy cargando hoy que ya es momento de soltar o compartir?",
+    "invertida": "Invertido, el Diez de Bastos refleja alivio al soltar obligaciones innecesarias o, por el contrario, colapso por sostener una presión insostenible. Recomienda reorganizar prioridades, pedir ayuda y liberarte de culpas ajenas.",
+    "imagen": null
+  },
+  {
+    "id": "m-bastos-11",
+    "arcano": "menor",
+    "numero": null,
+    "palo": "Bastos",
+    "figura": "Paje",
+    "nombre": "Paje de Bastos",
+    "palabras_clave": [
+      "Entusiasmo",
+      "Exploración",
+      "Mensaje"
+    ],
+    "esencia": "Curiosidad ardiente que explora nuevas ideas y caminos. Anuncia noticias estimulantes y el inicio de aventuras creativas.",
+    "significado": "Simboliza juventud de espíritu, creatividad espontánea, ganas de aprender y mensajes que despiertan entusiasmo. Favorece actividades artísticas, postulaciones laborales y el impulso de probar proyectos sin miedo al error.",
+    "simbolos": [
+      "Joven mirando hacia la derecha",
+      "Bastón alto sostenido con ambas manos",
+      "Túnica amarilla con salamandras",
+      "Pluma roja en el sombrero",
+      "Tres pirámides en el desierto"
+    ],
+    "luz": [
+      "Entusiasmo juvenil",
+      "Creatividad espontánea",
+      "Buenas noticias",
+      "Curiosidad activa",
+      "Impulso explorador"
+    ],
+    "sombra": [
+      "Inconstancia creativa",
+      "Impulsividad inmadura",
+      "Noticias decepcionantes",
+      "Falta de seguimiento",
+      "Dispersión inicial"
+    ],
+    "amor": "Flirteo alegre, mensajes espontáneos y ganas de compartir experiencias nuevas. Aporta frescura, juego y vitalidad al vínculo.",
+    "trabajo_dinero": "Oportunidad para iniciar estudios, actividades creativas o postularte a un puesto. Canaliza tu entusiasmo con disciplina práctica.",
+    "espiritualidad": "Despertar de la chispa creadora y apertura a descubrir nuevas enseñanzas con mente fresca y receptiva.",
+    "consejo": "Explora esa idea que te entusiasma con curiosidad abierta y da los primeros pasos para probarla.",
+    "reflexion": "¿Qué nueva aventura o aprendizaje despierta hoy mi curiosidad y mi entusiasmo?",
+    "invertida": "Invertido, el Paje de Bastos señala indecisión, noticias demoradas o entusiasmo pasajero que se apaga antes de concretar nada. Puede indicar falta de enfoque, inmadurez al comunicarse o proyectos que quedan en simples ideas.",
+    "imagen": null
+  },
+  {
+    "id": "m-bastos-12",
+    "arcano": "menor",
+    "numero": null,
+    "palo": "Bastos",
+    "figura": "Caballero",
+    "nombre": "Caballero de Bastos",
+    "palabras_clave": [
+      "Acción",
+      "Pasión",
+      "Aventura"
+    ],
+    "esencia": "Energía audaz que avanza con pasión y velocidad. Impulsa cambios rápidos, viajes y conquistas sin temor.",
+    "significado": "Representa acción decidida, carisma, espíritu aventurero y eventos que se aceleran trayendo ofertas o traslados. Invita a actuar con valentía, evitando que la prisa nuble la planificación.",
+    "simbolos": [
+      "Jinete con armadura y túnica amarilla",
+      "Caballo encabritado hacia la izquierda",
+      "Bastón levantado en mano derecha",
+      "Plumas rojas en yelmo y brazo",
+      "Pirámides en paisaje desértico"
+    ],
+    "luz": [
+      "Audacia imparable",
+      "Pasión vibrante",
+      "Rapidez de acción",
+      "Carisma natural",
+      "Espíritu aventurero"
+    ],
+    "sombra": [
+      "Impulsividad temeraria",
+      "Falta de constancia",
+      "Impaciencia agresiva",
+      "Promesas fugaces",
+      "Cambios abruptos"
+    ],
+    "amor": "Atracción intensa, romance apasionado y gestos audaces. Conviene cultivar compromiso real más allá de la conquista inicial.",
+    "trabajo_dinero": "Ofertas laborales rápidas, viajes de negocios o cambio de rumbo profesional. Actúa con decisión sin descuidar detalles.",
+    "espiritualidad": "Fuego interior que impulsa a vivir con autenticidad y valentía, transformando la inspiración en movimiento vivo.",
+    "consejo": "Avanza con valentía hacia tu objetivo, pero mantén el rumbo claro para no quemar tu energía.",
+    "reflexion": "¿Hacia qué meta necesito dirigir hoy mi pasión con valentía y constancia?",
+    "invertida": "Invertido, el Caballero de Bastos advierte sobre impulsividad, impaciencia, proyectos abandonados a mitad de camino o retrasos frustrantes. También puede reflejar arrogancia, discusiones acaloradas o dispersión de energía en demasiados frentes.",
+    "imagen": null
+  },
+  {
+    "id": "m-bastos-13",
+    "arcano": "menor",
+    "numero": null,
+    "palo": "Bastos",
+    "figura": "Reina",
+    "nombre": "Reina de Bastos",
+    "palabras_clave": [
+      "Carisma",
+      "Vitalidad",
+      "Confianza"
+    ],
+    "esencia": "Magnetismo cálido que lidera desde la autenticidad y creatividad. Inspira a otros con seguridad, alegría y determinación.",
+    "significado": "Retrata a una mujer creativa, independiente y llena de vitalidad que impulsa proyectos y comunica sus ideas con claridad. Señala un momento excelente para emprender y confiar en tu poder.",
+    "simbolos": [
+      "Reina sentada mirando a la derecha",
+      "Girasol en la mano izquierda",
+      "Bastón florecido en mano derecha",
+      "Gato negro a sus pies",
+      "Trono decorado con leones",
+      "Corona con hojas doradas"
+    ],
+    "luz": [
+      "Carisma magnético",
+      "Creatividad vibrante",
+      "Seguridad personal",
+      "Liderazgo cálido",
+      "Expresión auténtica"
+    ],
+    "sombra": [
+      "Bloqueo creativo",
+      "Celos o envidia",
+      "Carácter dominante",
+      "Inseguridad oculta",
+      "Impaciencia con otros"
+    ],
+    "amor": "Relaciones cálidas, apasionadas y llenas de complicidad. Invita a amar desde la seguridad propia sin perder independencia.",
+    "trabajo_dinero": "Etapa favorable para lanzar proyectos, comunicar propuestas y asumir liderazgo creativo con éxito y reconocimiento.",
+    "espiritualidad": "Conexión luminosa con tu fuego sagrado e intuición práctica. Honra tus dones creativos compartiéndolos con generosidad.",
+    "consejo": "Confía en tu talento, expresa tus ideas con seguridad y lidera tus proyectos con calidez.",
+    "reflexion": "¿Cómo expreso hoy mi creatividad y confianza sin pedir permiso para brillar?",
+    "invertida": "Invertida, la Reina de Bastos señala bloqueos creativos, demoras en proyectos en marcha o inseguridad disfrazada de actitud dominante. También puede advertir sobre celos, susceptibilidad emocional o desgaste por querer controlarlo todo.",
+    "imagen": null
+  },
+  {
+    "id": "m-bastos-14",
+    "arcano": "menor",
+    "numero": null,
+    "palo": "Bastos",
+    "figura": "Rey",
+    "nombre": "Rey de Bastos",
+    "palabras_clave": [
+      "Liderazgo",
+      "Visión",
+      "Iniciativa"
+    ],
+    "esencia": "Dominio maduro del fuego creador que lidera con visión. Inspira acción, emprende con seguridad y abre caminos.",
+    "significado": "Retrata a un líder creativo, carismático y emprendedor capaz de convertir grandes ideas en realidad. Anima a tomar la iniciativa, abrirte a nuevas experiencias y guiar a otros con determinación.",
+    "simbolos": [
+      "Rey sentado mirando hacia la izquierda",
+      "Bastón florecido en mano derecha",
+      "Corona en forma de llamas",
+      "Capa amarilla con salamandras",
+      "Salamandra junto al trono",
+      "Trono con leones y salamandras"
+    ],
+    "luz": [
+      "Liderazgo visionario",
+      "Iniciativa emprendedora",
+      "Confianza madura",
+      "Generosidad inspiradora",
+      "Determinación firme"
+    ],
+    "sombra": [
+      "Arrogancia autoritaria",
+      "Falta de escucha",
+      "Impulsividad impositiva",
+      "Intolerancia ante críticas",
+      "Exceso de ego"
+    ],
+    "amor": "Pareja apasionada, protectora y leal que aporta entusiasmo. Requiere escuchar al otro y evitar imponer siempre su criterio.",
+    "trabajo_dinero": "Momento ideal para dirigir equipos, emprender negocios y ejecutar planes ambiciosos con visión estratégica y seguridad.",
+    "espiritualidad": "Maestría sobre la voluntad creadora puesta al servicio de un propósito noble que inspira a la comunidad.",
+    "consejo": "Asume el liderazgo con visión clara, toma la iniciativa y escucha con apertura a quienes te acompañan.",
+    "reflexion": "¿Cómo ejerzo hoy un liderazgo creativo que inspire sin imponer?",
+    "invertida": "Invertido, el Rey de Bastos advierte sobre exceso de confianza, autoritarismo y falta de escucha hacia los demás. También puede reflejar impotencia para expresar tus ideas o decisiones precipitadas guiadas por el ego.",
+    "imagen": null
+  },
+  {
+    "id": "m-copas-01",
+    "arcano": "menor",
+    "numero": 1,
+    "palo": "Copas",
+    "figura": null,
+    "nombre": "As de copas",
+    "palabras_clave": [
+      "Amor",
+      "Fertilidad",
+      "Comienzos"
+    ],
+    "esencia": "Desbordamiento de amor puro, intuición y gracia emocional. Abre el corazón hacia nuevos vínculos y fertilidad creativa.",
+    "significado": "Abre el nacimiento de sentimientos profundos, alegría compartida y plenitud afectiva o creativa. Anuncia un nuevo romance, reconciliación, embarazo o proyecto artístico inspirado desde el corazón.",
+    "simbolos": [
+      "Mano saliendo de una nube",
+      "Cáliz dorado con cinco chorros",
+      "Paloma blanca con hostia marcada",
+      "Veintiséis gotas de agua cayendo",
+      "Estanque con flores de loto"
+    ],
+    "luz": [
+      "Amor genuino",
+      "Apertura emocional",
+      "Fertilidad y nacimiento",
+      "Inspiración creativa",
+      "Paz y bendición"
+    ],
+    "sombra": [
+      "Desborde emocional",
+      "Bloqueo afectivo",
+      "Inseguridad en vínculos",
+      "Vacío interior",
+      "Dificultad para expresar"
+    ],
+    "amor": "Inicio de un romance significativo, enamoramiento profundo o renovación afectiva. Invita a dar y recibir amor con sinceridad.",
+    "trabajo_dinero": "Etapa favorable para proyectos creativos y vocacionales. La inspiración fluye cuando trabajas en algo que nutre tu entusiasmo.",
+    "espiritualidad": "Gracia divina que despierta la compasión y la intuición. El espíritu llena tu copa para compartir luz con otros.",
+    "consejo": "Abre tu corazón sin reservas, recibe las bendiciones del presente y expresa tus sentimientos con ternura.",
+    "reflexion": "¿Qué nuevo vínculo o proyecto creativo desea nacer hoy desde mi corazón abierto?",
+    "invertida": "Invertido, el As de copas señala emociones contenidas, desilusión afectiva o angustia por sentirse emocionalmente abrumado. Alerta sobre bloqueos creativos, temor a abrir el corazón o la urgencia de nutrir primero tu propio bienestar.",
+    "imagen": null
+  },
+  {
+    "id": "m-copas-02",
+    "arcano": "menor",
+    "numero": 2,
+    "palo": "Copas",
+    "figura": null,
+    "nombre": "Dos de copas",
+    "palabras_clave": [
+      "Unión",
+      "Reciprocidad",
+      "Armonía"
+    ],
+    "esencia": "Encuentro equilibrado entre dos almas que se reconocen. Cimenta amor mutuo, respeto, acuerdo y conexión sincera.",
+    "significado": "Representa alianzas armoniosas, atracción mutua y compromiso basado en la igualdad emocional. Indica reconciliación, entendimiento profundo en pareja o asociaciones profesionales donde ambas partes se benefician.",
+    "simbolos": [
+      "Hombre y mujer intercambiando copas",
+      "Caduceo de Hermes con serpientes",
+      "León rojo alado en la cima",
+      "Coronas de hojas en las cabezas",
+      "Colinas verdes y casa al fondo"
+    ],
+    "luz": [
+      "Amor recíproco",
+      "Alianza equilibrada",
+      "Reconciliación sincera",
+      "Conexión emocional",
+      "Acuerdo armonioso"
+    ],
+    "sombra": [
+      "Desequilibrio afectivo",
+      "Ruptura de acuerdos",
+      "Falta de comunicación",
+      "Idealización excesiva",
+      "Desconfianza mutua"
+    ],
+    "amor": "Vínculo romántico basado en respeto mutuo, atracción y complicidad. Favorece compromisos sinceros y el encuentro con alguien afín.",
+    "trabajo_dinero": "Momento propicio para firmar sociedades, colaborar con colegas de confianza y construir acuerdos laborales justos para ambos.",
+    "espiritualidad": "Integración armoniosa de polaridades internas. Reconoces en el otro un espejo sagrado que impulsa tu crecimiento.",
+    "consejo": "Cultiva la reciprocidad, escucha con empatía y construye acuerdos claros basados en el respeto mutuo.",
+    "reflexion": "¿Cómo nutro hoy el equilibrio y la reciprocidad en mis vínculos?",
+    "invertida": "Invertido, el Dos de copas alerta sobre desarmonía, malentendidos en la pareja o ruptura de una alianza importante. Puede señalar desbalance entre ofrecer y recibir, falta de confianza o la urgencia de sanar tu vínculo interior.",
+    "imagen": null
+  },
+  {
+    "id": "m-copas-03",
+    "arcano": "menor",
+    "numero": 3,
+    "palo": "Copas",
+    "figura": null,
+    "nombre": "Tres de copas",
+    "palabras_clave": [
+      "Celebración",
+      "Amistad",
+      "Alegría"
+    ],
+    "esencia": "Alegría compartida que celebra la amistad y la abundancia. Une corazones en gratitud, apoyo mutuo y fraternidad.",
+    "significado": "Anuncia reuniones festivas, reencuentros felices, apoyo comunitario y motivos genuinos para celebrar logros afectivos o creativos. Destaca el valor de la amistad leal y la colaboración armoniosa.",
+    "simbolos": [
+      "Tres mujeres alzando sus copas",
+      "Túnicas blanca, roja y amarilla",
+      "Guirnaldas de flores en sus cabellos",
+      "Frutas y calabazas en el suelo",
+      "Cielo claro y terreno fértil"
+    ],
+    "luz": [
+      "Alegría compartida",
+      "Amistad verdadera",
+      "Celebración merecida",
+      "Apoyo comunitario",
+      "Abundancia afectiva"
+    ],
+    "sombra": [
+      "Excesos sociales",
+      "Chismes o intrigas",
+      "Aislamiento del grupo",
+      "Celebración postergada",
+      "Superficialidad afectiva"
+    ],
+    "amor": "Escena de disfrute social, complicidad alegre y apoyo de seres queridos. Favorece encuentros espontáneos y celebrar logros juntos.",
+    "trabajo_dinero": "Buen clima en equipo, proyectos colaborativos exitosos y reconocimiento compartido. Celebra tus avances sin descuidar tus metas.",
+    "espiritualidad": "Gratitud colectiva que eleva el espíritu. Compartir la alegría multiplica las bendiciones y fortalece la hermandad.",
+    "consejo": "Reúnete con quienes aprecias, celebra tus logros presentes y agradece la compañía de tus verdaderos amigos.",
+    "reflexion": "¿Con quién deseo celebrar hoy mis logros y agradecer la alegría compartida?",
+    "invertida": "Invertido, el Tres de copas señala excesos en la vida social, malentendidos entre amistades o sensación de exclusión. También puede advertir sobre chismes, dispersiones por compromisos superficiales o celebraciones que se retrasan temporalmente.",
+    "imagen": null
+  },
+  {
+    "id": "m-copas-04",
+    "arcano": "menor",
+    "numero": 4,
+    "palo": "Copas",
+    "figura": null,
+    "nombre": "Cuatro de copas",
+    "palabras_clave": [
+      "Apatía",
+      "Introspección",
+      "Descontento"
+    ],
+    "esencia": "Mirada ensimismada que ignora las oportunidades cercanas. Invita a salir del tedio y reevaluar qué nutre realmente.",
+    "significado": "Refleja aburrimiento, estancamiento emocional, desmotivación o exceso de introspección que impide apreciar lo disponible. Pide observar con gratitud lo que tienes antes de rechazar una nueva oferta.",
+    "simbolos": [
+      "Joven sentado bajo un árbol",
+      "Brazos y piernas cruzados",
+      "Tres copas alineadas en el suelo",
+      "Mano desde nube ofreciendo copa",
+      "Colina verde y cielo despejado"
+    ],
+    "luz": [
+      "Pausa reflexiva",
+      "Discernimiento interior",
+      "Reevaluación emocional",
+      "Calma contemplativa",
+      "Claridad de prioridades"
+    ],
+    "sombra": [
+      "Apatía y tedio",
+      "Ingratitud ante regalos",
+      "Aislamiento emocional",
+      "Oportunidades ignoradas",
+      "Desmotivación prolongada"
+    ],
+    "amor": "Rutina afectiva o desinterés pasajero. Conviene revisar qué te desmotiva y abrirte al diálogo antes de cerrarte emocionalmente.",
+    "trabajo_dinero": "Sensación de estancamiento o falta de estímulo laboral. Levanta la mirada para detectar propuestas valiosas que pasabas por alto.",
+    "espiritualidad": "Tiempo de retiro interior para distinguir entre el verdadero llamado del alma y la simple fatiga mental.",
+    "consejo": "Levanta la vista de tus pensamientos, agradece lo que ya posees y observa la oportunidad frente a ti.",
+    "reflexion": "¿Qué regalo u oportunidad frente a mí estoy ignorando por mirar solo hacia adentro?",
+    "invertida": "Invertido, el Cuatro de copas anuncia el despertar tras un periodo de apatía, renovando el entusiasmo y la apertura a nuevas experiencias. También puede advertir sobre terquedad emocional o resistirse a salir del estancamiento.",
+    "imagen": null
+  },
+  {
+    "id": "m-copas-05",
+    "arcano": "menor",
+    "numero": 5,
+    "palo": "Copas",
+    "figura": null,
+    "nombre": "Cinco de copas",
+    "palabras_clave": [
+      "Pérdida",
+      "Duelo",
+      "Esperanza"
+    ],
+    "esencia": "Dolor por lo perdido que nubla lo que permanece. Recuerda que aún quedan copas en pie detrás.",
+    "significado": "Representa tristeza, decepción, arrepentimiento o duelo por expectativas no cumplidas. Aunque el pesar es legítimo, invita a girar la mirada para reconocer los recursos y vínculos que siguen contigo.",
+    "simbolos": [
+      "Figura encapuchada con capa negra",
+      "Tres copas derramadas en el suelo",
+      "Dos copas erguidas detrás",
+      "Río que separa del castillo",
+      "Puente de piedra al fondo"
+    ],
+    "luz": [
+      "Aceptación del duelo",
+      "Aprendizaje emocional",
+      "Esperanza disponible",
+      "Sanación gradual",
+      "Valorar lo presente"
+    ],
+    "sombra": [
+      "Apego al pasado",
+      "Victimización prolongada",
+      "Ceguera ante lo bueno",
+      "Arrepentimiento constante",
+      "Desánimo profundo"
+    ],
+    "amor": "Tristeza por una ruptura, distancia o desilusión afectiva. Permite vivir el duelo sin olvidar que el amor sigue disponible.",
+    "trabajo_dinero": "Contratiempo financiero o proyecto frustrado. Evalúa qué rescatar de la experiencia y enfócate en los recursos que conservas.",
+    "espiritualidad": "El duelo limpia el corazón cuando se acepta sin rencor. Al soltar lo caído, descubres el puente hacia la renovación.",
+    "consejo": "Honra tu tristeza sin quedarte atrapado en ella; date la vuelta y reconoce lo que aún sigue en pie.",
+    "reflexion": "¿Qué bendiciones siguen en pie a mi espalda mientras miro lo que se derramó?",
+    "invertida": "Invertido, el Cinco de copas indica el cierre de un periodo de tristeza, aceptación del pasado y recuperación gradual de la esperanza. Asimismo refleja dificultad para perdonar o resistencia a cerrar un duelo.",
+    "imagen": null
+  },
+  {
+    "id": "m-copas-06",
+    "arcano": "menor",
+    "numero": 6,
+    "palo": "Copas",
+    "figura": null,
+    "nombre": "Seis de copas",
+    "palabras_clave": [
+      "Nostalgia",
+      "Inocencia",
+      "Recuerdos"
+    ],
+    "esencia": "Dulzura de los recuerdos que nutren el presente con ternura. Une la inocencia, la generosidad y el pasado.",
+    "significado": "Simboliza nostalgia feliz, reencuentros con personas del pasado, bondad sencilla y regreso a raíces emocionales. Invita a rescatar la alegría genuina de la infancia sin quedar atrapado en el ayer.",
+    "simbolos": [
+      "Niño entregando copa a niña",
+      "Seis copas con flores blancas",
+      "Casas antiguas y torre al fondo",
+      "Figura alejándose a lo lejos",
+      "Patio empedrado tranquilo"
+    ],
+    "luz": [
+      "Ternura genuina",
+      "Recuerdos sanadores",
+      "Generosidad sencilla",
+      "Reencuentro feliz",
+      "Inocencia creativa"
+    ],
+    "sombra": [
+      "Nostalgia paralizante",
+      "Idealizar el pasado",
+      "Inmadurez afectiva",
+      "Evadir el presente",
+      "Apego infantil"
+    ],
+    "amor": "Reencuentro con un amor del pasado, ternura cotidiana y gestos sencillos llenos de afecto sincero y calidez.",
+    "trabajo_dinero": "Apoyo de antiguos conocidos o retomada de vocaciones tempranas. La amabilidad y el compañerismo abren puertas favorables.",
+    "espiritualidad": "Reconciliación con el niño interior. Recuperar la mirada limpia y confiada devuelve ligereza y paz al alma.",
+    "consejo": "Agradece los buenos recuerdos, comparte gestos sencillos de bondad y mantén tus pies firmes en el presente.",
+    "reflexion": "¿Qué enseñanza o alegría de mi pasado puede iluminar hoy mi camino presente?",
+    "invertida": "Invertido, el Seis de copas previene contra quedar atrapado en recuerdos, idealizar el pasado o resistirse a crecer y asumir responsabilidades actuales. Pide dejar atrás nostalgias estériles y habitar plenamente el presente.",
+    "imagen": null
+  },
+  {
+    "id": "m-copas-07",
+    "arcano": "menor",
+    "numero": 7,
+    "palo": "Copas",
+    "figura": null,
+    "nombre": "Siete de copas",
+    "palabras_clave": [
+      "Opciones",
+      "Ilusión",
+      "Discernimiento"
+    ],
+    "esencia": "Múltiples posibilidades flotando entre el deseo y la fantasía. Pide discernimiento nítido para elegir lo real.",
+    "significado": "Representa sueños, visiones, múltiples ofertas y confusión emocional ante caminos atractivos pero aún intangibles. Invita a escuchar tu intuición, investigar los hechos y evitar dejarte seducir por apariencias engañosas.",
+    "simbolos": [
+      "Silueta oscura mirando hacia nubes",
+      "Siete copas flotando entre nubes",
+      "Rostro, figura velada y serpiente",
+      "Castillo, joyas, corona y dragón",
+      "Fondo claro con nube gris"
+    ],
+    "luz": [
+      "Imaginación fértil",
+      "Múltiples posibilidades",
+      "Visión creativa",
+      "Inspiración abierta",
+      "Intuición guía"
+    ],
+    "sombra": [
+      "Confusión mental",
+      "Fantasías sin base",
+      "Engaño por apariencias",
+      "Indecisión paralizante",
+      "Tentaciones ilusorias"
+    ],
+    "amor": "Idealización romántica o diversas opciones afectivas poco claras. Tómate tiempo para conocer la realidad antes de comprometerte.",
+    "trabajo_dinero": "Varias propuestas o ideas creativas en el aire. Evalúa su viabilidad práctica y prioriza un solo objetivo concreto.",
+    "espiritualidad": "Distingue entre visiones intuitivas auténticas y proyecciones del deseo. La claridad llega al aquietar la mente.",
+    "consejo": "No te dejes llevar por el brillo superficial; investiga cada opción con calma y elige con discernimiento.",
+    "reflexion": "¿Cuál de estas opciones tiene raíces reales y cuál es solo una ilusión pasajera?",
+    "invertida": "Invertido, el Siete de copas señala el despertar frente a una ilusión, claridad tras la confusión o el riesgo de caer en autoengaños y emociones extremas. Pide bajar a tierra y tomar decisiones realistas.",
+    "imagen": null
+  },
+  {
+    "id": "m-copas-08",
+    "arcano": "menor",
+    "numero": 8,
+    "palo": "Copas",
+    "figura": null,
+    "nombre": "Ocho de copas",
+    "palabras_clave": [
+      "Partida",
+      "Búsqueda",
+      "Cambio"
+    ],
+    "esencia": "Decisión consciente de dejar atrás lo que ya no nutre. Emprendes un viaje interior hacia mayor sentido.",
+    "significado": "Supone un cambio de rumbo, abandono emocional de una situación estancada y búsqueda de plenitud auténtica. Aunque cueste dejar ir lo conocido, tu intuición guía el paso hacia adelante.",
+    "simbolos": [
+      "Figura con capa roja caminando",
+      "Bastón de apoyo en mano derecha",
+      "Ocho copas apiladas en primer plano",
+      "Luna creciente y llena en eclipse",
+      "Río y montañas escarpadas al fondo"
+    ],
+    "luz": [
+      "Valentía para soltar",
+      "Búsqueda de sentido",
+      "Madurez emocional",
+      "Nuevo rumbo interior",
+      "Fidelidad a ti mismo"
+    ],
+    "sombra": [
+      "Miedo al cambio",
+      "Apego a lo conocido",
+      "Huida precipitada",
+      "Sensación de abandono",
+      "Estancamiento afectivo"
+    ],
+    "amor": "Alejamiento necesario de un vínculo o dinámica que perdió profundidad. Invita a escuchar tu corazón con honestidad.",
+    "trabajo_dinero": "Dejas un puesto o proyecto insatisfactorio para explorar caminos más alineados con tus valores y vocación real.",
+    "espiritualidad": "Llamado del alma a emprender un retiro o peregrinaje interior dejando atrás seguridades externas ya agotadas.",
+    "consejo": "Escucha la voz de tu intuición, suelta lo que ya cumplió su ciclo y camina con calma.",
+    "reflexion": "¿Qué situación o vínculo ya cumplió su ciclo y me pide seguir mi camino?",
+    "invertida": "Invertido, el Ocho de copas señala miedo a soltar el pasado, permanecer demasiado tiempo en una situación agotada o marcharse de forma precipitada. También puede reflejar sensación de abandono y dudas sobre el momento adecuado para cambiar.",
+    "imagen": null
+  },
+  {
+    "id": "m-copas-09",
+    "arcano": "menor",
+    "numero": 9,
+    "palo": "Copas",
+    "figura": null,
+    "nombre": "Nueve de copas",
+    "palabras_clave": [
+      "Satisfacción",
+      "Plenitud",
+      "Gratitud"
+    ],
+    "esencia": "Plenitud emocional que celebra los deseos cumplidos con gratitud. Irradia bienestar, disfrute personal y generosidad compartida.",
+    "significado": "Conocida como la carta de los deseos, anuncia alegría, logros afectivos, buena salud y disfrute merecido. Invita a celebrar lo alcanzado con el corazón abierto y compartir tu abundancia.",
+    "simbolos": [
+      "Hombre sentado con brazos cruzados",
+      "Gorro rojo y túnica blanca",
+      "Banco de madera en primer plano",
+      "Mesa curva con mantel azul",
+      "Nueve copas doradas alineadas detrás"
+    ],
+    "luz": [
+      "Deseo cumplido",
+      "Satisfacción plena",
+      "Alegría y gratitud",
+      "Generosidad compartida",
+      "Bienestar emocional"
+    ],
+    "sombra": [
+      "Autoindulgencia excesiva",
+      "Egocentrismo afectivo",
+      "Fijación en metas vacías",
+      "Complacencia superficial",
+      "Desconexión con otros"
+    ],
+    "amor": "Etapa de gozo, atracción mutua y realización afectiva. Favorece expresar sentimientos con sinceridad y disfrutar la compañía.",
+    "trabajo_dinero": "Reconocimiento por tus esfuerzos, estabilidad económica y proyectos que rinden frutos. Disfruta tus logros con generosidad.",
+    "espiritualidad": "Estado de profundo agradecimiento donde reconoces las bendiciones recibidas y honras la alegría de vivir plenamente.",
+    "consejo": "Disfruta con gratitud lo que has construido, celebra tus logros y comparte tu alegría con quienes aprecias.",
+    "reflexion": "¿Cómo agradezco hoy mis logros y comparto mi bienestar con otros?",
+    "invertida": "Invertido, el Nueve de copas alerta sobre excesos, complacencia superficial o enfocarte en deseos que no traen verdadera satisfacción. Asimismo indica egoísmo, desconexión emocional con seres queridos o demoras en alcanzar una meta esperada.",
+    "imagen": null
+  },
+  {
+    "id": "m-copas-10",
+    "arcano": "menor",
+    "numero": 10,
+    "palo": "Copas",
+    "figura": null,
+    "nombre": "Diez de copas",
+    "palabras_clave": [
+      "Armonía",
+      "Familia",
+      "Plenitud"
+    ],
+    "esencia": "Culminación luminosa del amor compartido y la paz familiar. Celebra la unión verdadera, la seguridad y el hogar.",
+    "significado": "Representa felicidad duradera en pareja, armonía familiar, vínculos comunitarios sólidos y realización emocional plena. Indica un periodo de paz, gratitud mutua y prosperidad construida desde el afecto sincero.",
+    "simbolos": [
+      "Pareja abrazada alzando sus brazos",
+      "Dos niños bailando a su lado",
+      "Arcoíris con diez copas doradas",
+      "Casa rodeada de árboles al fondo",
+      "Río tranquilo y pradera verde"
+    ],
+    "luz": [
+      "Armonía familiar",
+      "Amor duradero",
+      "Paz emocional",
+      "Unión verdadera",
+      "Hogar feliz"
+    ],
+    "sombra": [
+      "Apariencias forzadas",
+      "Presión por encajar",
+      "Desacuerdos domésticos",
+      "Idealización familiar",
+      "Desconexión en el hogar"
+    ],
+    "amor": "Plenitud afectiva, compromiso sólido y convivencia armoniosa. Favorece construir un hogar feliz o fortalecer lazos profundos.",
+    "trabajo_dinero": "Excelente clima en equipos y asociaciones basadas en confianza mutua. Prosperidad compartida que brinda estabilidad al hogar.",
+    "espiritualidad": "Sensación de pertenencia y unidad con la vida. El amor incondicional se manifiesta en lo cotidiano y sagrado.",
+    "consejo": "Valora tus vínculos más cercanos, cultiva la paz en tu hogar y agradece la armonía compartida.",
+    "reflexion": "¿Cómo nutro hoy la armonía y el afecto sincero en mi entorno cercano?",
+    "invertida": "Invertido, el Diez de copas señala tensiones familiares, desacuerdos en la convivencia o el desgaste de mantener apariencias externas. Invita a dialogar con autenticidad y atender las necesidades reales de tus vínculos.",
+    "imagen": null
+  },
+  {
+    "id": "m-copas-11",
+    "arcano": "menor",
+    "numero": null,
+    "palo": "Copas",
+    "figura": "Paje",
+    "nombre": "Paje de copas",
+    "palabras_clave": [
+      "Sensibilidad",
+      "Imaginación",
+      "Mensaje"
+    ],
+    "esencia": "Mirada soñadora que recibe con asombro los mensajes del corazón. Aviva la intuición, el juego y la creatividad.",
+    "significado": "Simboliza sensibilidad artística, noticias afectivas inesperadas, apertura emocional e imaginación fértil. Anima a atender tu intuición, explorar proyectos creativos con frescura y recibir el amor con mente abierta.",
+    "simbolos": [
+      "Joven mirando hacia la izquierda",
+      "Copa dorada en mano derecha",
+      "Pez asomando desde la copa",
+      "Túnica azul con flores estampadas",
+      "Mar ondulado al fondo"
+    ],
+    "luz": [
+      "Sensibilidad creativa",
+      "Mensajes afectivos",
+      "Intuición naciente",
+      "Espíritu soñador",
+      "Apertura sincera"
+    ],
+    "sombra": [
+      "Inmadurez emocional",
+      "Hipersensibilidad ante críticas",
+      "Evadir la realidad",
+      "Malentendidos afectivos",
+      "Excesos sociales"
+    ],
+    "amor": "Mensajes románticos, gestos tiernos o inicio de un vínculo dulce. Invita a amar con frescura y sinceridad.",
+    "trabajo_dinero": "Surgen ideas artísticas o propuestas creativas prometedoras. Confía en tu intuición para dar forma a nuevos proyectos.",
+    "espiritualidad": "Apertura receptiva hacia los símbolos, sueños y mensajes sutiles que emergen desde el mundo interior.",
+    "consejo": "Mantén viva tu curiosidad creativa, escucha tu intuición y permítete expresar lo que sientes con sencillez.",
+    "reflexion": "¿Qué mensaje intuitivo o impulso creativo me invita hoy a jugar y crear?",
+    "invertida": "Invertido, el Paje de copas advierte sobre inmadurez emocional, susceptibilidad excesiva o evasión de responsabilidades en fantasías. También puede indicar noticias afectivas decepcionantes, malentendidos con seres queridos o bloqueos en la expresión creativa.",
+    "imagen": null
+  },
+  {
+    "id": "m-copas-12",
+    "arcano": "menor",
+    "numero": null,
+    "palo": "Copas",
+    "figura": "Caballero",
+    "nombre": "Caballero de copas",
+    "palabras_clave": [
+      "Romance",
+      "Idealismo",
+      "Propuesta"
+    ],
+    "esencia": "Mensajero romántico que avanza guiado por ideales y sensibilidad. Trae propuestas afectivas, inspiración artística y encanto.",
+    "significado": "Trae una invitación romántica, búsqueda de belleza, diplomacia y acción inspirada por los sentimientos. Anima a abrirte al amor y la creatividad, procurando que las palabras se respalden con hechos.",
+    "simbolos": [
+      "Jinete con armadura y manto",
+      "Casco y botas con alas",
+      "Copa dorada en mano derecha",
+      "Caballo blanco avanzando al paso",
+      "Río serpenteante y montañas lejanas"
+    ],
+    "luz": [
+      "Romance sincero",
+      "Encanto diplomático",
+      "Inspiración artística",
+      "Propuesta afectiva",
+      "Sensibilidad noble"
+    ],
+    "sombra": [
+      "Promesas vacías",
+      "Idealismo irreal",
+      "Falta de compromiso",
+      "Seducción superficial",
+      "Evasión emocional"
+    ],
+    "amor": "Declaración romántica, cortejo atento o renovación de la ternura en pareja. Observa la coherencia entre palabras y actos.",
+    "trabajo_dinero": "Llegan propuestas creativas o acuerdos donde la empatía y el tacto diplomático abren puertas favorables.",
+    "espiritualidad": "Búsqueda devocional de la verdad del corazón. Seguir el cauce de tus sentimientos auténticos guía tu propósito.",
+    "consejo": "Sigue los ideales de tu corazón con elegancia, pero mantén los pies firmes en acciones concretas.",
+    "reflexion": "¿De qué manera expreso mis ideales y afectos mediante acciones coherentes y verdaderas?",
+    "invertida": "Invertido, el Caballero de copas previene contra idealismo sin fundamento, promesas incumplidas o seducción poco sincera. Puede señalar desilusión ante una propuesta engañosa, evasión del compromiso o cambios bruscos de humor.",
+    "imagen": null
+  },
+  {
+    "id": "m-copas-13",
+    "arcano": "menor",
+    "numero": null,
+    "palo": "Copas",
+    "figura": "Reina",
+    "nombre": "Reina de copas",
+    "palabras_clave": [
+      "Intuición",
+      "Empatía",
+      "Compasión"
+    ],
+    "esencia": "Sabiduría emocional profunda que escucha con compasión e intuición. Nutre los vínculos con ternura y serenidad.",
+    "significado": "Personifica a alguien empático, intuitivo y afectuoso que comprende las emociones propias y ajenas con claridad. Anima a confiar en tu corazón, cuidar tus límites y cultivar proyectos creativos.",
+    "simbolos": [
+      "Reina sentada mirando a la izquierda",
+      "Cáliz dorado cerrado con ángeles",
+      "Trono de piedra con querubines",
+      "Orilla con guijarros y mar",
+      "Túnica blanca y manto azul"
+    ],
+    "luz": [
+      "Intuición certera",
+      "Empatía profunda",
+      "Ternura maternal",
+      "Serenidad emocional",
+      "Sensibilidad artística"
+    ],
+    "sombra": [
+      "Desborde emocional",
+      "Dependencia afectiva",
+      "Celos o inseguridad",
+      "Absorber cargas ajenas",
+      "Evasión en fantasías"
+    ],
+    "amor": "Entrega afectiva tierna, escucha comprensiva e intimidad profunda. Invita a amar desde la empatía sin descuidarte.",
+    "trabajo_dinero": "Favorece profesiones de cuidado, arte o asesoría. Tu intuición y trato humano generan confianza y buenos resultados.",
+    "espiritualidad": "Conexión directa con el inconsciente, los sueños y la sabiduría del corazón que guía con suavidad.",
+    "consejo": "Confía en tu intuición, ofrece comprensión sincera y protege tu equilibrio emocional frente a demandas externas.",
+    "reflexion": "¿Qué me revela hoy mi intuición cuando escucho mi corazón en silencio?",
+    "invertida": "Invertida, la Reina de copas señala desbordamiento emocional, susceptibilidad, celos o desgaste por asumir problemas ajenos. Invita a restablecer límites saludables, atender tus propias necesidades emocionales y evitar reacciones impulsivas.",
+    "imagen": null
+  },
+  {
+    "id": "m-copas-14",
+    "arcano": "menor",
+    "numero": null,
+    "palo": "Copas",
+    "figura": "Rey",
+    "nombre": "Rey de copas",
+    "palabras_clave": [
+      "Equilibrio",
+      "Empatía",
+      "Madurez"
+    ],
+    "esencia": "Maestría emocional que conserva la calma en aguas agitadas. Lidera con empatía, diplomacia, sabiduría y corazón abierto.",
+    "significado": "Describe a una persona madura, compasiva y equilibrada que integra sensibilidad y razón sin dejarse arrastrar por tormentas. Sugiere resolver conflictos mediante diálogo empático, serenidad y apoyo sincero.",
+    "simbolos": [
+      "Rey sentado en trono sobre el mar",
+      "Copa dorada en mano derecha",
+      "Cetro corto en mano izquierda",
+      "Collar con amuleto de pez",
+      "Barco y pez saltando en olas"
+    ],
+    "luz": [
+      "Madurez emocional",
+      "Liderazgo compasivo",
+      "Diplomacia serena",
+      "Apoyo generoso",
+      "Calma ante crisis"
+    ],
+    "sombra": [
+      "Represión emocional",
+      "Manipulación afectiva",
+      "Actitud defensiva",
+      "Inestabilidad oculta",
+      "Distancia fría"
+    ],
+    "amor": "Pareja afectuosa, estable y comprensiva que brinda seguridad. Invita a expresar emociones abiertamente sin guardarse todo.",
+    "trabajo_dinero": "Instante favorable para mediar acuerdos, liderar equipos con inteligencia emocional y tomar decisiones prudentes bajo presión.",
+    "espiritualidad": "Dominio sereno sobre el mundo emocional que transforma las turbulencias internas en sabiduría compasiva y consciente.",
+    "consejo": "Mantén la calma en medio del movimiento, escucha con empatía y comunica tus sentimientos con claridad.",
+    "reflexion": "¿De qué modo sostengo hoy la serenidad y la empatía frente a las emociones agitadas?",
+    "invertida": "Invertido, el Rey de copas alerta sobre inestabilidad emocional, actitud defensiva o dificultad para gestionar sentimientos intensos. Puede señalar manipulación afectiva, frialdad evasiva o la necesidad de expresar lo que reprimes.",
+    "imagen": null
+  },
+  {
+    "id": "m-espadas-01",
+    "arcano": "menor",
+    "numero": 1,
+    "palo": "Espadas",
+    "figura": null,
+    "nombre": "As de Espadas",
+    "palabras_clave": [
+      "Claridad",
+      "Decisión",
+      "Victoria"
+    ],
+    "esencia": "Chispa de claridad mental que corta la confusión. Impulsa decisiones firmes, ideas nuevas y victoria mediante la verdad.",
+    "significado": "Afirma el triunfo de la mente clara, los nuevos comienzos intelectuales y la determinación para afrontar desafíos. Indica éxito al actuar con verdad, enfoque y discernimiento.",
+    "simbolos": [
+      "Mano saliendo de una nube",
+      "Espada recta apuntando hacia arriba",
+      "Corona dorada atravesada por la espada",
+      "Rama de palma y olivo colgando",
+      "Seis hojas doradas flotando",
+      "Montañas escarpadas al fondo"
+    ],
+    "luz": [
+      "Claridad mental",
+      "Decisiones firmes",
+      "Verdad revelada",
+      "Triunfo intelectual",
+      "Nuevas ideas",
+      "Enfoque preciso"
+    ],
+    "sombra": [
+      "Confusión mental",
+      "Falta de voluntad",
+      "Decisiones adversas",
+      "Rigidez al juzgar",
+      "Palabras hirientes"
+    ],
+    "amor": "Conversaciones honestas que aclaran dudas y fortalecen el vínculo. Invita a comunicar necesidades con respeto, verdad y objetividad.",
+    "trabajo_dinero": "Oportunidad idónea para iniciar proyectos innovadores, presentar ideas brillantes o cerrar acuerdos importantes mediante análisis claro y determinación.",
+    "espiritualidad": "Iluminación de la conciencia que disipa ilusiones del ego. La verdad interior guía tus pasos con firmeza y propósito.",
+    "consejo": "Afronta la situación con mente clara, di tu verdad con firmeza y toma esa decisión pendiente ahora.",
+    "reflexion": "¿Qué verdad necesito aceptar o expresar hoy con total claridad y firmeza?",
+    "invertida": "Invertido, el As de Espadas señala bloqueo mental, falta de confianza en tus ideas o una decisión que juega en tu contra. Puede indicar retrasos en proyectos, malentendidos o sentirse superado por circunstancias o personas dominantes.",
+    "imagen": null
+  },
+  {
+    "id": "m-espadas-02",
+    "arcano": "menor",
+    "numero": 2,
+    "palo": "Espadas",
+    "figura": null,
+    "nombre": "Dos de Espadas",
+    "palabras_clave": [
+      "Estancamiento",
+      "Tregua",
+      "Decisión"
+    ],
+    "esencia": "Pausa tensa entre dos caminos que exige calma interior. Invita a reflexionar antes de elegir con claridad.",
+    "significado": "Simboliza una tregua temporal, indecisión o un punto muerto donde evitas mirar los hechos. Pide equilibrar razón y emoción para tomar pronto una decisión necesaria.",
+    "simbolos": [
+      "Mujer sentada con ojos vendados",
+      "Dos espadas cruzadas sobre el pecho",
+      "Túnica blanca larga",
+      "Banco de piedra gris",
+      "Mar con rocas al fondo",
+      "Luna creciente arriba a la derecha"
+    ],
+    "luz": [
+      "Tregua necesaria",
+      "Calma reflexiva",
+      "Equilibrio mental",
+      "Prudencia al elegir",
+      "Paz temporal"
+    ],
+    "sombra": [
+      "Negación de hechos",
+      "Procrastinación prolongada",
+      "Bloqueo emocional",
+      "Indecisión paralizante",
+      "Falta de información"
+    ],
+    "amor": "Pausa o distanciamiento temporal en la pareja para evitar conflictos. Invita a quitarse la venda y dialogar con sinceridad.",
+    "trabajo_dinero": "Decisiones laborales o acuerdos detenidos por falta de datos claros. Analiza cada opción con objetividad antes de comprometerte.",
+    "espiritualidad": "Silencio interior necesario para acallar el ruido mental. Al retirar el velo del miedo, tu intuición muestra el rumbo.",
+    "consejo": "Quítate la venda, observa los hechos con serenidad y deja de postergar la elección que debes tomar.",
+    "reflexion": "¿Qué realidad evito mirar hoy por temor a tomar una decisión definitiva?",
+    "invertida": "Invertido, el Dos de Espadas refleja parálisis ante una elección difícil, ceguera frente a los hechos o falta de información para avanzar. Advierte contra la procrastinación cuando ya es momento de actuar y afrontar la verdad.",
+    "imagen": null
+  },
+  {
+    "id": "m-espadas-03",
+    "arcano": "menor",
+    "numero": 3,
+    "palo": "Espadas",
+    "figura": null,
+    "nombre": "Tres de Espadas",
+    "palabras_clave": [
+      "Dolor",
+      "Desamor",
+      "Verdad"
+    ],
+    "esencia": "El impacto doloroso de una verdad que rompe ilusiones. Aunque hiere el corazón, libera para sanar.",
+    "significado": "Representa tristeza profunda, desengaño, separación o conflictos causados por traiciones y palabras duras. Aunque duele aceptar la realidad, comprender la verdad permite liberar el sufrimiento y avanzar.",
+    "simbolos": [
+      "Corazón rojo grande en el centro",
+      "Tres espadas atravesando el corazón",
+      "Nubes grises de tormenta",
+      "Lluvia cayendo en el fondo",
+      "Fondo gris despejado"
+    ],
+    "luz": [
+      "Verdad liberadora",
+      "Aceptación del dolor",
+      "Sanación emocional",
+      "Claridad tras la crisis",
+      "Desapego necesario"
+    ],
+    "sombra": [
+      "Desamor profundo",
+      "Traición o engaño",
+      "Tristeza prolongada",
+      "Palabras hirientes",
+      "Aislamiento afectivo"
+    ],
+    "amor": "Momento de desengaño, ruptura o dolor por terceras personas. Aceptar la verdad abre paso a una sanación auténtica.",
+    "trabajo_dinero": "Desacuerdos dolorosos, críticas duras o pérdida de confianza en socios. Mantén la serenidad, aprende la lección y reorganiza tus planes.",
+    "espiritualidad": "Purificación emocional mediante la aceptación del duelo. El dolor consciente disuelve falsas expectativas y fortalece tu compasión interior.",
+    "consejo": "Permítete sentir el dolor sin negarlo, acepta la verdad revelada y suelta las emociones para comenzar a sanar.",
+    "reflexion": "¿Qué verdad dolorosa necesito aceptar hoy para liberar mi corazón y seguir adelante?",
+    "invertida": "Invertido, el Tres de Espadas indica el inicio de la recuperación emocional tras una pérdida o desengaño, liberando poco a poco la tristeza. También puede señalar dificultad para perdonar o reprimir un dolor que pide expresión.",
+    "imagen": null
+  },
+  {
+    "id": "m-espadas-04",
+    "arcano": "menor",
+    "numero": 4,
+    "palo": "Espadas",
+    "figura": null,
+    "nombre": "Cuatro de Espadas",
+    "palabras_clave": [
+      "Descanso",
+      "Recuperación",
+      "Quietud"
+    ],
+    "esencia": "Refugio necesario para calmar la mente y recuperar fuerzas. Invita a detenerse antes de retomar la acción.",
+    "significado": "Simboliza descanso, retiro temporal, recuperación tras momentos de estrés o enfermedad y pausa reflexiva. Indica que necesitas recargar energías en silencio antes de enfrentar nuevos compromisos.",
+    "simbolos": [
+      "Figura yacente sobre una tumba",
+      "Manos juntas en actitud de oración",
+      "Tres espadas colgadas en la pared",
+      "Una espada horizontal bajo la tumba",
+      "Vitral con mujer y niño"
+    ],
+    "luz": [
+      "Descanso reparador",
+      "Recuperación física",
+      "Calma mental",
+      "Retiro consciente",
+      "Renovación interior"
+    ],
+    "sombra": [
+      "Aislamiento forzoso",
+      "Agotamiento acumulado",
+      "Inactividad prolongada",
+      "Evasión de problemas",
+      "Resentimiento en silencio"
+    ],
+    "amor": "Pausa tranquila en la relación para reflexionar y sanar tensiones. Respeta los tiempos de silencio y espacio personal.",
+    "trabajo_dinero": "Tómate un respiro de proyectos exigentes para evitar el desgaste. La planificación pausada mejorará tu rendimiento al regresar.",
+    "espiritualidad": "Meditación profunda y recogimiento sagrado. En la quietud del alma encuentras paz, guía interior y restauración espiritual.",
+    "consejo": "Haz una pausa hoy, aléjate del ruido y dedica tiempo a descansar y recuperar tu equilibrio mental.",
+    "reflexion": "¿Cómo me regalo hoy un espacio verdadero de descanso y silencio para renovarme?",
+    "invertida": "Invertido, el Cuatro de Espadas señala una interrupción inesperada de tu descanso, aislamiento impuesto o inquietud que impide relajarte. Invita a aceptar la pausa con serenidad en lugar de resistirte a detener el ritmo.",
+    "imagen": null
+  },
+  {
+    "id": "m-espadas-05",
+    "arcano": "menor",
+    "numero": 5,
+    "palo": "Espadas",
+    "figura": null,
+    "nombre": "Cinco de Espadas",
+    "palabras_clave": [
+      "Conflicto",
+      "Derrota",
+      "Ego"
+    ],
+    "esencia": "Disputa desgastante donde ganar a toda costa deja vacío. Conviene dejar ir el orgullo y seguir adelante.",
+    "significado": "Representa conflictos, tensiones, derrotas o victorias amargas impulsadas por el ego. Señala discusiones sin sentido donde todos pierden algo, aconsejando retirarte con dignidad y enfocar tu energía.",
+    "simbolos": [
+      "Hombre sonriendo con tres espadas",
+      "Dos espadas caídas en el suelo",
+      "Dos figuras alejándose derrotadas",
+      "Cielo con nubes rasgadas",
+      "Agua agitada al fondo"
+    ],
+    "luz": [
+      "Soltar batallas inútiles",
+      "Aprendizaje tras derrota",
+      "Priorizar la paz",
+      "Reconocer límites",
+      "Seguir adelante"
+    ],
+    "sombra": [
+      "Hostilidad y ego",
+      "Victoria vacía",
+      "Humillación o abuso",
+      "Rencor persistente",
+      "Competencia desleal"
+    ],
+    "amor": "Discusiones hirientes donde importa más tener la razón que comprenderse. Evita luchas de poder y busca diálogo respetuoso.",
+    "trabajo_dinero": "Ambiente laboral competitivo, desacuerdos con colegas o pérdida en negociaciones. Protege tus intereses y aléjate de intrigas estériles.",
+    "espiritualidad": "Lección sobre la humildad y el desapego del ego. La verdadera fortaleza nace de elegir la paz sobre el conflicto.",
+    "consejo": "Elige tus batallas con sabiduría, suelta el orgullo y aléjate de conflictos que solo consumen tu paz.",
+    "reflexion": "¿Qué disputa estoy sosteniendo por orgullo que me conviene soltar hoy para recuperar paz?",
+    "invertida": "Invertido, el Cinco de Espadas advierte sobre humillación, intimidación o conflictos motivados por inseguridad y miedo disfrazados de fuerza. Invita a ver la situación con claridad, soltar el rencor y pasar página.",
+    "imagen": null
+  },
+  {
+    "id": "m-espadas-06",
+    "arcano": "menor",
+    "numero": 6,
+    "palo": "Espadas",
+    "figura": null,
+    "nombre": "Seis de Espadas",
+    "palabras_clave": [
+      "Transición",
+      "Viaje",
+      "Alivio"
+    ],
+    "esencia": "Travesía tranquila que deja atrás aguas turbulentas hacia la calma. Marca una transición necesaria hacia mayor paz.",
+    "significado": "Simboliza alejarse de conflictos, superar dificultades y avanzar hacia una etapa más serena. También anuncia viajes, mudanzas o cambios de perspectiva que traen alivio progresivo.",
+    "simbolos": [
+      "Barquero remando con pértiga",
+      "Mujer y niño cubiertos con manto",
+      "Seis espadas clavadas en la barca",
+      "Agua agitada a la derecha",
+      "Agua tranquila a la izquierda",
+      "Orilla arbolada al fondo"
+    ],
+    "luz": [
+      "Transición pacífica",
+      "Superar conflictos",
+      "Viaje favorable",
+      "Alivio progresivo",
+      "Nuevo rumbo"
+    ],
+    "sombra": [
+      "Apego al pasado",
+      "Huida sin resolver",
+      "Tristeza al partir",
+      "Resistencia al cambio",
+      "Cargas mentales"
+    ],
+    "amor": "Superación de crisis en pareja o distanciamiento sano de relaciones conflictivas. Juntos avanzan hacia una etapa más tranquila.",
+    "trabajo_dinero": "Cambio de empleo, traslado o cierre de una etapa laboral estresante. Llegan soluciones graduales y mayor estabilidad profesional.",
+    "espiritualidad": "Viaje interior desde la tormenta mental hacia la serenidad del alma. Confía en el proceso gradual de sanación.",
+    "consejo": "Deja atrás las aguas agitadas, acepta la transición con calma y avanza hacia un entorno más sereno.",
+    "reflexion": "¿Qué situación conflictiva necesito dejar atrás hoy para avanzar hacia aguas más tranquilas?",
+    "invertida": "Invertido, el Seis de Espadas indica dificultad para dejar atrás un problema o resistencia a soltar viejas actitudes. Señala que puedes avanzar, pero primero debes liberar el peso emocional que te retiene.",
+    "imagen": null
+  },
+  {
+    "id": "m-espadas-07",
+    "arcano": "menor",
+    "numero": 7,
+    "palo": "Espadas",
+    "figura": null,
+    "nombre": "Siete de Espadas",
+    "palabras_clave": [
+      "Estrategia",
+      "Astucia",
+      "Cautela"
+    ],
+    "esencia": "Acción sigilosa que exige astucia, discreción y cautela. Invita a proteger lo tuyo y actuar con estrategia inteligente.",
+    "significado": "Representa estrategia mental, discreción o advertencia ante engaños, robos y actitudes poco honestas. Pide observar con inteligencia, proteger tus bienes e intereses y actuar con prudencia.",
+    "simbolos": [
+      "Hombre caminando de puntillas",
+      "Cinco espadas en sus brazos",
+      "Dos espadas clavadas en tierra",
+      "Tienda de campaña amarilla",
+      "Campamento y soldados al fondo",
+      "Cielo amarillo luminoso"
+    ],
+    "luz": [
+      "Estrategia inteligente",
+      "Discreción prudente",
+      "Protección de recursos",
+      "Agudeza mental",
+      "Autonomía táctica"
+    ],
+    "sombra": [
+      "Engaño o robo",
+      "Falta de honestidad",
+      "Huir de responsabilidades",
+      "Desconfianza constante",
+      "Manipulación oculta"
+    ],
+    "amor": "Alerta ante falta de transparencia, secretos o desequilibrio afectivo en la pareja. Habla con honestidad y cuida tus límites.",
+    "trabajo_dinero": "Protege tus ideas, contratos y bienes ante posibles abusos o competencia desleal. Actúa con estrategia y revisa cada detalle.",
+    "espiritualidad": "Discernimiento para detectar autoengaños y excusas del ego. La coherencia entre pensamiento y acción fortalece tu integridad.",
+    "consejo": "Mantente alerta, protege lo que es tuyo y actúa con inteligencia estratégica y total honestidad contigo mismo.",
+    "reflexion": "¿En qué situación necesito actuar hoy con mayor cautela, estrategia y transparencia?",
+    "invertida": "Invertido, el Siete de Espadas advierte contra rendirte antes de tiempo o sentirte víctima de las circunstancias. Te anima a defender tu postura con firmeza, afrontar la verdad y no ceder ante tácticas ajenas.",
+    "imagen": null
+  },
+  {
+    "id": "m-espadas-08",
+    "arcano": "menor",
+    "numero": 8,
+    "palo": "Espadas",
+    "figura": null,
+    "nombre": "Ocho de Espadas",
+    "palabras_clave": [
+      "Restricción",
+      "Bloqueo",
+      "Perspectiva"
+    ],
+    "esencia": "Sensación de encierro mental que paraliza tus pasos. Sin embargo, las ataduras pueden soltarse cambiando de perspectiva.",
+    "significado": "Representa sentirse atrapado, limitado por miedos, creencias o circunstancias difíciles. Aunque parezca no haber salida, la mente posee la claridad necesaria para liberarse y avanzar.",
+    "simbolos": [
+      "Mujer de pie atada con vendas",
+      "Ojos vendados con tela blanca",
+      "Ocho espadas clavadas en tierra",
+      "Túnica roja larga",
+      "Charcos de agua en el suelo",
+      "Castillo en lo alto al fondo"
+    ],
+    "luz": [
+      "Liberación mental",
+      "Cambio de perspectiva",
+      "Autoconciencia lúcida",
+      "Superar límites",
+      "Recuperar el poder"
+    ],
+    "sombra": [
+      "Parálisis por miedo",
+      "Mentalidad de víctima",
+      "Aislamiento impuesto",
+      "Pensamiento obsesivo",
+      "Falta de claridad"
+    ],
+    "amor": "Sensación de estancamiento o falta de libertad en la relación. Habla con honestidad para disolver miedos y bloqueos.",
+    "trabajo_dinero": "Proyectos detenidos por reglas rígidas, deudas o falta de iniciativa. Busca apoyo externo y replantea tu estrategia.",
+    "espiritualidad": "Despertar de la conciencia que reconoce prisiones mentales. Al retirar la venda interior, descubres tu verdadera libertad.",
+    "consejo": "Detén los pensamientos limitantes, quítate la venda del miedo y da un paso firme hacia tu libertad.",
+    "reflexion": "¿Qué creencias o miedos me mantienen atrapado hoy cuando en realidad puedo liberarme?",
+    "invertida": "Invertido, el Ocho de Espadas señala intensa frustración, culpa o enojo por sentirte oprimido, pero también anuncia el fin de un periodo restrictivo. Al soltar tus defensas y aceptar la verdad, recuperas energía y encuentras salida.",
+    "imagen": null
+  },
+  {
+    "id": "m-espadas-09",
+    "arcano": "menor",
+    "numero": 9,
+    "palo": "Espadas",
+    "figura": null,
+    "nombre": "Nueve de Espadas",
+    "palabras_clave": [
+      "Ansiedad",
+      "Angustia",
+      "Insomnio"
+    ],
+    "esencia": "Noche oscura de pensamientos inquietos que roban la calma. Pide liberar temores imaginarios y buscar apoyo.",
+    "significado": "Simboliza ansiedad, insomnio, preocupación excesiva y culpa que perturban tu paz mental. Muchos temores nacen de la mente; hablar con sinceridad ayuda a aliviar la carga.",
+    "simbolos": [
+      "Figura sentada en la cama",
+      "Manos cubriendo el rostro",
+      "Nueve espadas horizontales en la pared",
+      "Colcha con rosas y signos zodiacales",
+      "Relieve tallado en la cama",
+      "Fondo negro de noche"
+    ],
+    "luz": [
+      "Pedir ayuda sincera",
+      "Despertar de pesadillas",
+      "Alivio tras hablar",
+      "Afrontar temores reales",
+      "Recuperar la fe"
+    ],
+    "sombra": [
+      "Ansiedad nocturna",
+      "Insomnio persistente",
+      "Culpa y remordimiento",
+      "Pensamientos catastróficos",
+      "Sufrir en silencio"
+    ],
+    "amor": "Preocupaciones, inseguridades o desvelos por conflictos afectivos. Expresa tus temores abiertamente en lugar de sufrir en silencio.",
+    "trabajo_dinero": "Estrés laboral, presión financiera o miedo al fracaso. Organiza tus pendientes paso a paso y busca consejo confiable.",
+    "espiritualidad": "Noche oscura del alma que invita a confiar más allá del miedo mental. La luz regresa al soltar angustias.",
+    "consejo": "No cargues tus miedos en silencio; comparte lo que te preocupa y fíate de que todo mejorará.",
+    "reflexion": "¿Qué preocupaciones estoy alimentando en mi mente que necesitan salir a la luz?",
+    "invertida": "Invertido, el Nueve de Espadas intensifica la sensación de impotencia, desesperación o aislamiento emocional frente a los problemas. Sin embargo, recuerda que no debes sufrir en silencio: pedir ayuda sincera restaura tu fe y calma.",
+    "imagen": null
+  },
+  {
+    "id": "m-espadas-10",
+    "arcano": "menor",
+    "numero": 10,
+    "palo": "Espadas",
+    "figura": null,
+    "nombre": "Diez de Espadas",
+    "palabras_clave": [
+      "Final",
+      "Ruptura",
+      "Renacer"
+    ],
+    "esencia": "Culminación definitiva que cierra un ciclo doloroso. Aunque impacta, libera de la incertidumbre para volver a empezar.",
+    "significado": "Supone un final repentino, derrota o cierre inevitable de una situación agotada. Al tocar fondo, desaparece toda duda y comienza un nuevo amanecer con mayor claridad.",
+    "simbolos": [
+      "Hombre boca abajo en el suelo",
+      "Diez espadas clavadas en su espalda",
+      "Manto rojo cubriendo su cuerpo",
+      "Cielo negro con horizonte dorado",
+      "Agua tranquila y montañas azules"
+    ],
+    "luz": [
+      "Cierre definitivo",
+      "Fin de la incertidumbre",
+      "Nuevo amanecer",
+      "Liberación tras crisis",
+      "Aceptar la realidad"
+    ],
+    "sombra": [
+      "Derrota dolorosa",
+      "Traición repentina",
+      "Agotamiento extremo",
+      "Apego al pasado",
+      "Dramatismo excesivo"
+    ],
+    "amor": "Ruptura definitiva o cierre necesario de una etapa desgastada. Aceptar el final abre espacio para sanar.",
+    "trabajo_dinero": "Fin de un empleo, contrato o proyecto insostenible. Aunque resulte brusco, te libera para construir mejores oportunidades.",
+    "espiritualidad": "Muerte simbólica del ego y sus resistencias. Tras la oscuridad más profunda siempre despunta la luz del renacimiento.",
+    "consejo": "Acepta el cierre con serenidad, deja ir lo que ya terminó y prepárate para un nuevo comienzo.",
+    "reflexion": "¿Qué ciclo ya llegó a su fin definitivo y me pide soltar para renacer?",
+    "invertida": "Invertido, el Diez de Espadas refleja resistencia a soltar el pasado, temor a las repercusiones o agotamiento emocional tras una crisis. Conviene aceptar la realidad con calma, liberar el estrés y comenzar de nuevo.",
+    "imagen": null
+  },
+  {
+    "id": "m-espadas-11",
+    "arcano": "menor",
+    "numero": null,
+    "palo": "Espadas",
+    "figura": "Paje",
+    "nombre": "Paje de Espadas",
+    "palabras_clave": [
+      "Curiosidad",
+      "Vigilancia",
+      "Ingenio"
+    ],
+    "esencia": "Mente despierta y vigilante que observa cada detalle con agudeza. Trae noticias, ideas frescas y comunicación directa.",
+    "significado": "Simboliza curiosidad intelectual, aprendizaje rápido, contratos o mensajes importantes. Invita a mantener la mente alerta, analizar los hechos con astucia y actuar con determinación ante desafíos.",
+    "simbolos": [
+      "Joven sosteniendo espada con ambas manos",
+      "Mirada alerta sobre el hombro derecho",
+      "Túnica rojiza y mangas amarillas",
+      "Nubes agitadas y viento fuerte",
+      "Bandada de aves negras volando",
+      "Árbol inclinado y montañas al fondo"
+    ],
+    "luz": [
+      "Agudeza mental",
+      "Curiosidad activa",
+      "Comunicación clara",
+      "Vigilancia prudente",
+      "Aprendizaje rápido"
+    ],
+    "sombra": [
+      "Chismes y rumores",
+      "Falta de tacto",
+      "Manipulación verbal",
+      "Impulsividad al hablar",
+      "Desconfianza excesiva"
+    ],
+    "amor": "Conversaciones francas, curiosidad mutua o mensajes inesperados. Cuida el tono de tus palabras para evitar malentendidos innecesarios.",
+    "trabajo_dinero": "Revisión de contratos, firmas importantes e información valiosa para avanzar. Mantente atento a los detalles y usa tu ingenio.",
+    "espiritualidad": "Búsqueda inquieta de verdad y conocimiento. Discernir entre el ruido mental y la sabiduría clara fortalece tu camino.",
+    "consejo": "Conserva la mente despierta, verifica cada dato antes de actuar y comunica tus ideas con claridad.",
+    "reflexion": "¿Qué información o detalle necesito observar con mayor atención antes de tomar una decisión?",
+    "invertida": "Invertido, el Paje de Espadas alerta sobre chismes, información poco confiable, falta de tacto o actitudes manipuladoras. Sé prudente con lo que escuchas o dices, evita conflictos innecesarios y comprueba los datos con objetividad.",
+    "imagen": null
+  },
+  {
+    "id": "m-espadas-12",
+    "arcano": "menor",
+    "numero": null,
+    "palo": "Espadas",
+    "figura": "Caballero",
+    "nombre": "Caballero de Espadas",
+    "palabras_clave": [
+      "Acción",
+      "Rapidez",
+      "Determinación"
+    ],
+    "esencia": "Impulso veloz y decidido que avanza directo hacia su objetivo. Exige valentía mental y prudencia ante conflictos.",
+    "significado": "Representa acción rápida, ambición intelectual, debates intensos y determinación imparable ante cualquier reto. Señala eventos acelerados o discusiones directas donde conviene equilibrar el ímpetu con reflexión serena.",
+    "simbolos": [
+      "Caballero con armadura y pluma roja",
+      "Espada alzada en mano derecha",
+      "Caballo blanco galopando hacia la izquierda",
+      "Nubes tormentosas y viento intenso",
+      "Árboles inclinados por la ráfaga"
+    ],
+    "luz": [
+      "Determinación firme",
+      "Rapidez mental",
+      "Valentía ante retos",
+      "Claridad de propósito",
+      "Impulso decisivo"
+    ],
+    "sombra": [
+      "Impulsividad temeraria",
+      "Discusiones agresivas",
+      "Falta de empatía",
+      "Prisa sin estrategia",
+      "Drama innecesario"
+    ],
+    "amor": "Cambios rápidos, conversaciones directas o tensiones por impulsividad. Escucha con calma antes de reaccionar con palabras duras.",
+    "trabajo_dinero": "Avance veloz en proyectos, debates exigentes o competencia intensa. Actúa con decisión sin descuidar la planificación estratégica.",
+    "espiritualidad": "Fuerza mental que corta ilusiones con determinación. Aprender a serenar el ímpetu interior conduce hacia verdadera sabiduría.",
+    "consejo": "Avanza con determinación y valentía, pero respira antes de hablar para no actuar por pura impulsividad.",
+    "reflexion": "¿Dónde necesito canalizar mi impulso con estrategia en lugar de actuar con prisa?",
+    "invertida": "Invertido, el Caballero de Espadas señala dramas innecesarios, caos, impulsividad descontrolada o alguien poco confiable tras una fachada segura. Advierte contra juegos mentales y batallas estériles que conviene abandonar a tiempo.",
+    "imagen": null
+  },
+  {
+    "id": "m-espadas-13",
+    "arcano": "menor",
+    "numero": null,
+    "palo": "Espadas",
+    "figura": "Reina",
+    "nombre": "Reina de Espadas",
+    "palabras_clave": [
+      "Claridad",
+      "Independencia",
+      "Discernimiento"
+    ],
+    "esencia": "Inteligencia lúcida e independiente que discierne la verdad sin rodeos. Guía con objetividad, experiencia y fortaleza serena.",
+    "significado": "Simboliza una persona astuta, honesta, autónoma y perspicaz que evalúa cada situación con lógica clara. Invita a establecer límites sanos, comunicar con franqueza y priorizar la verdad.",
+    "simbolos": [
+      "Reina sentada de perfil en trono",
+      "Espada vertical en mano derecha",
+      "Mano izquierda alzada hacia adelante",
+      "Corona con mariposas talladas",
+      "Nubes blancas en cielo azul",
+      "Un ave volando en lo alto"
+    ],
+    "luz": [
+      "Claridad objetiva",
+      "Independencia firme",
+      "Honestidad directa",
+      "Juicio certero",
+      "Fortaleza interior"
+    ],
+    "sombra": [
+      "Frialdad emocional",
+      "Crítica mordaz",
+      "Rencor o amargura",
+      "Aislamiento defensivo",
+      "Rigidez excesiva"
+    ],
+    "amor": "Búsqueda de autenticidad, comunicación honesta e independencia emocional. Valora vínculos maduros basados en respeto mutuo y claridad.",
+    "trabajo_dinero": "Liderazgo estratégico, análisis preciso y toma de decisiones justas. Tu criterio profesional inspira respeto y orden.",
+    "espiritualidad": "Sabiduría nacida de superar pruebas difíciles con lucidez. La verdad interior libera de dependencias y autoengaños.",
+    "consejo": "Evalúa los hechos con objetividad, expresa tu verdad con firmeza y mantén límites claros y respetuosos.",
+    "reflexion": "¿Cómo puedo expresar hoy mi verdad con claridad sin cerrar mi corazón a la empatía?",
+    "invertida": "Invertida, la Reina de Espadas previene contra frialdad extrema, palabras hirientes, amargura o juicios injustos motivados por el estrés. Pide suavizar la actitud defensiva y evitar acusaciones impulsivas e innecesarias.",
+    "imagen": null
+  },
+  {
+    "id": "m-espadas-14",
+    "arcano": "menor",
+    "numero": null,
+    "palo": "Espadas",
+    "figura": "Rey",
+    "nombre": "Rey de Espadas",
+    "palabras_clave": [
+      "Autoridad",
+      "Intelecto",
+      "Justicia"
+    ],
+    "esencia": "Autoridad intelectual que decide con lógica, ética y firmeza. Representa el dominio sereno de la mente justa.",
+    "significado": "Dibuja a un líder analítico, justo y estratégico que gobierna mediante la razón, la verdad y la imparcialidad. Anuncia resoluciones oficiales, asesoría experta o decisiones firmes bien fundamentadas.",
+    "simbolos": [
+      "Rey sentado de frente en trono",
+      "Espada inclinada en mano derecha",
+      "Túnica azul y manto púrpura",
+      "Mariposas y lunas en el trono",
+      "Nubes y árboles tranquilos al fondo"
+    ],
+    "luz": [
+      "Juicio imparcial",
+      "Liderazgo intelectual",
+      "Ética y verdad",
+      "Estrategia clara",
+      "Autoridad serena"
+    ],
+    "sombra": [
+      "Autoritarismo frío",
+      "Manipulación mental",
+      "Falta de compasión",
+      "Inflexibilidad severa",
+      "Abuso de poder"
+    ],
+    "amor": "Relación donde predominan la razón y el respeto sobre el drama. Procura equilibrar la lógica con calidez afectiva.",
+    "trabajo_dinero": "Decisiones ejecutivas acertadas, asuntos legales favorables y planificación estratégica. Actúa con integridad, rigor profesional y visión clara.",
+    "espiritualidad": "Maestría de la mente al servicio de la verdad superior. El discernimiento ético ordena el pensamiento y la acción.",
+    "consejo": "Analiza toda la situación con imparcialidad, actúa con ética firme y toma decisiones basadas en hechos.",
+    "reflexion": "¿Cómo ejerzo hoy mi criterio y autoridad con justicia, claridad y humanidad?",
+    "invertida": "Invertido, el Rey de Espadas advierte sobre abuso de poder, manipulación mental, frialdad implacable o presión injusta. Señala el riesgo de que la mente domine sin empatía o enfrentar oposición desleal.",
+    "imagen": null
+  },
+  {
+    "id": "m-oros-01",
+    "arcano": "menor",
+    "numero": 1,
+    "palo": "Oros",
+    "figura": null,
+    "nombre": "As de Oros",
+    "palabras_clave": [
+      "Prosperidad",
+      "Comienzo",
+      "Oportunidad"
+    ],
+    "esencia": "Semilla tangible de prosperidad, bienestar y estabilidad material. Abre una oportunidad valiosa para construir logros duraderos.",
+    "significado": "Representa inicios auspiciosos en finanzas, propiedades y proyectos concretos. Anuncia abundancia, satisfacción y un regalo práctico del destino que conviene aprovechar con visión de futuro.",
+    "simbolos": [
+      "Mano saliendo de una nube",
+      "Pentáculo dorado con estrella central",
+      "Jardín con lirios blancos y rosas",
+      "Arco florido de seto verde",
+      "Sendero hacia montañas al fondo"
+    ],
+    "luz": [
+      "Prosperidad material",
+      "Comienzo auspicioso",
+      "Seguridad financiera",
+      "Oportunidad tangible",
+      "Bienestar duradero"
+    ],
+    "sombra": [
+      "Codicia excesiva",
+      "Mala gestión financiera",
+      "Inversión imprudente",
+      "Materialismo rígido",
+      "Trato injusto"
+    ],
+    "amor": "Vínculo sólido que brinda seguridad, bienestar y apoyo mutuo. Favorece construir estabilidad compartida y proyectos de hogar.",
+    "trabajo_dinero": "Llegada de dinero, aumento de ingresos o inversión favorable en propiedades. Aprovecha esta oportunidad para consolidar tu futuro.",
+    "espiritualidad": "Manifestación de la luz divina en el plano físico. Honra tu cuerpo y tus recursos como bendiciones sagradas.",
+    "consejo": "Recibe con gratitud esta oportunidad concreta y trabaja con constancia para convertirla en estabilidad duradera.",
+    "reflexion": "¿Qué oportunidad material o proyecto práctico merece hoy mi compromiso para florecer?",
+    "invertida": "Invertido, el As de Oros alerta sobre codicia, aferrarse a un único resultado o mala gestión financiera. Señala inversiones poco prudentes, retrasos en pagos o personas sin escrúpulos, aconsejando evitar decisiones económicas importantes por ahora.",
+    "imagen": null
+  },
+  {
+    "id": "m-oros-02",
+    "arcano": "menor",
+    "numero": 2,
+    "palo": "Oros",
+    "figura": null,
+    "nombre": "Dos de Oros",
+    "palabras_clave": [
+      "Equilibrio",
+      "Adaptabilidad",
+      "Decisiones"
+    ],
+    "esencia": "Movimiento ágil que equilibra prioridades, recursos y cambios constantes. Invita a adaptarse con flexibilidad y buen ánimo.",
+    "significado": "Simboliza decisiones prácticas, manejo simultáneo de responsabilidades y fluidez ante los altibajos financieros. Pide mantener el equilibrio entre trabajo y vida personal sin perder el enfoque.",
+    "simbolos": [
+      "Joven bailando con túnica naranja",
+      "Sombrero alto de color rojo",
+      "Dos pentáculos unidos por infinito verde",
+      "Dos barcos sobre olas altas",
+      "Cielo despejado al fondo"
+    ],
+    "luz": [
+      "Adaptabilidad ágil",
+      "Equilibrio dinámico",
+      "Gestión eficaz",
+      "Flexibilidad mental",
+      "Fluidez ante cambios"
+    ],
+    "sombra": [
+      "Desorden financiero",
+      "Sobrecarga de tareas",
+      "Indecisión constante",
+      "Inestabilidad económica",
+      "Descuidar prioridades"
+    ],
+    "amor": "Necesidad de equilibrar tiempo y atención entre la pareja y otras responsabilidades. La flexibilidad mantiene la armonía.",
+    "trabajo_dinero": "Manejas varios proyectos o ingresos a la vez. Organiza tus finanzas con cuidado antes de tomar decisiones importantes.",
+    "espiritualidad": "Aprender a bailar con los ciclos cambiantes de la vida sin perder tu centro interior ni tu serenidad.",
+    "consejo": "Conserva la calma ante los cambios, organiza tus prioridades con agilidad y equilibra tus recursos con inteligencia.",
+    "reflexion": "¿Qué áreas de mi vida necesito equilibrar hoy para avanzar con mayor ligereza?",
+    "invertida": "Invertido, el Dos de Oros refleja desorganización, dificultad para sostener múltiples compromisos y desequilibrio financiero. Advierte contra asumir más responsabilidades de las posibles y pide ordenar tus cuentas antes de decidir.",
+    "imagen": null
+  },
+  {
+    "id": "m-oros-03",
+    "arcano": "menor",
+    "numero": 3,
+    "palo": "Oros",
+    "figura": null,
+    "nombre": "Tres de Oros",
+    "palabras_clave": [
+      "Talento",
+      "Colaboración",
+      "Maestría"
+    ],
+    "esencia": "Demostración concreta de talento, dedicación y trabajo bien hecho. El esfuerzo creativo recibe reconocimiento y apoyo.",
+    "significado": "Representa la maestría artesanal, la colaboración en equipo y la materialización de ideas mediante planificación cuidadosa. Indica reconocimiento profesional por tus habilidades y progreso sólido en obras o proyectos.",
+    "simbolos": [
+      "Escultor sobre banco trabajando piedra",
+      "Tres pentáculos tallados en arco",
+      "Monje con hábito marrón",
+      "Arquitecto sosteniendo planos abiertos",
+      "Interior de catedral gótica"
+    ],
+    "luz": [
+      "Talento reconocido",
+      "Trabajo en equipo",
+      "Maestría técnica",
+      "Planificación sólida",
+      "Creatividad aplicada"
+    ],
+    "sombra": [
+      "Trabajo tedioso",
+      "Falta de compromiso",
+      "Mala planificación",
+      "Obras inconclusas",
+      "Cinismo laboral"
+    ],
+    "amor": "Construcción paciente de la relación mediante diálogo, respeto mutuo y proyectos compartidos que fortalecen el vínculo.",
+    "trabajo_dinero": "Oportunidad favorable para mostrar tus habilidades, colaborar con expertos y consolidar proyectos creativos o ligados a propiedades.",
+    "espiritualidad": "Expresión sagrada de tus dones al servicio del bien común. Cada detalle cuidado eleva tu obra cotidiana.",
+    "consejo": "Aplica tu talento con disciplina, escucha consejos constructivos y colabora con otros para lograr resultados excelentes.",
+    "reflexion": "¿Cómo expreso hoy mi talento y colaboro con otros para construir algo valioso?",
+    "invertida": "Invertido, el Tres de Oros señala desmotivación laboral, rechazo al esfuerzo cotidiano o mala planificación que frena un proyecto. En asuntos de propiedad o trabajo, advierte sobre tareas tediosas y obras que quedan sin terminar.",
+    "imagen": null
+  },
+  {
+    "id": "m-oros-04",
+    "arcano": "menor",
+    "numero": 4,
+    "palo": "Oros",
+    "figura": null,
+    "nombre": "Cuatro de Oros",
+    "palabras_clave": [
+      "Estabilidad",
+      "Control",
+      "Seguridad"
+    ],
+    "esencia": "Consolidación de recursos que brinda estabilidad y protección material. Alerta sobre el apego excesivo por temor a perder.",
+    "significado": "Simboliza seguridad financiera, ahorro y preservación de lo logrado con esfuerzo. Sin embargo, pide evaluar si el deseo de control te impide compartir, invertir o fluir con confianza.",
+    "simbolos": [
+      "Hombre coronado sentado en piedra",
+      "Pentáculo dorado sobre la corona",
+      "Pentáculo abrazado contra el pecho",
+      "Dos pentáculos bajo sus pies",
+      "Capa negra y túnica roja",
+      "Ciudad con torres al fondo"
+    ],
+    "luz": [
+      "Estabilidad financiera",
+      "Protección material",
+      "Ahorro prudente",
+      "Base segura",
+      "Orden económico"
+    ],
+    "sombra": [
+      "Apego excesivo",
+      "Control rígido",
+      "Miedo a perder",
+      "Actitud arrogante",
+      "Avaricia emocional"
+    ],
+    "amor": "Búsqueda de seguridad en el vínculo que puede volverse posesiva. Conviene amar con confianza y apertura sin controlar.",
+    "trabajo_dinero": "Posición económica estable y bienes protegidos. Administra con prudencia, evitando que el temor bloquee inversiones inteligentes.",
+    "espiritualidad": "Reconocer que la verdadera seguridad nace del interior y no únicamente de acumular posesiones externas.",
+    "consejo": "Protege tus recursos con sensatez, pero deja ir el temor a perder para permitir que la abundancia circule.",
+    "reflexion": "¿A qué posesión, idea o seguridad me aferro hoy por miedo a soltar el control?",
+    "invertida": "Invertido, el Cuatro de Oros puede mostrar ostentación, actitud arrogante o alguien en posición de poder que actúa de forma controladora y egoísta. También invita a soltar el apego excesivo o revisar gastos impulsivos.",
+    "imagen": null
+  },
+  {
+    "id": "m-oros-05",
+    "arcano": "menor",
+    "numero": 5,
+    "palo": "Oros",
+    "figura": null,
+    "nombre": "Cinco de Oros",
+    "palabras_clave": [
+      "Escasez",
+      "Prueba",
+      "Apoyo"
+    ],
+    "esencia": "Prueba difícil de recursos que despierta sensación de carencia. Recuerda buscar ayuda y descubrir apoyos cercanos.",
+    "significado": "Refleja pérdidas financieras, inseguridad laboral o sentimiento de exclusión en tiempos adversos. Aunque el panorama parezca frío, existen recursos disponibles y solidaridad genuina si te abres a pedir apoyo.",
+    "simbolos": [
+      "Dos figuras caminando en la nieve",
+      "Hombre con muletas y campana",
+      "Mujer descalza cubierta con manto",
+      "Vitral iluminado con cinco pentáculos",
+      "Muro de piedra nevado"
+    ],
+    "luz": [
+      "Solidaridad compartida",
+      "Recursos ocultos",
+      "Superar pruebas",
+      "Humildad para pedir",
+      "Nuevas alternativas"
+    ],
+    "sombra": [
+      "Pérdida económica",
+      "Sentirse excluido",
+      "Miedo al cambio",
+      "Ignorar deudas",
+      "Aislamiento por orgullo"
+    ],
+    "amor": "Momento de vulnerabilidad o distancia afectiva. Acompañarse con empatía fortalece el vínculo frente a las dificultades externas.",
+    "trabajo_dinero": "Dificultades económicas, pérdida de empleo o gastos imprevistos. Explora nuevas opciones, ajusta tu presupuesto y acepta orientación.",
+    "espiritualidad": "Incluso en el invierno del alma, la luz del santuario está cerca. Atrévete a tocar la puerta.",
+    "consejo": "No enfrentes esta etapa difícil en soledad; busca apoyo, explora nuevas opciones y confía en tu recuperación.",
+    "reflexion": "¿Qué ayuda o recurso cercano estoy pasando por alto en medio de esta dificultad?",
+    "invertida": "Invertido, el Cinco de Oros pide examinar tus valores y dejar de aferrarte por miedo a objetos, deudas o relaciones tensas. También puede señalar una oferta económica con condiciones inaceptables que conviene rechazar con firmeza.",
+    "imagen": null
+  },
+  {
+    "id": "m-oros-06",
+    "arcano": "menor",
+    "numero": 6,
+    "palo": "Oros",
+    "figura": null,
+    "nombre": "Seis de Oros",
+    "palabras_clave": [
+      "Generosidad",
+      "Equilibrio",
+      "Gratitud"
+    ],
+    "esencia": "Intercambio justo donde la prosperidad circula con generosidad. Equilibra el arte de dar y recibir con gratitud.",
+    "significado": "Representa apoyo económico, caridad consciente, recompensas merecidas y justicia en acuerdos financieros. Indica mejora en las finanzas, ya sea brindando ayuda a otros o recibiendo un respaldo oportuno.",
+    "simbolos": [
+      "Mercader con túnica roja y sombrero",
+      "Balanza equilibrada en mano izquierda",
+      "Mano derecha entregando monedas",
+      "Dos hombres arrodillados recibiendo ayuda",
+      "Seis pentáculos dorados en lo alto",
+      "Ciudad con torres al fondo"
+    ],
+    "luz": [
+      "Generosidad genuina",
+      "Intercambio justo",
+      "Apoyo financiero",
+      "Gratitud sincera",
+      "Abundancia compartida"
+    ],
+    "sombra": [
+      "Desigualdad de poder",
+      "Deudas pendientes",
+      "Generosidad interesada",
+      "Dependencia económica",
+      "Falta de reciprocidad"
+    ],
+    "amor": "Relación marcada por la generosidad, el cuidado mutuo y el equilibrio saludable entre dar y recibir afecto.",
+    "trabajo_dinero": "Mejora financiera, préstamos favorables, bonificaciones o apoyo de benefactores. Mantén acuerdos claros y administra con equidad.",
+    "espiritualidad": "La abundancia fluye cuando compartes tus dones con humildad y reconoces el valor de cada intercambio.",
+    "consejo": "Comparte tus recursos con sabiduría y recibe con gratitud el apoyo que la vida te ofrece hoy.",
+    "reflexion": "¿De qué modo mantengo hoy un intercambio más justo y generoso entre dar y recibir?",
+    "invertida": "Invertido, el Seis de Oros previene contra desbalances entre ofrecer y recibir, deudas mal gestionadas o ayudas condicionadas por intereses ocultos. Pide examinar tus límites financieros y evitar dependencias poco sanas.",
+    "imagen": null
+  },
+  {
+    "id": "m-oros-07",
+    "arcano": "menor",
+    "numero": 7,
+    "palo": "Oros",
+    "figura": null,
+    "nombre": "Siete de Oros",
+    "palabras_clave": [
+      "Perseverancia",
+      "Cosecha",
+      "Paciencia"
+    ],
+    "esencia": "Esfuerzo constante que cultiva frutos valiosos a largo plazo. Invita a perseverar sin detenerse antes de cosechar.",
+    "significado": "Simboliza trabajo sostenido, potencial de éxito y evaluación paciente de los resultados obtenidos hasta ahora. La meta está cerca, pero exige continuar atendiendo tus proyectos con dedicación firme.",
+    "simbolos": [
+      "Joven apoyado sobre su azada",
+      "Arbusto frondoso con hojas verdes",
+      "Seis pentáculos colgados en la planta",
+      "Un pentáculo en el suelo",
+      "Montañas azules al fondo"
+    ],
+    "luz": [
+      "Esfuerzo constante",
+      "Potencial de éxito",
+      "Paciencia productiva",
+      "Cosecha cercana",
+      "Visión a largo plazo"
+    ],
+    "sombra": [
+      "Procrastinación peligrosa",
+      "Desánimo por lentitud",
+      "Ansiedad por préstamos",
+      "Detenerse antes de tiempo",
+      "Impaciencia improductiva"
+    ],
+    "amor": "Relación que requiere paciencia, dedicación cotidiana y cuidado mutuo para madurar y dar frutos estables.",
+    "trabajo_dinero": "Recompensas graduales fruto de tu trabajo duro. Mantén el enfoque en tus metas y evita rendirte antes de culminar.",
+    "espiritualidad": "Confianza profunda en los tiempos naturales de maduración. Cada acción consciente siembra una cosecha futura.",
+    "consejo": "Evita detenerte a dudar ahora; sostén la mirada en tu meta y sigue trabajando con constancia.",
+    "reflexion": "¿Qué proyecto importante requiere hoy mi constancia y paciencia para alcanzar su madurez?",
+    "invertida": "Invertido, el Siete de Oros señala procrastinación, desánimo ante avances lentos o ansiedad por préstamos y acuerdos financieros. Advierte que el tiempo corre y pide actuar con decisión o renegociar condiciones.",
+    "imagen": null
+  },
+  {
+    "id": "m-oros-08",
+    "arcano": "menor",
+    "numero": 8,
+    "palo": "Oros",
+    "figura": null,
+    "nombre": "Ocho de Oros",
+    "palabras_clave": [
+      "Dedicación",
+      "Aprendizaje",
+      "Maestría"
+    ],
+    "esencia": "Disciplina paciente que perfecciona tu oficio mediante práctica constante. Cada detalle trabajado construye excelencia y progreso.",
+    "significado": "Representa dedicación laboral, estudio aplicado, mejora continua de habilidades y esmero artesanal. Señala un periodo productivo donde aprender, practicar y enfocarte en tareas concretas abre oportunidades sólidas.",
+    "simbolos": [
+      "Artesano sentado en banco trabajando",
+      "Martillo y cincel en sus manos",
+      "Ocho pentáculos dorados tallados",
+      "Seis pentáculos colgados en columna",
+      "Camino hacia ciudad al fondo"
+    ],
+    "luz": [
+      "Dedicación constante",
+      "Aprendizaje práctico",
+      "Atención al detalle",
+      "Perfeccionamiento técnico",
+      "Esfuerzo productivo"
+    ],
+    "sombra": [
+      "Perfeccionismo paralizante",
+      "Rutina agotadora",
+      "Falta de motivación",
+      "Descuidar el panorama",
+      "Trabajo sin propósito"
+    ],
+    "amor": "Disposición a trabajar con paciencia en la relación, cuidando los pequeños gestos cotidianos para fortalecer el vínculo.",
+    "trabajo_dinero": "Etapa provechosa para capacitarte, pulir tus habilidades y destacar por tu calidad profesional. Tus esfuerzos rinden frutos.",
+    "espiritualidad": "La práctica diaria consciente transforma el trabajo cotidiano en un camino de atención plena y evolución interior.",
+    "consejo": "Enfócate en perfeccionar tu oficio paso a paso y mantén la constancia en cada detalle.",
+    "reflexion": "¿Qué habilidad o proyecto merece hoy mi atención dedicada y práctica constante?",
+    "invertida": "Invertido, el Ocho de Oros alerta sobre perfeccionismo excesivo, trabajo repetitivo sin inspiración o desinterés por cuidar los detalles. Pide evaluar tus métodos, evitar el agotamiento por rutina y reconectar con el sentido de lo que haces.",
+    "imagen": null
+  },
+  {
+    "id": "m-oros-09",
+    "arcano": "menor",
+    "numero": 9,
+    "palo": "Oros",
+    "figura": null,
+    "nombre": "Nueve de Oros",
+    "palabras_clave": [
+      "Abundancia",
+      "Independencia",
+      "Disfrute"
+    ],
+    "esencia": "Plenitud material conquistada con esfuerzo propio y sabiduría. Celebra la autonomía, el bienestar y la elegancia.",
+    "significado": "Simboliza éxito financiero, independencia personal, seguridad y disfrute merecido de los frutos sembrados. Indica un momento de estabilidad, refinamiento y gratitud por la prosperidad alcanzada con disciplina.",
+    "simbolos": [
+      "Mujer con túnica dorada y flores",
+      "Halcón encapuchado en mano izquierda",
+      "Nueve pentáculos entre viñedos cargados",
+      "Caracol en el sendero de tierra",
+      "Mansión y montañas al fondo"
+    ],
+    "luz": [
+      "Independencia financiera",
+      "Abundancia merecida",
+      "Autonomía personal",
+      "Bienestar y calma",
+      "Cosecha próspera"
+    ],
+    "sombra": [
+      "Exceso de gasto",
+      "Aislamiento elegante",
+      "Dependencia económica",
+      "Superficialidad material",
+      "Temor a compartir"
+    ],
+    "amor": "Relación madura donde cada persona conserva su autonomía. También señala plenitud personal y disfrute de la propia compañía.",
+    "trabajo_dinero": "Estabilidad económica, logros profesionales reconocidos y recompensas por tu disciplina. Administra con sabiduría y disfruta tus avances.",
+    "espiritualidad": "Gratitud serena por la abundancia de la vida. Reconoces tu propio valor sin depender de aprobaciones externas.",
+    "consejo": "Disfruta con gratitud los frutos de tu esfuerzo y mantén tu independencia con sabiduría y equilibrio.",
+    "reflexion": "¿Cómo celebro hoy mi autonomía y agradezco la abundancia que he construido?",
+    "invertida": "Invertido, el Nueve de Oros advierte sobre gastos impulsivos, inseguridad financiera o depender demasiado de otros para sostener tu bienestar. Invita a ordenar tus recursos, evitar apariencias costosas y recuperar tu autonomía.",
+    "imagen": null
+  },
+  {
+    "id": "m-oros-10",
+    "arcano": "menor",
+    "numero": 10,
+    "palo": "Oros",
+    "figura": null,
+    "nombre": "Diez de Oros",
+    "palabras_clave": [
+      "Legado",
+      "Prosperidad",
+      "Familia"
+    ],
+    "esencia": "Culminación duradera de prosperidad, estabilidad familiar y legado. Integra el éxito material con raíces sólidas y pertenencia.",
+    "significado": "Representa riqueza consolidada, seguridad a largo plazo, armonía familiar, herencias y proyectos que trascienden el presente. Anuncia estabilidad económica y vínculos sólidos construidos sobre valores compartidos.",
+    "simbolos": [
+      "Anciano con túnica bordada sentado",
+      "Pareja conversando bajo un arco",
+      "Niño acariciando dos perros blancos",
+      "Diez pentáculos en árbol de vida",
+      "Arco de piedra y ciudad"
+    ],
+    "luz": [
+      "Prosperidad duradera",
+      "Estabilidad familiar",
+      "Legado sólido",
+      "Seguridad financiera",
+      "Tradición y apoyo"
+    ],
+    "sombra": [
+      "Conflictos por herencia",
+      "Rigidez tradicional",
+      "Inestabilidad patrimonial",
+      "Apego al estatus",
+      "Tensiones familiares"
+    ],
+    "amor": "Compromiso estable, proyectos de familia y seguridad afectiva a largo plazo. Favorece construir un hogar sólido.",
+    "trabajo_dinero": "Consolidación financiera, negocios prósperos, inversiones inmobiliarias acertadas o respaldo familiar. Planifica con visión a futuro.",
+    "espiritualidad": "Honrar tus raíces y comprender que la verdadera riqueza reside en el legado de amor que dejas.",
+    "consejo": "Construye sobre bases firmes, valora a quienes te rodean y administra tus bienes con visión duradera.",
+    "reflexion": "¿Qué legado de bienestar y estabilidad deseo construir hoy para mí y los míos?",
+    "invertida": "Invertido, el Diez de Oros señala tensiones familiares por dinero, pérdidas financieras o resistencia a cambiar tradiciones rígidas. Aconseja revisar acuerdos patrimoniales con claridad y priorizar la armonía sobre las apariencias.",
+    "imagen": null
+  },
+  {
+    "id": "m-oros-11",
+    "arcano": "menor",
+    "numero": null,
+    "palo": "Oros",
+    "figura": "Paje",
+    "nombre": "Paje de Oros",
+    "palabras_clave": [
+      "Estudio",
+      "Oportunidad",
+      "Enfoque"
+    ],
+    "esencia": "Curiosidad práctica que observa con atención una nueva oportunidad. Semilla de aprendizaje, disciplina y progreso tangible.",
+    "significado": "Simboliza inicios en estudios, noticias financieras favorables, planificación cuidadosa y disposición para aprender desde cero. Invita a tomar en serio tus metas prácticas y dar pasos concretos.",
+    "simbolos": [
+      "Joven sosteniendo pentáculo en alto",
+      "Mirada concentrada en la moneda",
+      "Túnica verde y tocado rojo",
+      "Prado florido y campos arados",
+      "Arboleda y montañas al fondo"
+    ],
+    "luz": [
+      "Mente aplicada",
+      "Nueva oportunidad",
+      "Disciplina inicial",
+      "Noticias favorables",
+      "Enfoque práctico"
+    ],
+    "sombra": [
+      "Falta de constancia",
+      "Procrastinación frecuente",
+      "Visión a corto plazo",
+      "Descuido financiero",
+      "Pereza ante el estudio"
+    ],
+    "amor": "Vínculo sincero que avanza paso a paso con atención, gestos prácticos y ganas de construir estabilidad.",
+    "trabajo_dinero": "Momento adecuado para iniciar cursos, postularte a un empleo o planificar un proyecto con metas realistas.",
+    "espiritualidad": "Aprender a encontrar lo sagrado en la atención plena, el estudio paciente y el cuidado de la tierra.",
+    "consejo": "Sostén la concentración en tu meta, aprende todo lo necesario y da el primer paso práctico.",
+    "reflexion": "¿Qué nueva habilidad o proyecto práctico estoy listo para estudiar y cultivar hoy?",
+    "invertida": "Invertido, el Paje de Oros refleja falta de enfoque, procrastinación, noticias económicas demoradas o descuido en estudios y finanzas. Invita a retomar la disciplina y aterrizar tus ideas en acciones concretas.",
+    "imagen": null
+  },
+  {
+    "id": "m-oros-12",
+    "arcano": "menor",
+    "numero": null,
+    "palo": "Oros",
+    "figura": "Caballero",
+    "nombre": "Caballero de Oros",
+    "palabras_clave": [
+      "Constancia",
+      "Responsabilidad",
+      "Método"
+    ],
+    "esencia": "Avance firme y metódico que cumple cada compromiso con paciencia. La constancia convierte metas ambiciosas en realidad.",
+    "significado": "Representa trabajo duro, confiabilidad, rutina productiva y progreso seguro aunque pausado. Indica que la perseverancia, el orden y la responsabilidad garantizan resultados sólidos y duraderos.",
+    "simbolos": [
+      "Caballero con armadura sobre caballo negro",
+      "Pentáculo dorado en mano derecha",
+      "Hojas verdes en yelmo y brida",
+      "Caballo detenido mirando campos arados",
+      "Colinas y cielo amarillo claro"
+    ],
+    "luz": [
+      "Constancia inquebrantable",
+      "Responsabilidad plena",
+      "Progreso seguro",
+      "Orden metódico",
+      "Confiabilidad total"
+    ],
+    "sombra": [
+      "Terquedad excesiva",
+      "Estancamiento por rutina",
+      "Lenta reacción",
+      "Obsesión laboral",
+      "Falta de flexibilidad"
+    ],
+    "amor": "Relación leal, estable y comprometida que se construye con paciencia, hechos concretos y confianza mutua.",
+    "trabajo_dinero": "Etapa de trabajo constante, cumplimiento de plazos y crecimiento financiero gradual. Tu reputación profesional se fortalece.",
+    "espiritualidad": "La devoción cotidiana y el compromiso fiel con tus valores anclan el espíritu en acciones reales.",
+    "consejo": "Sostén el paso firme, cumple tus compromisos con orden y fíate del poder de la constancia.",
+    "reflexion": "¿Dónde necesito aplicar hoy mayor constancia y método para consolidar mis metas?",
+    "invertida": "Invertido, el Caballero de Oros advierte sobre estancamiento, terquedad, exceso de rutina o descuido de responsabilidades importantes. Pide salir de la inercia, flexibilizar tus planes y actuar con iniciativa renovada.",
+    "imagen": null
+  },
+  {
+    "id": "m-oros-13",
+    "arcano": "menor",
+    "numero": null,
+    "palo": "Oros",
+    "figura": "Reina",
+    "nombre": "Reina de Oros",
+    "palabras_clave": [
+      "Nutrición",
+      "Practicidad",
+      "Abundancia"
+    ],
+    "esencia": "Sabiduría práctica y generosa que nutre, organiza y hace florecer. Crea hogares cálidos y prosperidad sostenible.",
+    "significado": "Representa a alguien cálido, sensato, trabajador y protector que equilibra el éxito material con el cuidado afectivo. Anima a gestionar recursos con inteligencia y nutrir tu entorno.",
+    "simbolos": [
+      "Reina sentada sosteniendo pentáculo dorado",
+      "Trono tallado con querubines y frutos",
+      "Túnica roja y manto verde",
+      "Conejo saltando entre flores",
+      "Arco de rosas y paisaje fértil"
+    ],
+    "luz": [
+      "Generosidad práctica",
+      "Estabilidad cálida",
+      "Cuidado atento",
+      "Sensatez financiera",
+      "Abundancia fértil"
+    ],
+    "sombra": [
+      "Sobreprotección controladora",
+      "Descuido personal",
+      "Materialismo excesivo",
+      "Inseguridad económica",
+      "Agotamiento por dar"
+    ],
+    "amor": "Vínculo cálido, protector y estable donde el afecto se demuestra con cuidado diario, presencia y generosidad.",
+    "trabajo_dinero": "Excelente gestión de recursos, prosperidad en negocios y capacidad para concretar proyectos con orden y sentido práctico.",
+    "espiritualidad": "Conexión sagrada con la naturaleza y el cuerpo. Honrar lo cotidiano convierte cada acto en abundancia.",
+    "consejo": "Cuida tus recursos con sensatez, nutre tus vínculos con calidez y reserva tiempo para tu propio bienestar.",
+    "reflexion": "¿De qué modo equilibro hoy el cuidado hacia los demás con mi propio bienestar?",
+    "invertida": "Invertida, la Reina de Oros señala descuido de ti mismo por atender a otros, inseguridad financiera o actitud posesiva. Invita a restablecer prioridades, equilibrar trabajo y descanso y recuperar tu estabilidad interior.",
+    "imagen": null
+  },
+  {
+    "id": "m-oros-14",
+    "arcano": "menor",
+    "numero": null,
+    "palo": "Oros",
+    "figura": "Rey",
+    "nombre": "Rey de Oros",
+    "palabras_clave": [
+      "Éxito",
+      "Seguridad",
+      "Liderazgo"
+    ],
+    "esencia": "Maestría material que lidera con solidez, visión y generosidad. Transforma ideas en prosperidad tangible y duradera.",
+    "significado": "Encarna a un líder próspero, confiable y experimentado que domina los negocios, las finanzas y la gestión práctica. Anuncia éxito consolidado, estabilidad económica y capacidad para proteger y multiplicar recursos.",
+    "simbolos": [
+      "Rey sentado en trono con toros",
+      "Pentáculo dorado en mano izquierda",
+      "Cetro corto en mano derecha",
+      "Túnica bordada con racimos de uvas",
+      "Castillo y jardines detrás del trono"
+    ],
+    "luz": [
+      "Éxito consolidado",
+      "Liderazgo confiable",
+      "Prosperidad estable",
+      "Visión empresarial",
+      "Generosidad protectora"
+    ],
+    "sombra": [
+      "Materialismo rígido",
+      "Terquedad autoritaria",
+      "Ambición desmedida",
+      "Apego al poder",
+      "Mala gestión"
+    ],
+    "amor": "Pareja leal, protectora y estable que ofrece seguridad material y compromiso firme. Conviene cultivar también ternura emocional.",
+    "trabajo_dinero": "Cumbre de logro profesional, inversiones acertadas y liderazgo sólido. Administra tus logros con ética, prudencia y generosidad.",
+    "espiritualidad": "Responsabilidad consciente sobre los dones materiales puestos al servicio del bienestar colectivo y la estabilidad.",
+    "consejo": "Lidera con sensatez, mantén tus pies firmes en la realidad y comparte tu prosperidad con sabiduría.",
+    "reflexion": "¿Cómo gestiono hoy mis recursos y liderazgo con mayor sabiduría?",
+    "invertida": "Invertido, el Rey de Oros advierte sobre materialismo excesivo, terquedad, avaricia o malas decisiones financieras por ambición. Pide replantear tus propios valores, evitar el control rígido y actuar con integridad.",
+    "imagen": null
+  }
+]

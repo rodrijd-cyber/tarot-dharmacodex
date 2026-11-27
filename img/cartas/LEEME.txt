@@ -1,0 +1,1 @@
+Coloca aquí las imágenes .webp nombradas según el ID de cada carta (ejemplo: M00.webp, m-bastos-01.webp).

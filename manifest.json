@@ -1,0 +1,20 @@
+{
+  "name": "Tarot · Dharma Codex",
+  "short_name": "Tarot Codex",
+  "description": "Cuaderno interactivo de estudio y autoconocimiento con los 78 arcanos del Tarot.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#181326",
+  "theme_color": "#181326",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "/img/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

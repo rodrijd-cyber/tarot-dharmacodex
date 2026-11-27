@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <title>Tarot · Dharma Codex — Estudio y Autoconocimiento</title>
+  <meta name="description" content="App de estudio y reflexión simbólica con las 78 cartas del Tarot. Marco de autoconocimiento." />
+  <meta name="theme-color" content="#181326" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <link rel="manifest" href="/manifest.json" />
+  <link rel="icon" href="/img/icon.svg" type="image/svg+xml" />
+  <link rel="apple-touch-icon" href="/img/icon.svg" />
+  <link rel="stylesheet" href="/css/styles.css" />
+</head>
+<body>
+  <header class="app-header">
+    <div class="header-inner">
+      <div class="brand">
+        <img src="/img/icon.svg" alt="" class="brand-icon" />
+        <div>
+          <h1>Tarot · Dharma Codex</h1>
+          <p class="brand-sub">Estudio simbólico y autoconocimiento</p>
+        </div>
+      </div>
+      <div class="header-stats" id="headerStats" aria-live="polite"></div>
+    </div>
+    <nav class="main-nav" aria-label="Navegación principal">
+      <button class="nav-btn active" data-view="explorar">Explorar (78)</button>
+      <button class="nav-btn" data-view="tiradas">Tiradas</button>
+      <button class="nav-btn" data-view="quiz">Quiz</button>
+      <button class="nav-btn" data-view="progreso">Progreso y Ajustes</button>
+    </nav>
+  </header>
+
+  <main class="app-main">
+    <!-- VISTA 1: EXPLORAR -->
+    <section id="view-explorar" class="view active">
+      <div class="toolbar">
+        <div class="search-box">
+          <input type="search" id="searchInput" placeholder="Buscar por nombre, palabra clave o esencia..." aria-label="Buscar cartas" />
+        </div>
+        <div class="filters-grid">
+          <select id="filterArcano" aria-label="Filtrar por arcano">
+            <option value="todos">Todos los arcanos</option>
+            <option value="mayor">Arcanos Mayores (22)</option>
+            <option value="menor">Arcanos Menores (56)</option>
+          </select>
+          <select id="filterPalo" aria-label="Filtrar por palo">
+            <option value="todos">Todos los palos</option>
+            <option value="Bastos">Bastos (Fuego)</option>
+            <option value="Copas">Copas (Agua)</option>
+            <option value="Espadas">Espadas (Aire)</option>
+            <option value="Oros">Oros (Tierra)</option>
+          </select>
+          <select id="filterNumero" aria-label="Filtrar por número o figura">
+            <option value="todos">Número / Figura</option>
+            <option value="0">0 (El Loco)</option>
+            <option value="1">1 / As</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+            <option value="6">6</option>
+            <option value="7">7</option>
+            <option value="8">8</option>
+            <option value="9">9</option>
+            <option value="10">10</option>
+            <option value="11-21">11 – 21 (Mayores)</option>
+            <option value="Paje">Paje</option>
+            <option value="Caballero">Caballero</option>
+            <option value="Reina">Reina</option>
+            <option value="Rey">Rey</option>
+          </select>
+          <select id="filterEstado" aria-label="Filtrar por estado de estudio">
+            <option value="todos">Cualquier estado</option>
+            <option value="nueva">Nuevas</option>
+            <option value="practica">En práctica</option>
+            <option value="dominada">Dominadas</option>
+            <option value="repasar">Para repasar</option>
+          </select>
+        </div>
+      </div>
+      <div class="results-meta" id="resultsMeta"></div>
+      <div class="cards-grid" id="cardsGrid"></div>
+    </section>
+
+    <!-- VISTA 2: TIRADAS DE PRÁCTICA -->
+    <section id="view-tiradas" class="view">
+      <div class="panel spread-setup">
+        <div class="spread-header-row">
+          <div>
+            <h2>Práctica de Tiradas</h2>
+            <p class="muted">Selecciona una tirada según tu nivel. Cada carta tiene un <strong>50 % de probabilidad independiente</strong> de salir invertida (salvo en prácticas puras con cartas derechas).</p>
+          </div>
+          <label class="toggle-pill" title="Permite desactivar globalmente las cartas invertidas durante tu práctica">
+            <input type="checkbox" id="toggleInvertidasGlobal" checked />
+            <span>Permitir invertidas (50 %)</span>
+          </label>
+        </div>
+
+        <div class="spread-selector-row">
+          <div class="field-group">
+            <label for="spreadSelect">Elegir tirada:</label>
+            <select id="spreadSelect"></select>
+          </div>
+          <button id="btnDrawSpread" class="btn-primary">Barajar y sacar cartas</button>
+        </div>
+
+        <div id="spreadInfoBox" class="spread-info-box"></div>
+      </div>
+
+      <div id="spreadProbabilityBanner" class="prob-banner hidden"></div>
+      <div id="spreadBoard" class="spread-board"></div>
+
+      <div id="spreadGuideBox" class="panel spread-guide hidden">
+        <h3>Guía de lectura reflexiva</h3>
+        <p id="spreadGuideText"></p>
+      </div>
+    </section>
+
+    <!-- VISTA 3: QUIZ DE ESTUDIO -->
+    <section id="view-quiz" class="view">
+      <div class="panel quiz-container">
+        <div class="quiz-top">
+          <div>
+            <h2>Quiz de Memoria Simbólica</h2>
+            <p class="muted">Intenta recordar la esencia, palabras clave y consejos de la carta antes de revelar la respuesta.</p>
+          </div>
+          <div class="quiz-controls">
+            <select id="quizMode" aria-label="Modo de quiz">
+              <option value="nombre">Pista: Nombre de la carta</option>
+              <option value="clave">Pista: Palabras clave y esencia</option>
+              <option value="repasar">Priorizar cartas para repasar</option>
+            </select>
+            <button id="btnNextQuiz" class="btn-primary">Siguiente carta</button>
+          </div>
+        </div>
+
+        <div id="quizCardArea" class="quiz-stage"></div>
+      </div>
+    </section>
+
+    <!-- VISTA 4: PROGRESO Y CONFIGURACIÓN -->
+    <section id="view-progreso" class="view">
+      <div class="stats-overview" id="progressOverview"></div>
+
+      <div class="two-col">
+        <div class="panel">
+          <h3>Cartas para repasar</h3>
+          <p class="muted small">Incluye cartas marcadas manualmente como difíciles o que llevan más de 5 días sin repasarse.</p>
+          <div id="reviewList" class="review-list"></div>
+        </div>
+
+        <div class="panel">
+          <h3>Respaldo y Configuración Local</h3>
+          <p class="muted small">Tu progreso se guarda automáticamente en este dispositivo mediante <code>localStorage</code>. Puedes exportar una copia de seguridad en JSON en cualquier momento.</p>
+          <div class="backup-actions">
+            <button id="btnExportProgress" class="btn-secondary">Exportar progreso (.json)</button>
+            <label class="btn-secondary file-label">
+              Importar progreso (.json)
+              <input type="file" id="inputImportProgress" accept=".json,application/json" hidden />
+            </label>
+          </div>
+          <hr class="divider" />
+          <div class="danger-zone">
+            <p class="muted small">¿Quieres reiniciar todas las notas y niveles de dominio en este navegador?</p>
+            <button id="btnResetProgress" class="btn-danger">Reiniciar progreso local</button>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- MODAL: FICHA DE CARTA -->
+  <div id="cardModal" class="modal hidden" role="dialog" aria-modal="true" aria-labelledby="modalCardTitle">
+    <div class="modal-backdrop" id="modalBackdrop"></div>
+    <div class="modal-content">
+      <button class="modal-close" id="modalClose" aria-label="Cerrar ficha">&times;</button>
+      <div id="modalBody" class="card-sheet"></div>
+    </div>
+  </div>
+
+  <div id="toast" class="toast hidden" role="status" aria-live="polite"></div>
+
+  <script src="/js/app.js"></script>
+</body>
+</html>
