@@ -422,7 +422,7 @@ function binomialProbability(n, k, p = REVERSED_PROB) {
     const invNote = !s.invertidas
       ? 'Práctica pura con cartas derechas (0 % invertidas en esta tirada).'
       : activeInv
-        ? 'Cartas invertidas activas: 50 % de probabilidad independiente por carta.'
+        ? 'Cartas invertidas activas: 15 % de probabilidad independiente por carta.'
         : 'Invertidas desactivadas temporalmente en tu configuración (0 % invertidas).';
 
     document.getElementById('spreadInfoBox').innerHTML = `
