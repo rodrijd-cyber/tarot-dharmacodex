@@ -1,4 +1,4 @@
-const CACHE_NAME = 'tarot-dharmacodex-v2';
+const CACHE_NAME = 'tarot-dharmacodex-v3';
 const ASSETS = [
   '/',
   '/index.html',

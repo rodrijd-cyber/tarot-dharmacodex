@@ -598,7 +598,8 @@ select {
 
 .spread-board {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(220px, 260px));
+  justify-content: center;
   gap: 1rem;
   margin-bottom: 1.25rem;
 }
@@ -630,6 +631,14 @@ select {
 .slot-meaning {
   font-size: 0.82rem;
   color: var(--text-muted);
+}
+
+/* Tamaño fijo de la carta dentro de cada espacio de tirada (evita que se estire en PC) */
+.spread-slot .card-thumb-wrap,
+.spread-slot .card-back {
+  width: 100%;
+  max-width: 190px;
+  align-self: center;
 }
 
 .rotated-180 {
